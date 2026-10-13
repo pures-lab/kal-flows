@@ -1,6 +1,6 @@
-run_at_kst=2026-10-14 01:11
-[OK] naver-trend 대한항공(003490) rows=60 cols=['itemCode', 'bizdate', 'foreignerPureBuyQuant', 'foreignerHoldRatio', 'organPureBuyQuant', 'individualPureBuyQuant', 'closePrice', 'compareToPreviousClosePrice', 'compareToPreviousPrice', 'accumulatedTradingVolume'] -> data/003490_naver_trend.csv
-[FAIL] naver-frgn 대한항공(003490): RuntimeError: no rows parsed
-[FAIL] naver-market KOSPI: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/investorDealTrendDay.naver?bizdate=20261014&sosok=01&page=1
-pykrx version=1.2.9
-[FAIL] pykrx 대한항공(003490): RuntimeError: empty result (KRX may require login)
+run_at_kst=2026-10-14 01:30
+[OK] 대한항공(003490) rows=60 last=20261013 -> data/003490_naver_trend.csv
+[OK] NAVER(035420) rows=60 last=20261013 -> data/035420_naver_trend.csv
+[OK] 엔씨소프트(036570) rows=60 last=20261013 -> data/036570_naver_trend.csv
+[OK] 하이브(352820) rows=60 last=20261013 -> data/352820_naver_trend.csv
+[OK] 한화솔루션(009830) rows=60 last=20261013 -> data/009830_naver_trend.csv
