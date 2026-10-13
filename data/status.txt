@@ -1,4 +1,6 @@
-run_at_kst=2026-10-14 01:02
-[FAIL] pykrx 대한항공(003490): RuntimeError: empty result
-[FAIL] pykrx KOSPI: RuntimeError: empty result
-[FAIL] naver 대한항공(003490): ImportError: Missing optional dependency 'beautifulsoup4'.  Use pip or conda to install beautifulsoup4.
+run_at_kst=2026-10-14 01:11
+[OK] naver-trend 대한항공(003490) rows=60 cols=['itemCode', 'bizdate', 'foreignerPureBuyQuant', 'foreignerHoldRatio', 'organPureBuyQuant', 'individualPureBuyQuant', 'closePrice', 'compareToPreviousClosePrice', 'compareToPreviousPrice', 'accumulatedTradingVolume'] -> data/003490_naver_trend.csv
+[FAIL] naver-frgn 대한항공(003490): RuntimeError: no rows parsed
+[FAIL] naver-market KOSPI: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/investorDealTrendDay.naver?bizdate=20261014&sosok=01&page=1
+pykrx version=1.2.9
+[FAIL] pykrx 대한항공(003490): RuntimeError: empty result (KRX may require login)
