@@ -1,0 +1,41 @@
+name: fetch-flows
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 16:40 KST (07:40 UTC), Mon-Fri, after KRX close and data settlement
+    - cron: "40 7 * * 1-5"
+    # 18:40 KST retry, in case the first run was early or KRX was slow
+    - cron: "40 9 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install pykrx pandas lxml html5lib requests
+
+      - name: Fetch flows
+        run: python fetch_flows.py
+        continue-on-error: true
+
+      - name: Show status
+        run: cat data/status.txt || true
+
+      - name: Commit data
+        run: |
+          git config user.name "flow-bot"
+          git config user.email "flow-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: flows $(TZ=Asia/Seoul date +%F_%H%M)"
+          git push
