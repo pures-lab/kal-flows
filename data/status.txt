@@ -1,0 +1,4 @@
+run_at_kst=2026-10-14 01:02
+[FAIL] pykrx 대한항공(003490): RuntimeError: empty result
+[FAIL] pykrx KOSPI: RuntimeError: empty result
+[FAIL] naver 대한항공(003490): ImportError: Missing optional dependency 'beautifulsoup4'.  Use pip or conda to install beautifulsoup4.
