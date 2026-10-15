@@ -1,6 +1,6 @@
-run_at_kst=2026-10-14 19:05
-[OK] 대한항공(003490) rows=60 last=20261013 -> data/003490_naver_trend.csv
-[OK] NAVER(035420) rows=60 last=20261013 -> data/035420_naver_trend.csv
-[OK] 엔씨소프트(036570) rows=60 last=20261013 -> data/036570_naver_trend.csv
-[OK] 하이브(352820) rows=60 last=20261013 -> data/352820_naver_trend.csv
-[OK] 한화솔루션(009830) rows=60 last=20261013 -> data/009830_naver_trend.csv
+run_at_kst=2026-10-15 17:11
+[OK] 대한항공(003490) rows=60 last=20261014 -> data/003490_naver_trend.csv
+[OK] NAVER(035420) rows=60 last=20261014 -> data/035420_naver_trend.csv
+[OK] 엔씨소프트(036570) rows=60 last=20261014 -> data/036570_naver_trend.csv
+[OK] 하이브(352820) rows=60 last=20261014 -> data/352820_naver_trend.csv
+[OK] 한화솔루션(009830) rows=60 last=20261014 -> data/009830_naver_trend.csv
