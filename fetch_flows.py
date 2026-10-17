@@ -2,11 +2,13 @@
 
 For each ticker: daily 개인/외국인/기관 net-buy volume, close, volume, 외국인 보유율
 for the last ~60 trading days -> data/<code>_naver_trend.csv (+ raw JSON).
+Plus ~1 year of daily OHLCV (Naver chart feed) -> data/<code>_ohlcv.csv.
 data/status.txt records what worked.
 """
 import glob
 import json
 import os
+import re
 import sys
 import traceback
 from datetime import datetime, timedelta, timezone
@@ -57,6 +59,33 @@ def fetch_naver_trend(code: str, name: str) -> None:
     log(f"[OK] {name}({code}) rows={len(df)} last={df['bizdate'].iloc[0]} -> {path}")
 
 
+def fetch_ohlcv(code: str, name: str, count: int = 300) -> None:
+    url = (
+        "https://fchart.stock.naver.com/sise.nhn"
+        f"?symbol={code}&timeframe=day&count={count}&requestType=0"
+    )
+    r = requests.get(url, headers=UA, timeout=20)
+    r.raise_for_status()
+    text = r.content.decode("euc-kr", errors="replace")
+    items = re.findall(r'data="([^"]+)"', text)
+    if not items:
+        with open(f"{DATA_DIR}/{code}_ohlcv_raw.txt", "w", encoding="utf-8") as f:
+            f.write(text[:5000])
+        raise RuntimeError("no items in chart feed")
+    rows = []
+    for it in items:
+        parts = it.split("|")
+        if len(parts) >= 6:
+            rows.append(parts[:6])
+    df = pd.DataFrame(rows, columns=["date", "open", "high", "low", "close", "volume"])
+    for c in ["open", "high", "low", "close", "volume"]:
+        df[c] = pd.to_numeric(df[c], errors="coerce")
+    df = df.sort_values("date")
+    path = f"{DATA_DIR}/{code}_ohlcv.csv"
+    df.to_csv(path, index=False, encoding="utf-8-sig")
+    log(f"[OK] ohlcv {name}({code}) rows={len(df)} {df['date'].iloc[0]}~{df['date'].iloc[-1]} -> {path}")
+
+
 def main() -> int:
     os.makedirs(DATA_DIR, exist_ok=True)
     for old in glob.glob(f"{DATA_DIR}/debug_*.html"):
@@ -68,6 +97,11 @@ def main() -> int:
             fetch_naver_trend(code, name)
         except Exception as e:  # noqa: BLE001
             log(f"[FAIL] {name}({code}): {type(e).__name__}: {e}")
+            traceback.print_exc()
+        try:
+            fetch_ohlcv(code, name)
+        except Exception as e:  # noqa: BLE001
+            log(f"[FAIL] ohlcv {name}({code}): {type(e).__name__}: {e}")
             traceback.print_exc()
 
     with open(f"{DATA_DIR}/status.txt", "w", encoding="utf-8") as f:
