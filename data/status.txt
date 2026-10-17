@@ -1,8 +1,15 @@
-run_at_kst=2026-10-18 02:14
+run_at_kst=2026-10-18 03:46
 [OK] 대한항공(003490) rows=60 last=20261016 -> data/003490_naver_trend.csv
+[OK] ohlcv 대한항공(003490) rows=300 20250723~20261016 -> data/003490_ohlcv.csv
 [OK] NAVER(035420) rows=60 last=20261016 -> data/035420_naver_trend.csv
+[OK] ohlcv NAVER(035420) rows=300 20250723~20261016 -> data/035420_ohlcv.csv
 [OK] 엔씨소프트(036570) rows=60 last=20261016 -> data/036570_naver_trend.csv
+[OK] ohlcv 엔씨소프트(036570) rows=300 20250723~20261016 -> data/036570_ohlcv.csv
 [OK] 하이브(352820) rows=60 last=20261016 -> data/352820_naver_trend.csv
+[OK] ohlcv 하이브(352820) rows=300 20250723~20261016 -> data/352820_ohlcv.csv
 [OK] 한화솔루션(009830) rows=60 last=20261016 -> data/009830_naver_trend.csv
+[OK] ohlcv 한화솔루션(009830) rows=300 20250723~20261016 -> data/009830_ohlcv.csv
 [OK] 삼성전자(005930) rows=60 last=20261016 -> data/005930_naver_trend.csv
+[OK] ohlcv 삼성전자(005930) rows=300 20250723~20261016 -> data/005930_ohlcv.csv
 [OK] SK하이닉스(000660) rows=60 last=20261016 -> data/000660_naver_trend.csv
+[OK] ohlcv SK하이닉스(000660) rows=300 20250723~20261016 -> data/000660_ohlcv.csv
