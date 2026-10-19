@@ -1,4 +1,4 @@
-run_at_kst=2026-10-20 00:31
+run_at_kst=2026-10-20 00:36
 [OK] 대한항공(003490) rows=60 last=20261019 -> data/003490_naver_trend.csv
 [OK] ohlcv 대한항공(003490) rows=300 20250724~20261019 -> data/003490_ohlcv.csv
 [OK] NAVER(035420) rows=60 last=20261019 -> data/035420_naver_trend.csv
@@ -19,3 +19,11 @@ run_at_kst=2026-10-20 00:31
 [OK] ohlcv 더블유씨피(393890) rows=300 20250724~20261019 -> data/393890_ohlcv.csv
 [OK] SK아이이테크놀로지(361610) rows=60 last=20261019 -> data/361610_naver_trend.csv
 [OK] ohlcv SK아이이테크놀로지(361610) rows=300 20250724~20261019 -> data/361610_ohlcv.csv
+[FAIL] rank KOSPI_foreign_buy: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=01&investor_gubun=9000&type=buy
+[FAIL] rank KOSPI_foreign_sell: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=01&investor_gubun=9000&type=sell
+[FAIL] rank KOSPI_inst_buy: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=01&investor_gubun=1000&type=buy
+[FAIL] rank KOSPI_inst_sell: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=01&investor_gubun=1000&type=sell
+[FAIL] rank KOSDAQ_foreign_buy: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=02&investor_gubun=9000&type=buy
+[FAIL] rank KOSDAQ_foreign_sell: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=02&investor_gubun=9000&type=sell
+[FAIL] rank KOSDAQ_inst_buy: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=02&investor_gubun=1000&type=buy
+[FAIL] rank KOSDAQ_inst_sell: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=02&investor_gubun=1000&type=sell
