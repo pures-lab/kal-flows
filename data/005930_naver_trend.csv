@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-005930,삼성전자,20261016,"+906,438",46.00%,"-1,447,523","-40,774","217,000","7,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","18,332,314"
+005930,삼성전자,20261016,"+906,438",45.99%,"-1,447,523","-40,774","217,000","7,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","18,908,560"
 005930,삼성전자,20261015,"-7,280,040",45.98%,"+2,391,459","+4,658,533","207,500","-24,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","34,330,565"
 005930,삼성전자,20261014,"-829,758",46.16%,"+310,050","+505,494","234,500","2,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","19,009,052"
 005930,삼성전자,20261013,"-5,943,474",46.18%,"+1,016,744","+5,221,370","234,000","-16,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","26,790,913"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-036570,엔씨소프트,20261016,"+14,060",38.32%,"+13,370","-27,524","208,500","7,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","127,040"
+036570,엔씨소프트,20261016,"+14,060",38.29%,"+13,370","-27,524","208,500","7,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","127,040"
 036570,엔씨소프트,20261015,"+11,368",38.25%,"+2,380","-13,847","199,000","-7,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","119,782"
 036570,엔씨소프트,20261014,"+11,862",38.09%,"-7,555","-3,593","206,500",-500,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","80,305"
 036570,엔씨소프트,20261013,"+11,046",38.02%,"-5,453","-5,565","206,500","-2,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","104,478"

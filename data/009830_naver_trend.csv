@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-009830,한화솔루션,20261016,"-112,962",12.79%,"+74,636","+39,687","31,400","1,250","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,483,431"
+009830,한화솔루션,20261016,"-112,962",12.81%,"+74,636","+39,687","31,400","1,250","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,483,431"
 009830,한화솔루션,20261015,"-496,173",12.84%,"+276,605","+220,129","29,600","-3,750","{'code': '5', 'text': '하락', 'name': 'FALLING'}","3,272,027"
 009830,한화솔루션,20261014,"-190,291",13.04%,"+329,091","-153,300","33,550",800,"{'code': '2', 'text': '상승', 'name': 'RISING'}","2,374,690"
 009830,한화솔루션,20261013,"+19,929",13.21%,"+77,269","-74,025","32,800","-1,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","3,595,553"

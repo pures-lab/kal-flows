@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-352820,하이브,20261016,"+51,217",18.36%,"+165,792","-214,950","177,500","12,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","556,163"
+352820,하이브,20261016,"+51,217",18.43%,"+165,792","-214,950","177,500","12,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","556,163"
 352820,하이브,20261015,"+29,363",18.25%,"+102,022","-136,304","164,000",200,"{'code': '2', 'text': '상승', 'name': 'RISING'}","354,259"
 352820,하이브,20261014,"-43,982",18.33%,"+52,422","-8,496","163,800",400,"{'code': '2', 'text': '상승', 'name': 'RISING'}","271,729"
 352820,하이브,20261013,"+58,627",18.31%,"+97,247","-154,355","162,200","5,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","277,549"
