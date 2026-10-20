@@ -3,9 +3,13 @@ name: fetch-flows
 on:
   workflow_dispatch:
   schedule:
-    # 20:40 KST (11:40 UTC), Mon-Fri, after KRX/NXT final data (~20:05)
+    # 15:50 KST (06:50 UTC) - KRX regular-session data (~15:35)
+    - cron: "50 6 * * 1-5"
+    # 18:10 KST (09:10 UTC) - mid-evening refresh
+    - cron: "10 9 * * 1-5"
+    # 20:40 KST (11:40 UTC) - final incl. NXT (~20:05)
     - cron: "40 11 * * 1-5"
-    # 22:30 KST retry
+    # 22:30 KST (13:30 UTC) - retry
     - cron: "30 13 * * 1-5"
 
 permissions:
