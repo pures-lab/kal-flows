@@ -23,14 +23,25 @@ jobs:
           python-version: "3.11"
 
       - name: Install deps
-        run: pip install pykrx pandas lxml html5lib requests
+        run: |
+          pip install pandas lxml requests
+          pip install git+https://github.com/beaten-by-the-market/krx-data-api.git
 
-      - name: Fetch flows
+      - name: Fetch flows (Naver)
         run: python fetch_flows.py
         continue-on-error: true
 
+      - name: Fetch KRX (login)
+        run: python krx_fetch.py
+        continue-on-error: true
+        env:
+          KRX_ID: ${{ secrets.KRX_ID }}
+          KRX_PW: ${{ secrets.KRX_PW }}
+
       - name: Show status
-        run: cat data/status.txt || true
+        run: |
+          cat data/status.txt || true
+          cat data/krx/status.txt || true
 
       - name: Commit data
         run: |
