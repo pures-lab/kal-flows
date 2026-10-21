@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-035420,NAVER,20261020,"+1,337",35.34%,"-76,017","+75,407","176,800","-6,100","{'code': '5', 'text': '하락', 'name': 'FALLING'}","433,981"
+035420,NAVER,20261020,"+1,337",35.35%,"-76,017","+75,407","176,800","-6,100","{'code': '5', 'text': '하락', 'name': 'FALLING'}","436,567"
 035420,NAVER,20261019,"-29,330",35.34%,"+69,576","-39,367","182,600","2,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","481,726"
 035420,NAVER,20261016,"+141,643",35.35%,"+25,194","-166,567","180,300","6,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","670,853"
 035420,NAVER,20261015,"-39,871",35.24%,"+187,971","-142,152","171,400","-8,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","939,052"

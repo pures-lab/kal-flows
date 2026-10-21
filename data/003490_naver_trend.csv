@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-003490,대한항공,20261020,"-141,460",26.66%,"-123,066","+305,577","26,050","-1,050","{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,402,237"
+003490,대한항공,20261020,"-141,460",26.66%,"-123,066","+305,577","26,050","-1,050","{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,978,527"
 003490,대한항공,20261019,"+681,838",26.70%,"-321,352","-362,031","26,950",600,"{'code': '2', 'text': '상승', 'name': 'RISING'}","3,229,902"
 003490,대한항공,20261016,"-1,557,358",26.51%,"-1,554,325","+3,083,691","26,500","-2,950","{'code': '5', 'text': '하락', 'name': 'FALLING'}","8,400,986"
 003490,대한항공,20261015,"+701,366",26.94%,"+19,952","-684,252","29,200",-950,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,912,696"
