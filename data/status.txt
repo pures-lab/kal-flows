@@ -1,4 +1,4 @@
-run_at_kst=2026-10-26 16:35
+run_at_kst=2026-10-26 18:43
 [OK] 대한항공(003490) rows=60 last=20261023 -> data/003490_naver_trend.csv
 [OK] ohlcv 대한항공(003490) rows=300 20250731~20261026 -> data/003490_ohlcv.csv
 [OK] NAVER(035420) rows=60 last=20261023 -> data/035420_naver_trend.csv
