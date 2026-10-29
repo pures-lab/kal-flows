@@ -1,23 +1,23 @@
-run_at_kst=2026-10-29 18:51
-[OK] 대한항공(003490) rows=60 last=20261028 -> data/003490_naver_trend.csv
+run_at_kst=2026-10-29 21:15
+[OK] 대한항공(003490) rows=60 last=20261029 -> data/003490_naver_trend.csv
 [OK] ohlcv 대한항공(003490) rows=300 20250805~20261029 -> data/003490_ohlcv.csv
-[OK] NAVER(035420) rows=60 last=20261028 -> data/035420_naver_trend.csv
+[OK] NAVER(035420) rows=60 last=20261029 -> data/035420_naver_trend.csv
 [OK] ohlcv NAVER(035420) rows=300 20250805~20261029 -> data/035420_ohlcv.csv
-[OK] 엔씨소프트(036570) rows=60 last=20261028 -> data/036570_naver_trend.csv
+[OK] 엔씨소프트(036570) rows=60 last=20261029 -> data/036570_naver_trend.csv
 [OK] ohlcv 엔씨소프트(036570) rows=300 20250805~20261029 -> data/036570_ohlcv.csv
-[OK] 하이브(352820) rows=60 last=20261028 -> data/352820_naver_trend.csv
+[OK] 하이브(352820) rows=60 last=20261029 -> data/352820_naver_trend.csv
 [OK] ohlcv 하이브(352820) rows=300 20250805~20261029 -> data/352820_ohlcv.csv
-[OK] 한화솔루션(009830) rows=60 last=20261028 -> data/009830_naver_trend.csv
+[OK] 한화솔루션(009830) rows=60 last=20261029 -> data/009830_naver_trend.csv
 [OK] ohlcv 한화솔루션(009830) rows=300 20250805~20261029 -> data/009830_ohlcv.csv
-[OK] 삼성전자(005930) rows=60 last=20261028 -> data/005930_naver_trend.csv
+[OK] 삼성전자(005930) rows=60 last=20261029 -> data/005930_naver_trend.csv
 [OK] ohlcv 삼성전자(005930) rows=300 20250805~20261029 -> data/005930_ohlcv.csv
-[OK] SK하이닉스(000660) rows=60 last=20261028 -> data/000660_naver_trend.csv
+[OK] SK하이닉스(000660) rows=60 last=20261029 -> data/000660_naver_trend.csv
 [OK] ohlcv SK하이닉스(000660) rows=300 20250805~20261029 -> data/000660_ohlcv.csv
-[OK] 삼성SDI(006400) rows=60 last=20261028 -> data/006400_naver_trend.csv
+[OK] 삼성SDI(006400) rows=60 last=20261029 -> data/006400_naver_trend.csv
 [OK] ohlcv 삼성SDI(006400) rows=300 20250805~20261029 -> data/006400_ohlcv.csv
-[OK] 더블유씨피(393890) rows=60 last=20261028 -> data/393890_naver_trend.csv
+[OK] 더블유씨피(393890) rows=60 last=20261029 -> data/393890_naver_trend.csv
 [OK] ohlcv 더블유씨피(393890) rows=300 20250805~20261029 -> data/393890_ohlcv.csv
-[OK] SK아이이테크놀로지(361610) rows=60 last=20261028 -> data/361610_naver_trend.csv
+[OK] SK아이이테크놀로지(361610) rows=60 last=20261029 -> data/361610_naver_trend.csv
 [OK] ohlcv SK아이이테크놀로지(361610) rows=300 20250805~20261029 -> data/361610_ohlcv.csv
 [FAIL] rank KOSPI_foreign_buy: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=01&investor_gubun=9000&type=buy
 [FAIL] rank KOSPI_foreign_sell: HTTPError: 410 Client Error: 410 for url: https://finance.naver.com/sise/sise_deal_rank_iframe.naver?sosok=01&investor_gubun=9000&type=sell
