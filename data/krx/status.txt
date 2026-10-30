@@ -1,4 +1,4 @@
-run_at_kst=2026-10-30 21:15
+run_at_kst=2026-10-30 23:26
 [OK] login
 [OK] listed_stocks rows=2874
 [OK] 대한항공(003490) rows=60 first_row_date=2026/10/30 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
