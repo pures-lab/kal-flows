@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-000660,SK하이닉스,20261030,"-300,349",48.67%,"-131,567","+191,452","1,391,000","-135,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","3,769,922"
+000660,SK하이닉스,20261030,"-300,349",48.68%,"-131,567","+191,452","1,391,000","-135,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","3,859,903"
 000660,SK하이닉스,20261029,"+295,478",48.72%,"-167,108","-371,519","1,516,000","29,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","4,549,384"
 000660,SK하이닉스,20261028,"+258,356",48.66%,"+149,385","-406,617","1,508,000","167,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","4,244,800"
 000660,SK하이닉스,20261027,"-51,049",48.61%,"+113,396","-67,933","1,374,000","99,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","3,136,495"
