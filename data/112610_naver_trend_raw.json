@@ -1,0 +1,962 @@
+[
+ {
+  "itemCode": "112610",
+  "bizdate": "20261105",
+  "foreignerPureBuyQuant": "+81,034",
+  "foreignerHoldRatio": "14.96%",
+  "organPureBuyQuant": "+174,162",
+  "individualPureBuyQuant": "-239,104",
+  "closePrice": "47,500",
+  "compareToPreviousClosePrice": "2,850",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "2,489,098"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261104",
+  "foreignerPureBuyQuant": "-280,728",
+  "foreignerHoldRatio": "14.77%",
+  "organPureBuyQuant": "-54,563",
+  "individualPureBuyQuant": "+332,399",
+  "closePrice": "44,400",
+  "compareToPreviousClosePrice": "2,900",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "2,646,044"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261103",
+  "foreignerPureBuyQuant": "-147,529",
+  "foreignerHoldRatio": "15.67%",
+  "organPureBuyQuant": "+81,690",
+  "individualPureBuyQuant": "+65,102",
+  "closePrice": "42,700",
+  "compareToPreviousClosePrice": "1,600",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "567,833"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261102",
+  "foreignerPureBuyQuant": "-49,207",
+  "foreignerHoldRatio": "16.02%",
+  "organPureBuyQuant": "+134,578",
+  "individualPureBuyQuant": "-99,990",
+  "closePrice": "41,350",
+  "compareToPreviousClosePrice": "3,050",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "460,344"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261030",
+  "foreignerPureBuyQuant": "-55,692",
+  "foreignerHoldRatio": "16.22%",
+  "organPureBuyQuant": "+9,595",
+  "individualPureBuyQuant": "+45,060",
+  "closePrice": "37,750",
+  "compareToPreviousClosePrice": "-450",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "318,275"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261029",
+  "foreignerPureBuyQuant": "+25,495",
+  "foreignerHoldRatio": "16.36%",
+  "organPureBuyQuant": "-146,835",
+  "individualPureBuyQuant": "+116,676",
+  "closePrice": "38,300",
+  "compareToPreviousClosePrice": "-900",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "504,421"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261028",
+  "foreignerPureBuyQuant": "+37,955",
+  "foreignerHoldRatio": "16.30%",
+  "organPureBuyQuant": "-121,642",
+  "individualPureBuyQuant": "+90,490",
+  "closePrice": "39,650",
+  "compareToPreviousClosePrice": "100",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "497,734"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261027",
+  "foreignerPureBuyQuant": "+62,915",
+  "foreignerHoldRatio": "16.14%",
+  "organPureBuyQuant": "-190,960",
+  "individualPureBuyQuant": "+127,631",
+  "closePrice": "39,700",
+  "compareToPreviousClosePrice": "-850",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "568,308"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261026",
+  "foreignerPureBuyQuant": "+3,890",
+  "foreignerHoldRatio": "16.00%",
+  "organPureBuyQuant": "-63,619",
+  "individualPureBuyQuant": "+59,461",
+  "closePrice": "40,600",
+  "compareToPreviousClosePrice": "-3,150",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "293,855"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261023",
+  "foreignerPureBuyQuant": "+14,125",
+  "foreignerHoldRatio": "15.99%",
+  "organPureBuyQuant": "-29,736",
+  "individualPureBuyQuant": "+14,873",
+  "closePrice": "43,450",
+  "compareToPreviousClosePrice": "-1,250",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "260,785"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261022",
+  "foreignerPureBuyQuant": "+85,383",
+  "foreignerHoldRatio": "15.96%",
+  "organPureBuyQuant": "-100,430",
+  "individualPureBuyQuant": "+15,166",
+  "closePrice": "44,200",
+  "compareToPreviousClosePrice": "-1,200",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "376,439"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261021",
+  "foreignerPureBuyQuant": "+73,165",
+  "foreignerHoldRatio": "15.75%",
+  "organPureBuyQuant": "-104,651",
+  "individualPureBuyQuant": "+30,630",
+  "closePrice": "45,550",
+  "compareToPreviousClosePrice": "-1,700",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "495,175"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261020",
+  "foreignerPureBuyQuant": "-70,915",
+  "foreignerHoldRatio": "15.58%",
+  "organPureBuyQuant": "-93,197",
+  "individualPureBuyQuant": "+168,446",
+  "closePrice": "47,150",
+  "compareToPreviousClosePrice": "-7,550",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "599,020"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261019",
+  "foreignerPureBuyQuant": "-37,481",
+  "foreignerHoldRatio": "15.74%",
+  "organPureBuyQuant": "+81,798",
+  "individualPureBuyQuant": "-41,990",
+  "closePrice": "54,500",
+  "compareToPreviousClosePrice": "3,900",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "350,314"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261016",
+  "foreignerPureBuyQuant": "-58,283",
+  "foreignerHoldRatio": "15.82%",
+  "organPureBuyQuant": "+43,101",
+  "individualPureBuyQuant": "+14,331",
+  "closePrice": "51,200",
+  "compareToPreviousClosePrice": "700",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "767,900"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261015",
+  "foreignerPureBuyQuant": "-48,749",
+  "foreignerHoldRatio": "15.95%",
+  "organPureBuyQuant": "+75,450",
+  "individualPureBuyQuant": "-25,513",
+  "closePrice": "49,750",
+  "compareToPreviousClosePrice": "-3,550",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "362,406"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261014",
+  "foreignerPureBuyQuant": "-67,787",
+  "foreignerHoldRatio": "16.06%",
+  "organPureBuyQuant": "+81,396",
+  "individualPureBuyQuant": "-13,485",
+  "closePrice": "53,300",
+  "compareToPreviousClosePrice": "-200",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "305,499"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261013",
+  "foreignerPureBuyQuant": "+70,096",
+  "foreignerHoldRatio": "16.21%",
+  "organPureBuyQuant": "+1,140",
+  "individualPureBuyQuant": "-73,053",
+  "closePrice": "54,200",
+  "compareToPreviousClosePrice": "-1,200",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "572,995"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261012",
+  "foreignerPureBuyQuant": "-52,901",
+  "foreignerHoldRatio": "15.99%",
+  "organPureBuyQuant": "+155,692",
+  "individualPureBuyQuant": "-100,658",
+  "closePrice": "55,200",
+  "compareToPreviousClosePrice": "-500",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "431,483"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261008",
+  "foreignerPureBuyQuant": "-3,483",
+  "foreignerHoldRatio": "16.11%",
+  "organPureBuyQuant": "+17,560",
+  "individualPureBuyQuant": "-13,480",
+  "closePrice": "55,400",
+  "compareToPreviousClosePrice": "-1,800",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "320,301"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261007",
+  "foreignerPureBuyQuant": "-47,578",
+  "foreignerHoldRatio": "16.09%",
+  "organPureBuyQuant": "+30,184",
+  "individualPureBuyQuant": "+14,336",
+  "closePrice": "56,900",
+  "compareToPreviousClosePrice": "-600",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "260,590"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261006",
+  "foreignerPureBuyQuant": "-91,024",
+  "foreignerHoldRatio": "16.04%",
+  "organPureBuyQuant": "+230,605",
+  "individualPureBuyQuant": "-139,714",
+  "closePrice": "57,800",
+  "compareToPreviousClosePrice": "2,400",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "581,502"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261002",
+  "foreignerPureBuyQuant": "-67,898",
+  "foreignerHoldRatio": "16.26%",
+  "organPureBuyQuant": "+115,899",
+  "individualPureBuyQuant": "-53,376",
+  "closePrice": "55,300",
+  "compareToPreviousClosePrice": "700",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "417,600"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20261001",
+  "foreignerPureBuyQuant": "+25,418",
+  "foreignerHoldRatio": "16.44%",
+  "organPureBuyQuant": "+225,848",
+  "individualPureBuyQuant": "-250,400",
+  "closePrice": "54,000",
+  "compareToPreviousClosePrice": "3,100",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "564,956"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260930",
+  "foreignerPureBuyQuant": "+26,355",
+  "foreignerHoldRatio": "16.38%",
+  "organPureBuyQuant": "+16,048",
+  "individualPureBuyQuant": "-42,272",
+  "closePrice": "51,400",
+  "compareToPreviousClosePrice": "1,000",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "286,123"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260929",
+  "foreignerPureBuyQuant": "-150,864",
+  "foreignerHoldRatio": "16.31%",
+  "organPureBuyQuant": "+69,133",
+  "individualPureBuyQuant": "+81,870",
+  "closePrice": "50,700",
+  "compareToPreviousClosePrice": "-2,200",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "398,119"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260928",
+  "foreignerPureBuyQuant": "-21,985",
+  "foreignerHoldRatio": "16.67%",
+  "organPureBuyQuant": "+106,861",
+  "individualPureBuyQuant": "-88,157",
+  "closePrice": "52,800",
+  "compareToPreviousClosePrice": "2,700",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "459,796"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260923",
+  "foreignerPureBuyQuant": "-14,970",
+  "foreignerHoldRatio": "16.71%",
+  "organPureBuyQuant": "+17,827",
+  "individualPureBuyQuant": "-2,967",
+  "closePrice": "50,100",
+  "compareToPreviousClosePrice": "-300",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "193,735"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260922",
+  "foreignerPureBuyQuant": "+21,143",
+  "foreignerHoldRatio": "16.75%",
+  "organPureBuyQuant": "+14,450",
+  "individualPureBuyQuant": "-35,451",
+  "closePrice": "50,200",
+  "compareToPreviousClosePrice": "-200",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "215,128"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260921",
+  "foreignerPureBuyQuant": "+1,197",
+  "foreignerHoldRatio": "16.70%",
+  "organPureBuyQuant": "+7,926",
+  "individualPureBuyQuant": "-7,236",
+  "closePrice": "50,400",
+  "compareToPreviousClosePrice": "-1,000",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "243,728"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260918",
+  "foreignerPureBuyQuant": "-21,974",
+  "foreignerHoldRatio": "16.69%",
+  "organPureBuyQuant": "+48,787",
+  "individualPureBuyQuant": "-25,993",
+  "closePrice": "51,800",
+  "compareToPreviousClosePrice": "200",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "422,933"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260917",
+  "foreignerPureBuyQuant": "-4,648",
+  "foreignerHoldRatio": "16.74%",
+  "organPureBuyQuant": "+37,502",
+  "individualPureBuyQuant": "-30,136",
+  "closePrice": "51,400",
+  "compareToPreviousClosePrice": "-1,100",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "231,668"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260916",
+  "foreignerPureBuyQuant": "-45,441",
+  "foreignerHoldRatio": "16.75%",
+  "organPureBuyQuant": "+47,346",
+  "individualPureBuyQuant": "-1,515",
+  "closePrice": "52,300",
+  "compareToPreviousClosePrice": "-700",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "225,090"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260915",
+  "foreignerPureBuyQuant": "-49,234",
+  "foreignerHoldRatio": "16.81%",
+  "organPureBuyQuant": "+124,907",
+  "individualPureBuyQuant": "-77,379",
+  "closePrice": "53,000",
+  "compareToPreviousClosePrice": "400",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "496,482"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260914",
+  "foreignerPureBuyQuant": "+24,165",
+  "foreignerHoldRatio": "16.93%",
+  "organPureBuyQuant": "-6,271",
+  "individualPureBuyQuant": "-21,465",
+  "closePrice": "51,200",
+  "compareToPreviousClosePrice": "-1,600",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "313,129"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260911",
+  "foreignerPureBuyQuant": "-59,946",
+  "foreignerHoldRatio": "16.87%",
+  "organPureBuyQuant": "+151,538",
+  "individualPureBuyQuant": "-92,683",
+  "closePrice": "52,800",
+  "compareToPreviousClosePrice": "1,700",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "660,140"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260910",
+  "foreignerPureBuyQuant": "-49,301",
+  "foreignerHoldRatio": "17.01%",
+  "organPureBuyQuant": "+51,771",
+  "individualPureBuyQuant": "-5,747",
+  "closePrice": "51,100",
+  "compareToPreviousClosePrice": "300",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "311,019"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260909",
+  "foreignerPureBuyQuant": "+92,183",
+  "foreignerHoldRatio": "17.13%",
+  "organPureBuyQuant": "+104,707",
+  "individualPureBuyQuant": "-196,911",
+  "closePrice": "50,800",
+  "compareToPreviousClosePrice": "2,450",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "509,067"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260908",
+  "foreignerPureBuyQuant": "-64,898",
+  "foreignerHoldRatio": "16.92%",
+  "organPureBuyQuant": "+35,382",
+  "individualPureBuyQuant": "+29,861",
+  "closePrice": "48,350",
+  "compareToPreviousClosePrice": "-650",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "390,071"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260907",
+  "foreignerPureBuyQuant": "-21,030",
+  "foreignerHoldRatio": "17.07%",
+  "organPureBuyQuant": "+94,555",
+  "individualPureBuyQuant": "-69,775",
+  "closePrice": "49,000",
+  "compareToPreviousClosePrice": "2,050",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "372,995"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260904",
+  "foreignerPureBuyQuant": "-39,282",
+  "foreignerHoldRatio": "17.13%",
+  "organPureBuyQuant": "+57,464",
+  "individualPureBuyQuant": "-18,375",
+  "closePrice": "46,950",
+  "compareToPreviousClosePrice": "1,050",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "185,168"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260903",
+  "foreignerPureBuyQuant": "-1,479",
+  "foreignerHoldRatio": "17.12%",
+  "organPureBuyQuant": "+19,746",
+  "individualPureBuyQuant": "-18,167",
+  "closePrice": "45,900",
+  "compareToPreviousClosePrice": "350",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "181,182"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260902",
+  "foreignerPureBuyQuant": "-19,999",
+  "foreignerHoldRatio": "17.09%",
+  "organPureBuyQuant": "+14,190",
+  "individualPureBuyQuant": "+5,812",
+  "closePrice": "45,550",
+  "compareToPreviousClosePrice": "-1,750",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "223,529"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260901",
+  "foreignerPureBuyQuant": "-42,331",
+  "foreignerHoldRatio": "17.14%",
+  "organPureBuyQuant": "+27,624",
+  "individualPureBuyQuant": "+14,800",
+  "closePrice": "47,300",
+  "compareToPreviousClosePrice": "-1,600",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "244,656"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260831",
+  "foreignerPureBuyQuant": "+1,619",
+  "foreignerHoldRatio": "17.24%",
+  "organPureBuyQuant": "+2,100",
+  "individualPureBuyQuant": "-3,778",
+  "closePrice": "48,900",
+  "compareToPreviousClosePrice": "-500",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "155,535"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260828",
+  "foreignerPureBuyQuant": "-25,179",
+  "foreignerHoldRatio": "17.24%",
+  "organPureBuyQuant": "+5,374",
+  "individualPureBuyQuant": "+19,874",
+  "closePrice": "49,400",
+  "compareToPreviousClosePrice": "-450",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "250,487"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260827",
+  "foreignerPureBuyQuant": "+13,894",
+  "foreignerHoldRatio": "17.30%",
+  "organPureBuyQuant": "+9,866",
+  "individualPureBuyQuant": "-24,215",
+  "closePrice": "49,850",
+  "compareToPreviousClosePrice": "-150",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "214,590"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260826",
+  "foreignerPureBuyQuant": "+38,662",
+  "foreignerHoldRatio": "17.26%",
+  "organPureBuyQuant": "+57,556",
+  "individualPureBuyQuant": "-93,640",
+  "closePrice": "50,000",
+  "compareToPreviousClosePrice": "1,950",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "408,484"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260825",
+  "foreignerPureBuyQuant": "+20,664",
+  "foreignerHoldRatio": "17.20%",
+  "organPureBuyQuant": "+2,969",
+  "individualPureBuyQuant": "-23,138",
+  "closePrice": "48,050",
+  "compareToPreviousClosePrice": "900",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "379,189"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260824",
+  "foreignerPureBuyQuant": "+15,892",
+  "foreignerHoldRatio": "17.20%",
+  "organPureBuyQuant": "+12,938",
+  "individualPureBuyQuant": "-27,040",
+  "closePrice": "47,150",
+  "compareToPreviousClosePrice": "600",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "161,385"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260821",
+  "foreignerPureBuyQuant": "-24,755",
+  "foreignerHoldRatio": "17.16%",
+  "organPureBuyQuant": "+24,839",
+  "individualPureBuyQuant": "+1,572",
+  "closePrice": "46,550",
+  "compareToPreviousClosePrice": "-1,850",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "401,876"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260820",
+  "foreignerPureBuyQuant": "+46,356",
+  "foreignerHoldRatio": "17.22%",
+  "organPureBuyQuant": "+87,116",
+  "individualPureBuyQuant": "-135,934",
+  "closePrice": "48,400",
+  "compareToPreviousClosePrice": "2,450",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "508,198"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260819",
+  "foreignerPureBuyQuant": "+25,021",
+  "foreignerHoldRatio": "16.97%",
+  "organPureBuyQuant": "+42,644",
+  "individualPureBuyQuant": "-66,970",
+  "closePrice": "45,950",
+  "compareToPreviousClosePrice": "250",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "376,998"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260818",
+  "foreignerPureBuyQuant": "+51,004",
+  "foreignerHoldRatio": "17.23%",
+  "organPureBuyQuant": "-27,930",
+  "individualPureBuyQuant": "-22,072",
+  "closePrice": "45,700",
+  "compareToPreviousClosePrice": "-1,150",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "418,299"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260814",
+  "foreignerPureBuyQuant": "+81",
+  "foreignerHoldRatio": "17.10%",
+  "organPureBuyQuant": "-7,467",
+  "individualPureBuyQuant": "+8,866",
+  "closePrice": "46,850",
+  "compareToPreviousClosePrice": "-50",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "375,857"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260813",
+  "foreignerPureBuyQuant": "+351,800",
+  "foreignerHoldRatio": "17.25%",
+  "organPureBuyQuant": "+30,854",
+  "individualPureBuyQuant": "-381,281",
+  "closePrice": "46,900",
+  "compareToPreviousClosePrice": "3,550",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "1,144,257"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260812",
+  "foreignerPureBuyQuant": "+5,228",
+  "foreignerHoldRatio": "16.40%",
+  "organPureBuyQuant": "-12,875",
+  "individualPureBuyQuant": "+8,639",
+  "closePrice": "43,350",
+  "compareToPreviousClosePrice": "-1,550",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "274,165"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260811",
+  "foreignerPureBuyQuant": "-10,804",
+  "foreignerHoldRatio": "16.39%",
+  "organPureBuyQuant": "+45,700",
+  "individualPureBuyQuant": "-34,411",
+  "closePrice": "44,900",
+  "compareToPreviousClosePrice": "-500",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "313,939"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260810",
+  "foreignerPureBuyQuant": "+131,206",
+  "foreignerHoldRatio": "16.42%",
+  "organPureBuyQuant": "+31,812",
+  "individualPureBuyQuant": "-159,045",
+  "closePrice": "45,400",
+  "compareToPreviousClosePrice": "1,550",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "398,517"
+ },
+ {
+  "itemCode": "112610",
+  "bizdate": "20260807",
+  "foreignerPureBuyQuant": "-14,008",
+  "foreignerHoldRatio": "16.11%",
+  "organPureBuyQuant": "+95,805",
+  "individualPureBuyQuant": "-77,844",
+  "closePrice": "43,850",
+  "compareToPreviousClosePrice": "1,600",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "995,974"
+ }
+]
