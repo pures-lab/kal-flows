@@ -1,19 +1,92 @@
-run_at_kst=2026-11-05 23:32
+run_at_kst=2026-11-06 00:24
+[OK] tickers=40
 [OK] login
 [OK] listed_stocks rows=2876
-[OK] 대한항공(003490) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] NAVER(035420) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] 엔씨소프트(036570) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] 하이브(352820) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] 한화솔루션(009830) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] 삼성전자(005930) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] SK하이닉스(000660) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] 삼성SDI(006400) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] 더블유씨피(393890) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] SK아이이테크놀로지(361610) rows=60 first_row_date=2026/11/05 cols=['code', 'name', 'TRD_DD', 'TRDVAL1', 'TRDVAL2', 'TRDVAL3', 'TRDVAL4', 'TRDVAL5', 'TRDVAL6', 'TRDVAL7', 'TRDVAL8', 'TRDVAL9', 'TRDVAL10', 'TRDVAL11']
-[OK] rank STK_foreign day=20261105 rows=890 cols=['ISU_SRT_CD', 'ISU_NM', 'ASK_TRDVOL', 'BID_TRDVOL', 'NETBID_TRDVOL', 'ASK_TRDVAL', 'BID_TRDVAL', 'NETBID_TRDVAL']
-[OK] rank STK_inst day=20261105 rows=869 cols=['ISU_SRT_CD', 'ISU_NM', 'ASK_TRDVOL', 'BID_TRDVOL', 'NETBID_TRDVOL', 'ASK_TRDVAL', 'BID_TRDVAL', 'NETBID_TRDVAL']
-[OK] rank STK_pension day=20261105 rows=304 cols=['ISU_SRT_CD', 'ISU_NM', 'ASK_TRDVOL', 'BID_TRDVOL', 'NETBID_TRDVOL', 'ASK_TRDVAL', 'BID_TRDVAL', 'NETBID_TRDVAL']
-[OK] rank KSQ_foreign day=20261105 rows=1727 cols=['ISU_SRT_CD', 'ISU_NM', 'ASK_TRDVOL', 'BID_TRDVOL', 'NETBID_TRDVOL', 'ASK_TRDVAL', 'BID_TRDVAL', 'NETBID_TRDVAL']
-[OK] rank KSQ_inst day=20261105 rows=1557 cols=['ISU_SRT_CD', 'ISU_NM', 'ASK_TRDVOL', 'BID_TRDVOL', 'NETBID_TRDVOL', 'ASK_TRDVAL', 'BID_TRDVAL', 'NETBID_TRDVAL']
-[OK] rank KSQ_pension day=20261105 rows=144 cols=['ISU_SRT_CD', 'ISU_NM', 'ASK_TRDVOL', 'BID_TRDVOL', 'NETBID_TRDVOL', 'ASK_TRDVAL', 'BID_TRDVAL', 'NETBID_TRDVAL']
+[OK] 대한항공(003490) rows=59 first_row_date=2026/11/05
+[OK] 한진칼(180640) rows=59 first_row_date=2026/11/05
+[OK] 아시아나항공(020560) rows=59 first_row_date=2026/11/05
+[OK] 삼성전자(005930) rows=59 first_row_date=2026/11/05
+[OK] SK하이닉스(000660) rows=59 first_row_date=2026/11/05
+[OK] SK스퀘어(402340) rows=59 first_row_date=2026/11/05
+[OK] 삼성전기(009150) rows=59 first_row_date=2026/11/05
+[OK] 한미반도체(042700) rows=59 first_row_date=2026/11/05
+[OK] 주성엔지니어링(036930) rows=59 first_row_date=2026/11/05
+[OK] LG전자(066570) rows=59 first_row_date=2026/11/05
+[OK] NAVER(035420) rows=59 first_row_date=2026/11/05
+[OK] 카카오(035720) rows=59 first_row_date=2026/11/05
+[OK] NC(036570) rows=59 first_row_date=2026/11/05
+[OK] 하이브(352820) rows=59 first_row_date=2026/11/05
+[OK] SK텔레콤(017670) rows=59 first_row_date=2026/11/05
+[OK] 삼성SDI(006400) rows=59 first_row_date=2026/11/05
+[OK] LG에너지솔루션(373220) rows=59 first_row_date=2026/11/05
+[OK] 에코프로(086520) rows=59 first_row_date=2026/11/05
+[OK] 더블유씨피(393890) rows=59 first_row_date=2026/11/05
+[OK] SK아이이테크놀로지(361610) rows=59 first_row_date=2026/11/05
+[OK] 한화솔루션(009830) rows=59 first_row_date=2026/11/05
+[OK] S-Oil(010950) rows=59 first_row_date=2026/11/05
+[OK] SK이노베이션(096770) rows=59 first_row_date=2026/11/05
+[OK] 흥구석유(024060) rows=59 first_row_date=2026/11/05
+[OK] 삼성중공업(010140) rows=59 first_row_date=2026/11/05
+[OK] 한화오션(042660) rows=59 first_row_date=2026/11/05
+[OK] HD현대중공업(329180) rows=59 first_row_date=2026/11/05
+[OK] HD한국조선해양(009540) rows=59 first_row_date=2026/11/05
+[OK] HD현대마린엔진(071970) rows=59 first_row_date=2026/11/05
+[OK] 한화엔진(082740) rows=59 first_row_date=2026/11/05
+[OK] 태광(023160) rows=59 first_row_date=2026/11/05
+[OK] 성광벤드(014620) rows=59 first_row_date=2026/11/05
+[OK] 한화에어로스페이스(012450) rows=59 first_row_date=2026/11/05
+[OK] 한화시스템(272210) rows=59 first_row_date=2026/11/05
+[OK] LIG디펜스앤에어로스페이스(079550) rows=59 first_row_date=2026/11/05
+[OK] 한국항공우주(047810) rows=59 first_row_date=2026/11/05
+[OK] LS ELECTRIC(010120) rows=59 first_row_date=2026/11/05
+[OK] 현대차(005380) rows=59 first_row_date=2026/11/05
+[OK] 신한지주(055550) rows=59 first_row_date=2026/11/05
+[OK] 대우건설(047040) rows=59 first_row_date=2026/11/05
+[OK] rank STK_foreign day=20261105 rows=890
+[OK] rank STK_inst day=20261105 rows=869
+[OK] rank STK_pension day=20261105 rows=304
+[OK] rank KSQ_foreign day=20261105 rows=1727
+[OK] rank KSQ_inst day=20261105 rows=1557
+[OK] rank KSQ_pension day=20261105 rows=144
+[OK] short_trade STK day=20261105 rows=1016 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
+[OK] short_trade KSQ day=20261105 rows=1832 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
+[OK] short_balance 대한항공(003490) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한진칼(180640) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 아시아나항공(020560) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 삼성전자(005930) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance SK하이닉스(000660) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance SK스퀘어(402340) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 삼성전기(009150) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한미반도체(042700) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 주성엔지니어링(036930) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance LG전자(066570) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance NAVER(035420) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 카카오(035720) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance NC(036570) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 하이브(352820) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance SK텔레콤(017670) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 삼성SDI(006400) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance LG에너지솔루션(373220) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 에코프로(086520) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 더블유씨피(393890) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance SK아이이테크놀로지(361610) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한화솔루션(009830) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance S-Oil(010950) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance SK이노베이션(096770) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 흥구석유(024060) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 삼성중공업(010140) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한화오션(042660) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance HD현대중공업(329180) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance HD한국조선해양(009540) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance HD현대마린엔진(071970) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한화엔진(082740) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 태광(023160) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 성광벤드(014620) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한화에어로스페이스(012450) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한화시스템(272210) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance LIG디펜스앤에어로스페이스(079550) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 한국항공우주(047810) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance LS ELECTRIC(010120) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 현대차(005380) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 신한지주(055550) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
+[OK] short_balance 대우건설(047040) rows=57 cols=['code', 'name', 'RPT_DUTY_OCCR_DD', 'BAL_QTY', 'LIST_SHRS', 'BAL_AMT', 'MKTCAP', 'BAL_RTO']
