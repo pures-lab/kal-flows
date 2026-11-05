@@ -17,18 +17,23 @@ import pandas as pd
 import requests
 
 KST = timezone(timedelta(hours=9))
-TICKERS = {
-    "003490": "대한항공",
-    "035420": "NAVER",
-    "036570": "엔씨소프트",
-    "352820": "하이브",
-    "009830": "한화솔루션",
-    "005930": "삼성전자",
-    "000660": "SK하이닉스",
-    "006400": "삼성SDI",
-    "393890": "더블유씨피",
-    "361610": "SK아이이테크놀로지",
-}
+def _load_tickers() -> dict:
+    """tickers.txt: one "code,name" per line, # = comment."""
+    codes = {}
+    try:
+        with open("tickers.txt", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("#"):
+                    continue
+                parts = [p.strip() for p in line.split(",")]
+                codes[parts[0].zfill(6)] = parts[1] if len(parts) > 1 else parts[0]
+    except FileNotFoundError:
+        pass
+    return codes or {"003490": "대한항공"}
+
+
+TICKERS = _load_tickers()
 DATA_DIR = "data"
 UA = {
     "User-Agent": (
@@ -150,8 +155,6 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             log(f"[FAIL] ohlcv {name}({code}): {type(e).__name__}: {e}")
             traceback.print_exc()
-
-    fetch_deal_rank()
 
     with open(f"{DATA_DIR}/status.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(status_lines) + "\n")
