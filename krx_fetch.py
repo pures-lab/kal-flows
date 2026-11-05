@@ -11,6 +11,7 @@ Outputs (data/krx/):
 """
 import os
 import sys
+import time
 import traceback
 from datetime import datetime, timedelta, timezone
 
@@ -145,17 +146,35 @@ def main() -> int:
             log(f"[FAIL] short_trade {mkt}: {type(e).__name__}: {e}")
 
     # 4) 공매도 순보유잔고 trend per ticker (last ~90 days)
+    #    KRX blocks long bursts on one session -> pace requests, re-login + retry on failure
+    relogins = 0
     for code, name in codes.items():
         try:
             if code not in isin:
                 raise RuntimeError("ISIN not found")
-            df = fetch(
-                "short_balance_individual_trend",
-                session=session,
-                isuCd=isin[code],
-                strtDd=start,
-                endDd=end,
-            )
+            df = None
+            for attempt in range(3):
+                try:
+                    time.sleep(0.4)
+                    df = fetch(
+                        "short_balance_individual_trend",
+                        session=session,
+                        isuCd=isin[code],
+                        strtDd=start,
+                        endDd=end,
+                    )
+                    break
+                except Exception:  # noqa: BLE001
+                    if attempt == 2:
+                        raise
+                    time.sleep(3 + attempt * 3)
+                    try:
+                        auth = get_krx_auth()
+                        auth.invalidate()  # singleton caches the session -> force a fresh login
+                        session = auth.session
+                        relogins += 1
+                    except Exception:  # noqa: BLE001
+                        pass
             if df.empty:
                 raise RuntimeError("empty")
             df.insert(0, "name", name)
@@ -164,6 +183,7 @@ def main() -> int:
             log(f"[OK] short_balance {name}({code}) rows={len(df)} cols={list(df.columns)[:10]}")
         except Exception as e:  # noqa: BLE001
             log(f"[FAIL] short_balance {name}({code}): {type(e).__name__}: {e}")
+    log(f"short_balance relogins={relogins}")
 
     return finish()
 
