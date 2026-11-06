@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-112610,씨에스윈드,20261105,"+81,034",14.96%,"+174,162","-239,104","47,500","2,850","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,489,098"
+112610,씨에스윈드,20261105,"+81,034",15.20%,"+174,162","-239,104","47,500","2,850","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,489,098"
 112610,씨에스윈드,20261104,"-280,728",14.77%,"-54,563","+332,399","44,400","2,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,646,044"
 112610,씨에스윈드,20261103,"-147,529",15.67%,"+81,690","+65,102","42,700","1,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","567,833"
 112610,씨에스윈드,20261102,"-49,207",16.02%,"+134,578","-99,990","41,350","3,050","{'code': '2', 'text': '상승', 'name': 'RISING'}","460,344"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-047810,한국항공우주,20261105,"-83,526",24.07%,"+109,173","-25,782","105,800","-3,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","344,502"
+047810,한국항공우주,20261105,"-83,526",23.98%,"+109,173","-25,782","105,800","-3,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","344,502"
 047810,한국항공우주,20261104,"-53,770",24.15%,"+173,930","-118,947","109,000","11,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","858,419"
 047810,한국항공우주,20261103,"+6,462",24.18%,"-5,472","-1,051","99,100",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","253,426"
 047810,한국항공우주,20261102,"-8,796",24.16%,"+32,784","-24,014","99,400","1,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","202,805"

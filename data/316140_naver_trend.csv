@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-316140,우리금융지주,20261105,"-736,016",50.98%,"+1,296,085","-547,667","32,150","1,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,961,923"
+316140,우리금융지주,20261105,"-736,016",50.96%,"+1,296,085","-547,667","32,150","1,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,961,923"
 316140,우리금융지주,20261104,"-271,618",51.08%,"+415,117","-155,112","30,800",650,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,389,765"
 316140,우리금융지주,20261103,"-298,983",51.22%,"+329,838","-31,423","30,250",-150,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,750,546"
 316140,우리금융지주,20261102,"-675,564",51.26%,"+491,691","+182,926","30,500",-300,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,901,857"

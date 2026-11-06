@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-014620,성광벤드,20261105,"-2,641",33.45%,"+26,153","-23,354","28,250","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","119,492"
+014620,성광벤드,20261105,"-2,641",33.52%,"+26,153","-23,354","28,250","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","119,492"
 014620,성광벤드,20261104,"-54,703",33.46%,"+56,492","-4,928","29,750",950,"{'code': '2', 'text': '상승', 'name': 'RISING'}","166,419"
 014620,성광벤드,20261103,-163,33.69%,"+1,802","-1,858","28,800","-1,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","106,129"
 014620,성광벤드,20261102,+618,33.74%,"+128,344","-129,524","29,950","3,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","339,083"

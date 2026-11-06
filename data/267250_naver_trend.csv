@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-267250,HD현대,20261105,"+49,182",26.63%,"-71,715","+21,411","130,000","-7,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","213,787"
+267250,HD현대,20261105,"+49,182",26.62%,"-71,715","+21,411","130,000","-7,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","213,787"
 267250,HD현대,20261104,"-25,436",26.56%,"+6,169","+19,189","140,700",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","162,530"
 267250,HD현대,20261103,"-6,038",26.60%,"-4,077","+10,199","142,200","-3,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","137,114"
 267250,HD현대,20261102,"-19,959",26.61%,"+18,425","+2,314","146,200","5,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","129,824"

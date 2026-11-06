@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-327260,RF머트리얼즈,20261105,"+211,219",6.87%,"-191,379","-22,530","24,300","-4,250","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,066,508"
+327260,RF머트리얼즈,20261105,"+211,219",6.93%,"-191,379","-22,530","24,300","-4,250","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,066,508"
 327260,RF머트리얼즈,20261104,"+122,360",5.69%,"+1,010","-122,234","29,200",750,"{'code': '2', 'text': '상승', 'name': 'RISING'}","894,535"
 327260,RF머트리얼즈,20261103,"+253,737",4.87%,"-352,382","+100,693","29,050","-3,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,297,136"
 327260,RF머트리얼즈,20261102,"-2,503",3.44%,"-20,979","+37,264","32,650",-350,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","722,061"

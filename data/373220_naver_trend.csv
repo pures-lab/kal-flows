@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-373220,LG에너지솔루션,20261105,"+1,342",5.39%,"+39,870","-40,952","347,500","-7,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","488,986"
+373220,LG에너지솔루션,20261105,"+1,342",5.41%,"+39,870","-40,952","347,500","-7,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","488,986"
 373220,LG에너지솔루션,20261104,"-94,941",5.39%,"+35,682","+56,797","358,000","20,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,104,914"
 373220,LG에너지솔루션,20261103,"-43,164",5.46%,"-7,401","+49,634","343,000","-13,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","502,945"
 373220,LG에너지솔루션,20261102,"-57,795",5.47%,"+42,095","+15,435","357,500","-2,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","316,516"

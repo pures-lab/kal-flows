@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-028260,삼성물산,20261105,"-18,420",30.42%,"+34,690","-16,058","290,000","-19,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","342,209"
+028260,삼성물산,20261105,"-18,420",30.40%,"+34,690","-16,058","290,000","-19,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","342,209"
 028260,삼성물산,20261104,"+39,422",30.43%,"+84,938","-124,392","316,000","6,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","380,799"
 028260,삼성물산,20261103,"-44,595",30.41%,"+48,922","-4,318","312,000","-4,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","199,209"
 028260,삼성물산,20261102,"-74,365",30.43%,"+82,216","-7,466","317,500","5,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","230,538"

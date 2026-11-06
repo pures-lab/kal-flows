@@ -3,17 +3,17 @@
   "itemCode": "001820",
   "bizdate": "20261105",
   "foreignerPureBuyQuant": "+41,671",
-  "foreignerHoldRatio": "12.40%",
+  "foreignerHoldRatio": "12.41%",
   "organPureBuyQuant": "-26,415",
   "individualPureBuyQuant": "-15,406",
-  "closePrice": "84,400",
-  "compareToPreviousClosePrice": "-14,300",
+  "closePrice": "84,200",
+  "compareToPreviousClosePrice": "-14,500",
   "compareToPreviousPrice": {
    "code": "5",
    "text": "하락",
    "name": "FALLING"
   },
-  "accumulatedTradingVolume": "248,551"
+  "accumulatedTradingVolume": "248,593"
  },
  {
   "itemCode": "001820",

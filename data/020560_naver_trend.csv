@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-020560,아시아나항공,20261105,"-9,768",3.89%,"+93,159","-78,479","8,100",190,"{'code': '2', 'text': '상승', 'name': 'RISING'}","178,949"
+020560,아시아나항공,20261105,"-9,768",3.90%,"+93,159","-78,479","8,100",190,"{'code': '2', 'text': '상승', 'name': 'RISING'}","178,949"
 020560,아시아나항공,20261104,"-3,391",3.90%,"+33,774","-30,383","7,910",160,"{'code': '2', 'text': '상승', 'name': 'RISING'}","65,629"
 020560,아시아나항공,20261103,"+1,373",3.90%,"+58,901","-60,273","7,900",160,"{'code': '2', 'text': '상승', 'name': 'RISING'}","228,662"
 020560,아시아나항공,20261102,"+25,740",3.90%,"+101,052","-126,534","7,640",560,"{'code': '2', 'text': '상승', 'name': 'RISING'}","168,658"

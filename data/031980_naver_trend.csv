@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-031980,피에스케이홀딩스,20261105,"+88,376",6.78%,"-137,305","+48,450","137,600","-32,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","459,423"
+031980,피에스케이홀딩스,20261105,"+88,376",6.76%,"-137,305","+48,450","137,600","-32,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","459,423"
 031980,피에스케이홀딩스,20261104,"+20,903",6.38%,"-32,010","+9,534","171,000","5,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","209,288"
 031980,피에스케이홀딩스,20261103,"+17,907",6.04%,"-19,364","+1,916","169,700","-13,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","197,031"
 031980,피에스케이홀딩스,20261102,"-34,969",5.74%,-835,"+34,857","183,900","-1,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","178,686"
