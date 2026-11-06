@@ -1,209 +1,209 @@
-run_at_kst=2026-11-06 19:01
-[OK] 대한항공(003490) rows=60 last=20261105 -> data/003490_naver_trend.csv
+run_at_kst=2026-11-06 23:30
+[OK] 대한항공(003490) rows=60 last=20261106 -> data/003490_naver_trend.csv
 [OK] ohlcv 대한항공(003490) rows=300 20250813~20261106 -> data/003490_ohlcv.csv
-[OK] 한진칼(180640) rows=60 last=20261105 -> data/180640_naver_trend.csv
+[OK] 한진칼(180640) rows=60 last=20261106 -> data/180640_naver_trend.csv
 [OK] ohlcv 한진칼(180640) rows=300 20250813~20261106 -> data/180640_ohlcv.csv
-[OK] 아시아나항공(020560) rows=60 last=20261105 -> data/020560_naver_trend.csv
+[OK] 아시아나항공(020560) rows=60 last=20261106 -> data/020560_naver_trend.csv
 [OK] ohlcv 아시아나항공(020560) rows=300 20250813~20261106 -> data/020560_ohlcv.csv
-[OK] 삼성전자(005930) rows=60 last=20261105 -> data/005930_naver_trend.csv
+[OK] 삼성전자(005930) rows=60 last=20261106 -> data/005930_naver_trend.csv
 [OK] ohlcv 삼성전자(005930) rows=300 20250813~20261106 -> data/005930_ohlcv.csv
-[OK] SK하이닉스(000660) rows=60 last=20261105 -> data/000660_naver_trend.csv
+[OK] SK하이닉스(000660) rows=60 last=20261106 -> data/000660_naver_trend.csv
 [OK] ohlcv SK하이닉스(000660) rows=300 20250813~20261106 -> data/000660_ohlcv.csv
-[OK] SK스퀘어(402340) rows=60 last=20261105 -> data/402340_naver_trend.csv
+[OK] SK스퀘어(402340) rows=60 last=20261106 -> data/402340_naver_trend.csv
 [OK] ohlcv SK스퀘어(402340) rows=300 20250813~20261106 -> data/402340_ohlcv.csv
-[OK] 삼성전기(009150) rows=60 last=20261105 -> data/009150_naver_trend.csv
+[OK] 삼성전기(009150) rows=60 last=20261106 -> data/009150_naver_trend.csv
 [OK] ohlcv 삼성전기(009150) rows=300 20250813~20261106 -> data/009150_ohlcv.csv
-[OK] 한미반도체(042700) rows=60 last=20261105 -> data/042700_naver_trend.csv
+[OK] 한미반도체(042700) rows=60 last=20261106 -> data/042700_naver_trend.csv
 [OK] ohlcv 한미반도체(042700) rows=300 20250813~20261106 -> data/042700_ohlcv.csv
-[OK] 주성엔지니어링(036930) rows=60 last=20261105 -> data/036930_naver_trend.csv
+[OK] 주성엔지니어링(036930) rows=60 last=20261106 -> data/036930_naver_trend.csv
 [OK] ohlcv 주성엔지니어링(036930) rows=300 20250813~20261106 -> data/036930_ohlcv.csv
-[OK] 대덕전자(353200) rows=60 last=20261105 -> data/353200_naver_trend.csv
+[OK] 대덕전자(353200) rows=60 last=20261106 -> data/353200_naver_trend.csv
 [OK] ohlcv 대덕전자(353200) rows=300 20250813~20261106 -> data/353200_ohlcv.csv
-[OK] 삼화콘덴서(001820) rows=60 last=20261105 -> data/001820_naver_trend.csv
+[OK] 삼화콘덴서(001820) rows=60 last=20261106 -> data/001820_naver_trend.csv
 [OK] ohlcv 삼화콘덴서(001820) rows=300 20250813~20261106 -> data/001820_ohlcv.csv
-[OK] 테스(095610) rows=60 last=20261105 -> data/095610_naver_trend.csv
+[OK] 테스(095610) rows=60 last=20261106 -> data/095610_naver_trend.csv
 [OK] ohlcv 테스(095610) rows=300 20250813~20261106 -> data/095610_ohlcv.csv
-[OK] 기가비스(420770) rows=60 last=20261105 -> data/420770_naver_trend.csv
+[OK] 기가비스(420770) rows=60 last=20261106 -> data/420770_naver_trend.csv
 [OK] ohlcv 기가비스(420770) rows=300 20250813~20261106 -> data/420770_ohlcv.csv
-[OK] 티에프이(425420) rows=60 last=20261105 -> data/425420_naver_trend.csv
+[OK] 티에프이(425420) rows=60 last=20261106 -> data/425420_naver_trend.csv
 [OK] ohlcv 티에프이(425420) rows=300 20250813~20261106 -> data/425420_ohlcv.csv
-[OK] 티씨케이(064760) rows=60 last=20261105 -> data/064760_naver_trend.csv
+[OK] 티씨케이(064760) rows=60 last=20261106 -> data/064760_naver_trend.csv
 [OK] ohlcv 티씨케이(064760) rows=300 20250813~20261106 -> data/064760_ohlcv.csv
-[OK] 원익홀딩스(030530) rows=60 last=20261105 -> data/030530_naver_trend.csv
+[OK] 원익홀딩스(030530) rows=60 last=20261106 -> data/030530_naver_trend.csv
 [OK] ohlcv 원익홀딩스(030530) rows=300 20250813~20261106 -> data/030530_ohlcv.csv
-[OK] 두산테스나(131970) rows=60 last=20261105 -> data/131970_naver_trend.csv
+[OK] 두산테스나(131970) rows=60 last=20261106 -> data/131970_naver_trend.csv
 [OK] ohlcv 두산테스나(131970) rows=300 20250813~20261106 -> data/131970_ohlcv.csv
-[OK] 제주반도체(080220) rows=60 last=20261105 -> data/080220_naver_trend.csv
+[OK] 제주반도체(080220) rows=60 last=20261106 -> data/080220_naver_trend.csv
 [OK] ohlcv 제주반도체(080220) rows=300 20250813~20261106 -> data/080220_ohlcv.csv
-[OK] 리노공업(058470) rows=60 last=20261105 -> data/058470_naver_trend.csv
+[OK] 리노공업(058470) rows=60 last=20261106 -> data/058470_naver_trend.csv
 [OK] ohlcv 리노공업(058470) rows=300 20250813~20261106 -> data/058470_ohlcv.csv
-[OK] 엑시콘(092870) rows=60 last=20261105 -> data/092870_naver_trend.csv
+[OK] 엑시콘(092870) rows=60 last=20261106 -> data/092870_naver_trend.csv
 [OK] ohlcv 엑시콘(092870) rows=300 20250813~20261106 -> data/092870_ohlcv.csv
-[OK] 인텍플러스(064290) rows=60 last=20261105 -> data/064290_naver_trend.csv
+[OK] 인텍플러스(064290) rows=60 last=20261106 -> data/064290_naver_trend.csv
 [OK] ohlcv 인텍플러스(064290) rows=300 20250813~20261106 -> data/064290_ohlcv.csv
-[OK] 피에스케이홀딩스(031980) rows=60 last=20261105 -> data/031980_naver_trend.csv
+[OK] 피에스케이홀딩스(031980) rows=60 last=20261106 -> data/031980_naver_trend.csv
 [OK] ohlcv 피에스케이홀딩스(031980) rows=300 20250813~20261106 -> data/031980_ohlcv.csv
-[OK] 피에스케이(319660) rows=60 last=20261105 -> data/319660_naver_trend.csv
+[OK] 피에스케이(319660) rows=60 last=20261106 -> data/319660_naver_trend.csv
 [OK] ohlcv 피에스케이(319660) rows=300 20250813~20261106 -> data/319660_ohlcv.csv
-[OK] LG전자(066570) rows=60 last=20261105 -> data/066570_naver_trend.csv
+[OK] LG전자(066570) rows=60 last=20261106 -> data/066570_naver_trend.csv
 [OK] ohlcv LG전자(066570) rows=300 20250813~20261106 -> data/066570_ohlcv.csv
-[OK] 코웨이(021240) rows=60 last=20261105 -> data/021240_naver_trend.csv
+[OK] 코웨이(021240) rows=60 last=20261106 -> data/021240_naver_trend.csv
 [OK] ohlcv 코웨이(021240) rows=300 20250813~20261106 -> data/021240_ohlcv.csv
-[OK] NAVER(035420) rows=60 last=20261105 -> data/035420_naver_trend.csv
+[OK] NAVER(035420) rows=60 last=20261106 -> data/035420_naver_trend.csv
 [OK] ohlcv NAVER(035420) rows=300 20250813~20261106 -> data/035420_ohlcv.csv
-[OK] 카카오(035720) rows=60 last=20261105 -> data/035720_naver_trend.csv
+[OK] 카카오(035720) rows=60 last=20261106 -> data/035720_naver_trend.csv
 [OK] ohlcv 카카오(035720) rows=300 20250813~20261106 -> data/035720_ohlcv.csv
-[OK] NC(036570) rows=60 last=20261105 -> data/036570_naver_trend.csv
+[OK] NC(036570) rows=60 last=20261106 -> data/036570_naver_trend.csv
 [OK] ohlcv NC(036570) rows=300 20250813~20261106 -> data/036570_ohlcv.csv
-[OK] 크래프톤(259960) rows=60 last=20261105 -> data/259960_naver_trend.csv
+[OK] 크래프톤(259960) rows=60 last=20261106 -> data/259960_naver_trend.csv
 [OK] ohlcv 크래프톤(259960) rows=300 20250813~20261106 -> data/259960_ohlcv.csv
-[OK] 넷마블(251270) rows=60 last=20261105 -> data/251270_naver_trend.csv
+[OK] 넷마블(251270) rows=60 last=20261106 -> data/251270_naver_trend.csv
 [OK] ohlcv 넷마블(251270) rows=300 20250813~20261106 -> data/251270_ohlcv.csv
-[OK] 카카오게임즈(293490) rows=60 last=20261105 -> data/293490_naver_trend.csv
+[OK] 카카오게임즈(293490) rows=60 last=20261106 -> data/293490_naver_trend.csv
 [OK] ohlcv 카카오게임즈(293490) rows=300 20250813~20261106 -> data/293490_ohlcv.csv
-[OK] LG씨엔에스(064400) rows=60 last=20261105 -> data/064400_naver_trend.csv
+[OK] LG씨엔에스(064400) rows=60 last=20261106 -> data/064400_naver_trend.csv
 [OK] ohlcv LG씨엔에스(064400) rows=300 20250813~20261106 -> data/064400_ohlcv.csv
-[OK] 한화비전(489790) rows=60 last=20261105 -> data/489790_naver_trend.csv
+[OK] 한화비전(489790) rows=60 last=20261106 -> data/489790_naver_trend.csv
 [OK] ohlcv 한화비전(489790) rows=300 20250813~20261106 -> data/489790_ohlcv.csv
-[OK] 대한광통신(010170) rows=60 last=20261105 -> data/010170_naver_trend.csv
+[OK] 대한광통신(010170) rows=60 last=20261106 -> data/010170_naver_trend.csv
 [OK] ohlcv 대한광통신(010170) rows=300 20250813~20261106 -> data/010170_ohlcv.csv
-[OK] 하이브(352820) rows=60 last=20261105 -> data/352820_naver_trend.csv
+[OK] 하이브(352820) rows=60 last=20261106 -> data/352820_naver_trend.csv
 [OK] ohlcv 하이브(352820) rows=300 20250813~20261106 -> data/352820_ohlcv.csv
-[OK] JYP Ent.(035900) rows=60 last=20261105 -> data/035900_naver_trend.csv
+[OK] JYP Ent.(035900) rows=60 last=20261106 -> data/035900_naver_trend.csv
 [OK] ohlcv JYP Ent.(035900) rows=300 20250813~20261106 -> data/035900_ohlcv.csv
-[OK] SK텔레콤(017670) rows=60 last=20261105 -> data/017670_naver_trend.csv
+[OK] SK텔레콤(017670) rows=60 last=20261106 -> data/017670_naver_trend.csv
 [OK] ohlcv SK텔레콤(017670) rows=300 20250813~20261106 -> data/017670_ohlcv.csv
-[OK] KT(030200) rows=60 last=20261105 -> data/030200_naver_trend.csv
+[OK] KT(030200) rows=60 last=20261106 -> data/030200_naver_trend.csv
 [OK] ohlcv KT(030200) rows=300 20250813~20261106 -> data/030200_ohlcv.csv
-[OK] LG유플러스(032640) rows=60 last=20261105 -> data/032640_naver_trend.csv
+[OK] LG유플러스(032640) rows=60 last=20261106 -> data/032640_naver_trend.csv
 [OK] ohlcv LG유플러스(032640) rows=300 20250813~20261106 -> data/032640_ohlcv.csv
-[OK] 삼성SDI(006400) rows=60 last=20261105 -> data/006400_naver_trend.csv
+[OK] 삼성SDI(006400) rows=60 last=20261106 -> data/006400_naver_trend.csv
 [OK] ohlcv 삼성SDI(006400) rows=300 20250813~20261106 -> data/006400_ohlcv.csv
-[OK] LG에너지솔루션(373220) rows=60 last=20261105 -> data/373220_naver_trend.csv
+[OK] LG에너지솔루션(373220) rows=60 last=20261106 -> data/373220_naver_trend.csv
 [OK] ohlcv LG에너지솔루션(373220) rows=300 20250813~20261106 -> data/373220_ohlcv.csv
-[OK] 에코프로(086520) rows=60 last=20261105 -> data/086520_naver_trend.csv
+[OK] 에코프로(086520) rows=60 last=20261106 -> data/086520_naver_trend.csv
 [OK] ohlcv 에코프로(086520) rows=300 20250813~20261106 -> data/086520_ohlcv.csv
-[OK] 더블유씨피(393890) rows=60 last=20261105 -> data/393890_naver_trend.csv
+[OK] 더블유씨피(393890) rows=60 last=20261106 -> data/393890_naver_trend.csv
 [OK] ohlcv 더블유씨피(393890) rows=300 20250813~20261106 -> data/393890_ohlcv.csv
-[OK] SK아이이테크놀로지(361610) rows=60 last=20261105 -> data/361610_naver_trend.csv
+[OK] SK아이이테크놀로지(361610) rows=60 last=20261106 -> data/361610_naver_trend.csv
 [OK] ohlcv SK아이이테크놀로지(361610) rows=300 20250813~20261106 -> data/361610_ohlcv.csv
-[OK] 한화솔루션(009830) rows=60 last=20261105 -> data/009830_naver_trend.csv
+[OK] 한화솔루션(009830) rows=60 last=20261106 -> data/009830_naver_trend.csv
 [OK] ohlcv 한화솔루션(009830) rows=300 20250813~20261106 -> data/009830_ohlcv.csv
-[OK] LG화학(051910) rows=60 last=20261105 -> data/051910_naver_trend.csv
+[OK] LG화학(051910) rows=60 last=20261106 -> data/051910_naver_trend.csv
 [OK] ohlcv LG화학(051910) rows=300 20250813~20261106 -> data/051910_ohlcv.csv
-[OK] OCI홀딩스(010060) rows=60 last=20261105 -> data/010060_naver_trend.csv
+[OK] OCI홀딩스(010060) rows=60 last=20261106 -> data/010060_naver_trend.csv
 [OK] ohlcv OCI홀딩스(010060) rows=300 20250813~20261106 -> data/010060_ohlcv.csv
-[OK] 고려아연(010130) rows=60 last=20261105 -> data/010130_naver_trend.csv
+[OK] 고려아연(010130) rows=60 last=20261106 -> data/010130_naver_trend.csv
 [OK] ohlcv 고려아연(010130) rows=300 20250813~20261106 -> data/010130_ohlcv.csv
-[OK] S-Oil(010950) rows=60 last=20261105 -> data/010950_naver_trend.csv
+[OK] S-Oil(010950) rows=60 last=20261106 -> data/010950_naver_trend.csv
 [OK] ohlcv S-Oil(010950) rows=300 20250813~20261106 -> data/010950_ohlcv.csv
-[OK] SK이노베이션(096770) rows=60 last=20261105 -> data/096770_naver_trend.csv
+[OK] SK이노베이션(096770) rows=60 last=20261106 -> data/096770_naver_trend.csv
 [OK] ohlcv SK이노베이션(096770) rows=300 20250813~20261106 -> data/096770_ohlcv.csv
-[OK] 흥구석유(024060) rows=60 last=20261105 -> data/024060_naver_trend.csv
+[OK] 흥구석유(024060) rows=60 last=20261106 -> data/024060_naver_trend.csv
 [OK] ohlcv 흥구석유(024060) rows=300 20250813~20261106 -> data/024060_ohlcv.csv
-[OK] 삼성중공업(010140) rows=60 last=20261105 -> data/010140_naver_trend.csv
+[OK] 삼성중공업(010140) rows=60 last=20261106 -> data/010140_naver_trend.csv
 [OK] ohlcv 삼성중공업(010140) rows=300 20250813~20261106 -> data/010140_ohlcv.csv
-[OK] 한화오션(042660) rows=60 last=20261105 -> data/042660_naver_trend.csv
+[OK] 한화오션(042660) rows=60 last=20261106 -> data/042660_naver_trend.csv
 [OK] ohlcv 한화오션(042660) rows=300 20250813~20261106 -> data/042660_ohlcv.csv
-[OK] HD현대중공업(329180) rows=60 last=20261105 -> data/329180_naver_trend.csv
+[OK] HD현대중공업(329180) rows=60 last=20261106 -> data/329180_naver_trend.csv
 [OK] ohlcv HD현대중공업(329180) rows=300 20250813~20261106 -> data/329180_ohlcv.csv
-[OK] HD한국조선해양(009540) rows=60 last=20261105 -> data/009540_naver_trend.csv
+[OK] HD한국조선해양(009540) rows=60 last=20261106 -> data/009540_naver_trend.csv
 [OK] ohlcv HD한국조선해양(009540) rows=300 20250813~20261106 -> data/009540_ohlcv.csv
-[OK] HD현대마린엔진(071970) rows=60 last=20261105 -> data/071970_naver_trend.csv
+[OK] HD현대마린엔진(071970) rows=60 last=20261106 -> data/071970_naver_trend.csv
 [OK] ohlcv HD현대마린엔진(071970) rows=300 20250813~20261106 -> data/071970_ohlcv.csv
-[OK] 한화엔진(082740) rows=60 last=20261105 -> data/082740_naver_trend.csv
+[OK] 한화엔진(082740) rows=60 last=20261106 -> data/082740_naver_trend.csv
 [OK] ohlcv 한화엔진(082740) rows=300 20250813~20261106 -> data/082740_ohlcv.csv
-[OK] 태광(023160) rows=60 last=20261105 -> data/023160_naver_trend.csv
+[OK] 태광(023160) rows=60 last=20261106 -> data/023160_naver_trend.csv
 [OK] ohlcv 태광(023160) rows=300 20250813~20261106 -> data/023160_ohlcv.csv
-[OK] 성광벤드(014620) rows=60 last=20261105 -> data/014620_naver_trend.csv
+[OK] 성광벤드(014620) rows=60 last=20261106 -> data/014620_naver_trend.csv
 [OK] ohlcv 성광벤드(014620) rows=300 20250813~20261106 -> data/014620_ohlcv.csv
-[OK] 한화에어로스페이스(012450) rows=60 last=20261105 -> data/012450_naver_trend.csv
+[OK] 한화에어로스페이스(012450) rows=60 last=20261106 -> data/012450_naver_trend.csv
 [OK] ohlcv 한화에어로스페이스(012450) rows=300 20250813~20261106 -> data/012450_ohlcv.csv
-[OK] 한화시스템(272210) rows=60 last=20261105 -> data/272210_naver_trend.csv
+[OK] 한화시스템(272210) rows=60 last=20261106 -> data/272210_naver_trend.csv
 [OK] ohlcv 한화시스템(272210) rows=300 20250813~20261106 -> data/272210_ohlcv.csv
-[OK] LIG디펜스앤에어로스페이스(079550) rows=60 last=20261105 -> data/079550_naver_trend.csv
+[OK] LIG디펜스앤에어로스페이스(079550) rows=60 last=20261106 -> data/079550_naver_trend.csv
 [OK] ohlcv LIG디펜스앤에어로스페이스(079550) rows=300 20250813~20261106 -> data/079550_ohlcv.csv
-[OK] 한국항공우주(047810) rows=60 last=20261105 -> data/047810_naver_trend.csv
+[OK] 한국항공우주(047810) rows=60 last=20261106 -> data/047810_naver_trend.csv
 [OK] ohlcv 한국항공우주(047810) rows=300 20250813~20261106 -> data/047810_ohlcv.csv
-[OK] RF머트리얼즈(327260) rows=60 last=20261105 -> data/327260_naver_trend.csv
+[OK] RF머트리얼즈(327260) rows=60 last=20261106 -> data/327260_naver_trend.csv
 [OK] ohlcv RF머트리얼즈(327260) rows=300 20250813~20261106 -> data/327260_ohlcv.csv
-[OK] LS ELECTRIC(010120) rows=60 last=20261105 -> data/010120_naver_trend.csv
+[OK] LS ELECTRIC(010120) rows=60 last=20261106 -> data/010120_naver_trend.csv
 [OK] ohlcv LS ELECTRIC(010120) rows=300 20250813~20261106 -> data/010120_ohlcv.csv
-[OK] 한국전력(015760) rows=60 last=20261105 -> data/015760_naver_trend.csv
+[OK] 한국전력(015760) rows=60 last=20261106 -> data/015760_naver_trend.csv
 [OK] ohlcv 한국전력(015760) rows=300 20250813~20261106 -> data/015760_ohlcv.csv
-[OK] 씨에스윈드(112610) rows=60 last=20261105 -> data/112610_naver_trend.csv
+[OK] 씨에스윈드(112610) rows=60 last=20261106 -> data/112610_naver_trend.csv
 [OK] ohlcv 씨에스윈드(112610) rows=300 20250813~20261106 -> data/112610_ohlcv.csv
-[OK] SK이터닉스(475150) rows=60 last=20261105 -> data/475150_naver_trend.csv
+[OK] SK이터닉스(475150) rows=60 last=20261106 -> data/475150_naver_trend.csv
 [OK] ohlcv SK이터닉스(475150) rows=300 20250813~20261106 -> data/475150_ohlcv.csv
-[OK] 현대차(005380) rows=60 last=20261105 -> data/005380_naver_trend.csv
+[OK] 현대차(005380) rows=60 last=20261106 -> data/005380_naver_trend.csv
 [OK] ohlcv 현대차(005380) rows=300 20250813~20261106 -> data/005380_ohlcv.csv
-[OK] 기아(000270) rows=60 last=20261105 -> data/000270_naver_trend.csv
+[OK] 기아(000270) rows=60 last=20261106 -> data/000270_naver_trend.csv
 [OK] ohlcv 기아(000270) rows=300 20250813~20261106 -> data/000270_ohlcv.csv
-[OK] 현대모비스(012330) rows=60 last=20261105 -> data/012330_naver_trend.csv
+[OK] 현대모비스(012330) rows=60 last=20261106 -> data/012330_naver_trend.csv
 [OK] ohlcv 현대모비스(012330) rows=300 20250813~20261106 -> data/012330_ohlcv.csv
-[OK] 한국타이어앤테크놀로지(161390) rows=60 last=20261105 -> data/161390_naver_trend.csv
+[OK] 한국타이어앤테크놀로지(161390) rows=60 last=20261106 -> data/161390_naver_trend.csv
 [OK] ohlcv 한국타이어앤테크놀로지(161390) rows=300 20250813~20261106 -> data/161390_ohlcv.csv
-[OK] 셀트리온(068270) rows=60 last=20261105 -> data/068270_naver_trend.csv
+[OK] 셀트리온(068270) rows=60 last=20261106 -> data/068270_naver_trend.csv
 [OK] ohlcv 셀트리온(068270) rows=300 20250813~20261106 -> data/068270_ohlcv.csv
-[OK] 삼성바이오로직스(207940) rows=60 last=20261105 -> data/207940_naver_trend.csv
+[OK] 삼성바이오로직스(207940) rows=60 last=20261106 -> data/207940_naver_trend.csv
 [OK] ohlcv 삼성바이오로직스(207940) rows=300 20250813~20261106 -> data/207940_ohlcv.csv
-[OK] 삼성에피스홀딩스(0126Z0) rows=60 last=20261105 -> data/0126Z0_naver_trend.csv
+[OK] 삼성에피스홀딩스(0126Z0) rows=60 last=20261106 -> data/0126Z0_naver_trend.csv
 [OK] ohlcv 삼성에피스홀딩스(0126Z0) rows=233 20251124~20261106 -> data/0126Z0_ohlcv.csv
-[OK] SK바이오팜(326030) rows=60 last=20261105 -> data/326030_naver_trend.csv
+[OK] SK바이오팜(326030) rows=60 last=20261106 -> data/326030_naver_trend.csv
 [OK] ohlcv SK바이오팜(326030) rows=300 20250813~20261106 -> data/326030_ohlcv.csv
-[OK] 한미약품(128940) rows=60 last=20261105 -> data/128940_naver_trend.csv
+[OK] 한미약품(128940) rows=60 last=20261106 -> data/128940_naver_trend.csv
 [OK] ohlcv 한미약품(128940) rows=300 20250813~20261106 -> data/128940_ohlcv.csv
-[OK] 유한양행(000100) rows=60 last=20261105 -> data/000100_naver_trend.csv
+[OK] 유한양행(000100) rows=60 last=20261106 -> data/000100_naver_trend.csv
 [OK] ohlcv 유한양행(000100) rows=300 20250813~20261106 -> data/000100_ohlcv.csv
-[OK] 알테오젠(196170) rows=60 last=20261105 -> data/196170_naver_trend.csv
+[OK] 알테오젠(196170) rows=60 last=20261106 -> data/196170_naver_trend.csv
 [OK] ohlcv 알테오젠(196170) rows=300 20250813~20261106 -> data/196170_ohlcv.csv
-[OK] HLB(028300) rows=60 last=20261105 -> data/028300_naver_trend.csv
+[OK] HLB(028300) rows=60 last=20261106 -> data/028300_naver_trend.csv
 [OK] ohlcv HLB(028300) rows=300 20250813~20261106 -> data/028300_ohlcv.csv
-[OK] 신한지주(055550) rows=60 last=20261105 -> data/055550_naver_trend.csv
+[OK] 신한지주(055550) rows=60 last=20261106 -> data/055550_naver_trend.csv
 [OK] ohlcv 신한지주(055550) rows=300 20250813~20261106 -> data/055550_ohlcv.csv
-[OK] KB금융(105560) rows=60 last=20261105 -> data/105560_naver_trend.csv
+[OK] KB금융(105560) rows=60 last=20261106 -> data/105560_naver_trend.csv
 [OK] ohlcv KB금융(105560) rows=300 20250813~20261106 -> data/105560_ohlcv.csv
-[OK] 우리금융지주(316140) rows=60 last=20261105 -> data/316140_naver_trend.csv
+[OK] 우리금융지주(316140) rows=60 last=20261106 -> data/316140_naver_trend.csv
 [OK] ohlcv 우리금융지주(316140) rows=300 20250813~20261106 -> data/316140_ohlcv.csv
-[OK] 하나금융지주(086790) rows=60 last=20261105 -> data/086790_naver_trend.csv
+[OK] 하나금융지주(086790) rows=60 last=20261106 -> data/086790_naver_trend.csv
 [OK] ohlcv 하나금융지주(086790) rows=300 20250813~20261106 -> data/086790_ohlcv.csv
-[OK] 메리츠금융지주(138040) rows=60 last=20261105 -> data/138040_naver_trend.csv
+[OK] 메리츠금융지주(138040) rows=60 last=20261106 -> data/138040_naver_trend.csv
 [OK] ohlcv 메리츠금융지주(138040) rows=300 20250813~20261106 -> data/138040_ohlcv.csv
-[OK] 삼성화재(000810) rows=60 last=20261105 -> data/000810_naver_trend.csv
+[OK] 삼성화재(000810) rows=60 last=20261106 -> data/000810_naver_trend.csv
 [OK] ohlcv 삼성화재(000810) rows=300 20250813~20261106 -> data/000810_ohlcv.csv
-[OK] 에이피알(278470) rows=60 last=20261105 -> data/278470_naver_trend.csv
+[OK] 에이피알(278470) rows=60 last=20261106 -> data/278470_naver_trend.csv
 [OK] ohlcv 에이피알(278470) rows=300 20250813~20261106 -> data/278470_ohlcv.csv
-[OK] LG생활건강(051900) rows=60 last=20261105 -> data/051900_naver_trend.csv
+[OK] LG생활건강(051900) rows=60 last=20261106 -> data/051900_naver_trend.csv
 [OK] ohlcv LG생활건강(051900) rows=300 20250813~20261106 -> data/051900_ohlcv.csv
-[OK] 아모레퍼시픽(090430) rows=60 last=20261105 -> data/090430_naver_trend.csv
+[OK] 아모레퍼시픽(090430) rows=60 last=20261106 -> data/090430_naver_trend.csv
 [OK] ohlcv 아모레퍼시픽(090430) rows=300 20250813~20261106 -> data/090430_ohlcv.csv
-[OK] 한국콜마(161890) rows=60 last=20261105 -> data/161890_naver_trend.csv
+[OK] 한국콜마(161890) rows=60 last=20261106 -> data/161890_naver_trend.csv
 [OK] ohlcv 한국콜마(161890) rows=300 20250813~20261106 -> data/161890_ohlcv.csv
-[OK] 삼양식품(003230) rows=60 last=20261105 -> data/003230_naver_trend.csv
+[OK] 삼양식품(003230) rows=60 last=20261106 -> data/003230_naver_trend.csv
 [OK] ohlcv 삼양식품(003230) rows=300 20250813~20261106 -> data/003230_ohlcv.csv
-[OK] CJ제일제당(097950) rows=60 last=20261105 -> data/097950_naver_trend.csv
+[OK] CJ제일제당(097950) rows=60 last=20261106 -> data/097950_naver_trend.csv
 [OK] ohlcv CJ제일제당(097950) rows=300 20250813~20261106 -> data/097950_ohlcv.csv
-[OK] 오리온(271560) rows=60 last=20261105 -> data/271560_naver_trend.csv
+[OK] 오리온(271560) rows=60 last=20261106 -> data/271560_naver_trend.csv
 [OK] ohlcv 오리온(271560) rows=300 20250813~20261106 -> data/271560_ohlcv.csv
-[OK] KT&G(033780) rows=60 last=20261105 -> data/033780_naver_trend.csv
+[OK] KT&G(033780) rows=60 last=20261106 -> data/033780_naver_trend.csv
 [OK] ohlcv KT&G(033780) rows=300 20250813~20261106 -> data/033780_ohlcv.csv
-[OK] 이마트(139480) rows=60 last=20261105 -> data/139480_naver_trend.csv
+[OK] 이마트(139480) rows=60 last=20261106 -> data/139480_naver_trend.csv
 [OK] ohlcv 이마트(139480) rows=300 20250813~20261106 -> data/139480_ohlcv.csv
-[OK] 신세계(004170) rows=60 last=20261105 -> data/004170_naver_trend.csv
+[OK] 신세계(004170) rows=60 last=20261106 -> data/004170_naver_trend.csv
 [OK] ohlcv 신세계(004170) rows=300 20250813~20261106 -> data/004170_ohlcv.csv
-[OK] 현대백화점(069960) rows=60 last=20261105 -> data/069960_naver_trend.csv
+[OK] 현대백화점(069960) rows=60 last=20261106 -> data/069960_naver_trend.csv
 [OK] ohlcv 현대백화점(069960) rows=300 20250813~20261106 -> data/069960_ohlcv.csv
-[OK] 대우건설(047040) rows=60 last=20261105 -> data/047040_naver_trend.csv
+[OK] 대우건설(047040) rows=60 last=20261106 -> data/047040_naver_trend.csv
 [OK] ohlcv 대우건설(047040) rows=300 20250813~20261106 -> data/047040_ohlcv.csv
-[OK] 현대건설(000720) rows=60 last=20261105 -> data/000720_naver_trend.csv
+[OK] 현대건설(000720) rows=60 last=20261106 -> data/000720_naver_trend.csv
 [OK] ohlcv 현대건설(000720) rows=300 20250813~20261106 -> data/000720_ohlcv.csv
-[OK] 삼성E&A(028050) rows=60 last=20261105 -> data/028050_naver_trend.csv
+[OK] 삼성E&A(028050) rows=60 last=20261106 -> data/028050_naver_trend.csv
 [OK] ohlcv 삼성E&A(028050) rows=300 20250813~20261106 -> data/028050_ohlcv.csv
-[OK] 두산밥캣(241560) rows=60 last=20261105 -> data/241560_naver_trend.csv
+[OK] 두산밥캣(241560) rows=60 last=20261106 -> data/241560_naver_trend.csv
 [OK] ohlcv 두산밥캣(241560) rows=300 20250813~20261106 -> data/241560_ohlcv.csv
-[OK] 두산(000150) rows=60 last=20261105 -> data/000150_naver_trend.csv
+[OK] 두산(000150) rows=60 last=20261106 -> data/000150_naver_trend.csv
 [OK] ohlcv 두산(000150) rows=300 20250813~20261106 -> data/000150_ohlcv.csv
-[OK] 삼성물산(028260) rows=60 last=20261105 -> data/028260_naver_trend.csv
+[OK] 삼성물산(028260) rows=60 last=20261106 -> data/028260_naver_trend.csv
 [OK] ohlcv 삼성물산(028260) rows=300 20250813~20261106 -> data/028260_ohlcv.csv
-[OK] HD현대(267250) rows=60 last=20261105 -> data/267250_naver_trend.csv
+[OK] HD현대(267250) rows=60 last=20261106 -> data/267250_naver_trend.csv
 [OK] ohlcv HD현대(267250) rows=300 20250813~20261106 -> data/267250_ohlcv.csv

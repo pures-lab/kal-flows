@@ -1,6 +1,22 @@
 [
  {
   "itemCode": "251270",
+  "bizdate": "20261106",
+  "foreignerPureBuyQuant": "-42,978",
+  "foreignerHoldRatio": "14.87%",
+  "organPureBuyQuant": "+29,735",
+  "individualPureBuyQuant": "+13,127",
+  "closePrice": "34,700",
+  "compareToPreviousClosePrice": "-2,000",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "330,050"
+ },
+ {
+  "itemCode": "251270",
   "bizdate": "20261105",
   "foreignerPureBuyQuant": "+106,558",
   "foreignerHoldRatio": "14.92%",
@@ -942,21 +958,5 @@
    "name": "FALLING"
   },
   "accumulatedTradingVolume": "144,831"
- },
- {
-  "itemCode": "251270",
-  "bizdate": "20260807",
-  "foreignerPureBuyQuant": "+34,368",
-  "foreignerHoldRatio": "27.76%",
-  "organPureBuyQuant": "+37,033",
-  "individualPureBuyQuant": "-71,248",
-  "closePrice": "40,900",
-  "compareToPreviousClosePrice": "1,900",
-  "compareToPreviousPrice": {
-   "code": "2",
-   "text": "상승",
-   "name": "RISING"
-  },
-  "accumulatedTradingVolume": "209,356"
  }
 ]
