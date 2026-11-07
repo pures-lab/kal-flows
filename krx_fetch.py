@@ -20,6 +20,8 @@ import pandas as pd
 KST = timezone(timedelta(hours=9))
 OUT = "data/krx"
 TICKER_FILE = "tickers.txt"
+TIME_BUDGET_SEC = 9 * 60  # stop optional work after this (workflow step limit is 10 min)
+T0 = time.monotonic()
 status = []
 
 
@@ -146,16 +148,26 @@ def main() -> int:
             log(f"[FAIL] short_trade {mkt}: {type(e).__name__}: {e}")
 
     # 4) 공매도 순보유잔고 trend per ticker (last ~90 days)
-    #    KRX blocks long bursts on one session -> pace requests, re-login + retry on failure
+    #    KRX occasionally blocks long bursts: pace requests, retry once with a fresh
+    #    login, and stop after 3 tickers fail in a row or when the time budget is hit
+    #    (so the job can never run past the workflow timeout and lose everything).
     relogins = 0
+    fails_in_row = 0
+    sb_ok = 0
     for code, name in codes.items():
+        if fails_in_row >= 3:
+            log("[SKIP] short_balance stopped after 3 straight failures (KRX limit)")
+            break
+        if time.monotonic() - T0 > TIME_BUDGET_SEC:
+            log("[SKIP] short_balance stopped: time budget reached")
+            break
         try:
             if code not in isin:
                 raise RuntimeError("ISIN not found")
             df = None
-            for attempt in range(3):
+            for attempt in range(2):
                 try:
-                    time.sleep(0.4)
+                    time.sleep(0.3)
                     df = fetch(
                         "short_balance_individual_trend",
                         session=session,
@@ -165,9 +177,9 @@ def main() -> int:
                     )
                     break
                 except Exception:  # noqa: BLE001
-                    if attempt == 2:
+                    if attempt == 1:
                         raise
-                    time.sleep(3 + attempt * 3)
+                    time.sleep(2)
                     try:
                         auth = get_krx_auth()
                         auth.invalidate()  # singleton caches the session -> force a fresh login
@@ -180,10 +192,13 @@ def main() -> int:
             df.insert(0, "name", name)
             df.insert(0, "code", code)
             df.to_csv(f"{OUT}/{code}_short_balance.csv", index=False, encoding="utf-8-sig")
-            log(f"[OK] short_balance {name}({code}) rows={len(df)} cols={list(df.columns)[:10]}")
+            sb_ok += 1
+            fails_in_row = 0
+            log(f"[OK] short_balance {name}({code}) rows={len(df)}")
         except Exception as e:  # noqa: BLE001
-            log(f"[FAIL] short_balance {name}({code}): {type(e).__name__}: {e}")
-    log(f"short_balance relogins={relogins}")
+            fails_in_row += 1
+            log(f"[FAIL] short_balance {name}({code}): {type(e).__name__}: {str(e)[:160]}")
+    log(f"short_balance ok={sb_ok}/{len(codes)} relogins={relogins}")
 
     return finish()
 
