@@ -18,7 +18,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -34,10 +34,12 @@ jobs:
       - name: Fetch flows (Naver)
         run: python fetch_flows.py
         continue-on-error: true
+        timeout-minutes: 6
 
       - name: Fetch KRX (login)
         run: python krx_fetch.py
         continue-on-error: true
+        timeout-minutes: 10
         env:
           KRX_ID: ${{ secrets.KRX_ID }}
           KRX_PW: ${{ secrets.KRX_PW }}
