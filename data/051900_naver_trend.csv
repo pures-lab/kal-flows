@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-051900,LG생활건강,20261106,"+5,109",31.98%,+525,"-5,595","233,500","-5,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","58,387"
+051900,LG생활건강,20261106,"+5,109",31.90%,+525,"-5,595","233,500","-5,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","58,387"
 051900,LG생활건강,20261105,"+18,748",31.95%,"+5,208","-23,797","239,000","8,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","89,382"
 051900,LG생활건강,20261104,"-10,485",31.76%,"-36,863","+47,237","233,500","-28,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","181,437"
 051900,LG생활건강,20261103,"+4,890",31.90%,"-2,059","-2,986","253,500","-9,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","33,363"

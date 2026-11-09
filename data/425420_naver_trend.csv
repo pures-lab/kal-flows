@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-425420,티에프이,20261106,"+39,239",3.42%,"-31,272","-7,453","64,800","-4,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","236,782"
+425420,티에프이,20261106,"+39,239",3.48%,"-31,272","-7,453","64,800","-4,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","236,782"
 425420,티에프이,20261105,"+81,594",3.10%,"-53,954","-19,614","69,500","-11,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","263,838"
 425420,티에프이,20261104,"+21,405",2.28%,"+14,691","-35,449","82,200","4,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","201,879"
 425420,티에프이,20261103,"+60,547",2.06%,"-50,705","-9,227","79,100","-3,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","199,103"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-012450,한화에어로스페이스,20261106,"+3,505",45.13%,"+6,129","-9,083","659,000","-21,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","181,850"
+012450,한화에어로스페이스,20261106,"+3,505",45.14%,"+6,129","-9,083","659,000","-21,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","198,272"
 012450,한화에어로스페이스,20261105,-996,45.13%,"-15,130","+15,538","683,000","-52,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","209,557"
 012450,한화에어로스페이스,20261104,"+1,679",45.15%,+566,"-1,669","741,000","1,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","163,664"
 012450,한화에어로스페이스,20261103,"+13,365",45.14%,"-8,758","-4,707","743,000","3,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","175,042"

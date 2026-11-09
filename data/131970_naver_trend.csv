@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-131970,두산테스나,20261106,"+90,241",9.22%,"-108,402","+21,262","63,500","-4,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","451,221"
+131970,두산테스나,20261106,"+90,241",9.43%,"-108,402","+21,262","63,500","-4,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","451,221"
 131970,두산테스나,20261105,"+125,294",8.76%,"-157,236","+30,485","69,300","-12,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","454,944"
 131970,두산테스나,20261104,"+33,050",8.23%,"-20,468","-14,249","82,900","2,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","317,814"
 131970,두산테스나,20261103,"+112,643",8.11%,"-100,544","-13,103","82,900","-7,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","326,674"

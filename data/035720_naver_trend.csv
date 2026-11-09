@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-035720,카카오,20261106,"-147,162",28.97%,"+152,768","-443,815","32,000",-200,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","3,646,381"
+035720,카카오,20261106,"-147,162",28.97%,"+152,768","-443,815","32,000",-200,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","3,707,371"
 035720,카카오,20261105,"+838,298",29.00%,"+617,315","-1,441,080","32,400","3,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","5,009,583"
 035720,카카오,20261104,"+236,979",28.81%,"+12,588","-233,694","29,450",650,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,596,444"
 035720,카카오,20261103,"-68,675",28.76%,"-47,236","+149,364","28,900",-800,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","967,420"

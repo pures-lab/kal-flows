@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-086790,하나금융지주,20261106,"-136,309",68.22%,"+112,896","+20,435","118,300","-2,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","816,438"
+086790,하나금융지주,20261106,"-136,309",68.21%,"+112,896","+20,435","118,300","-2,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","816,438"
 086790,하나금융지주,20261105,"-112,414",68.27%,"+157,821","-41,365","122,000","4,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","685,236"
 086790,하나금융지주,20261104,"-65,826",68.33%,"+90,221","-24,421","119,200","3,100","{'code': '2', 'text': '상승', 'name': 'RISING'}","521,612"
 086790,하나금융지주,20261103,"-43,193",68.40%,"+44,450","-1,343","116,700","-1,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","306,801"

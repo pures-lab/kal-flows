@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-196170,알테오젠,20261106,"-45,644",16.24%,"+97,434","-53,436","201,000","-10,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","447,539"
+196170,알테오젠,20261106,"-45,644",16.25%,"+97,434","-53,436","201,000","-10,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","447,539"
 196170,알테오젠,20261105,"+77,585",16.31%,"+69,617","-142,366","211,500","7,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","518,623"
 196170,알테오젠,20261104,"-106,503",16.09%,"-54,148","+161,338","205,000","-8,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","753,371"
 196170,알테오젠,20261103,"+38,392",16.37%,"-27,422","-10,553","215,500","2,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","289,568"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-393890,더블유씨피,20261106,"-67,423",0.52%,"+20,536","+46,886","6,830",-500,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","284,011"
+393890,더블유씨피,20261106,"-67,423",0.56%,"+20,536","+46,886","6,830",-500,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","284,011"
 393890,더블유씨피,20261105,"-149,361",0.72%,"+7,706","+141,704","7,430",-870,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","385,209"
 393890,더블유씨피,20261104,"+37,943",1.16%,"+3,898","-41,900","8,230",720,"{'code': '2', 'text': '상승', 'name': 'RISING'}","299,071"
 393890,더블유씨피,20261103,"+23,542",1.23%,"-118,321","+94,779","7,660",-500,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","261,117"

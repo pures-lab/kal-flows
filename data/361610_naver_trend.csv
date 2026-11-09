@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-361610,SK아이이테크놀로지,20261106,-196,5.90%,"-6,415","+5,804","12,810",-540,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","156,935"
+361610,SK아이이테크놀로지,20261106,-196,5.92%,"-6,415","+5,804","12,810",-540,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","156,935"
 361610,SK아이이테크놀로지,20261105,"-73,439",5.90%,"+4,648","+67,114","13,340",-980,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","215,290"
 361610,SK아이이테크놀로지,20261104,-944,6.06%,"+29,608","-25,980","14,380",640,"{'code': '2', 'text': '상승', 'name': 'RISING'}","205,124"
 361610,SK아이이테크놀로지,20261103,"-29,392",6.11%,"-50,829","+78,773","13,760","-1,240","{'code': '5', 'text': '하락', 'name': 'FALLING'}","215,852"

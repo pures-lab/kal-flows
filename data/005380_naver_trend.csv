@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-005380,현대차,20261106,"-72,995",24.03%,"+112,997","-37,497","281,000","-12,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","638,352"
+005380,현대차,20261106,"-72,995",24.06%,"+112,997","-37,497","281,000","-12,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","651,478"
 005380,현대차,20261105,"-6,217",24.07%,"+121,135","-112,610","293,000","9,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,054,807"
 005380,현대차,20261104,"-36,767",24.06%,"+63,738","-29,327","287,500","10,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","663,328"
 005380,현대차,20261103,"-42,004",24.09%,"-17,243","+58,944","279,000","-8,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","461,930"

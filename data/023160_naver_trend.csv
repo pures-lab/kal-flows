@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-023160,태광,20261106,"+123,378",16.89%,"-156,798","+42,042","22,450","-4,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","916,439"
+023160,태광,20261106,"+123,378",16.96%,"-156,798","+42,042","22,450","-4,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","916,439"
 023160,태광,20261105,"-2,333",16.41%,"+34,690","-28,335","27,100","-1,150","{'code': '5', 'text': '하락', 'name': 'FALLING'}","207,248"
 023160,태광,20261104,"-27,528",16.38%,"+62,837","-35,833","28,500","1,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","276,617"
 023160,태광,20261103,"-39,587",16.45%,"-10,097","+50,643","27,650","-1,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","253,821"
