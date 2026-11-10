@@ -1,4 +1,4 @@
-run_at_kst=2026-11-10 18:58
+run_at_kst=2026-11-10 21:29
 [OK] tickers=104
 [OK] login
 [OK] listed_stocks rows=2875
@@ -106,44 +106,50 @@ run_at_kst=2026-11-10 18:58
 [OK] 두산(000150) rows=60 first_row_date=2026/11/10
 [OK] 삼성물산(028260) rows=60 first_row_date=2026/11/10
 [OK] HD현대(267250) rows=60 first_row_date=2026/11/10
-[OK] rank STK_foreign day=20261110 rows=879
-[OK] rank STK_inst day=20261110 rows=838
-[OK] rank STK_pension day=20261110 rows=358
-[OK] rank KSQ_foreign day=20261110 rows=1723
-[OK] rank KSQ_inst day=20261110 rows=1153
-[OK] rank KSQ_pension day=20261110 rows=133
+[OK] rank STK_foreign day=20261110 rows=888
+[OK] rank STK_inst day=20261110 rows=871
+[OK] rank STK_pension day=20261110 rows=359
+[OK] rank KSQ_foreign day=20261110 rows=1734
+[OK] rank KSQ_inst day=20261110 rows=1533
+[OK] rank KSQ_pension day=20261110 rows=134
 [OK] short_trade STK day=20261110 rows=1014 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
 [OK] short_trade KSQ day=20261110 rows=1835 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
-[OK] short_balance 대한항공(003490) rows=57
-[OK] short_balance 한진칼(180640) rows=57
-[OK] short_balance 아시아나항공(020560) rows=57
-[OK] short_balance 삼성전자(005930) rows=57
-[OK] short_balance SK하이닉스(000660) rows=57
-[OK] short_balance SK스퀘어(402340) rows=57
-[OK] short_balance 삼성전기(009150) rows=57
-[OK] short_balance 한미반도체(042700) rows=57
-[OK] short_balance 주성엔지니어링(036930) rows=57
-[OK] short_balance 대덕전자(353200) rows=57
-[OK] short_balance 삼화콘덴서(001820) rows=57
-[OK] short_balance 테스(095610) rows=57
-[OK] short_balance 기가비스(420770) rows=57
-[OK] short_balance 티에프이(425420) rows=57
-[OK] short_balance 티씨케이(064760) rows=57
-[OK] short_balance 원익홀딩스(030530) rows=57
-[OK] short_balance 두산테스나(131970) rows=57
-[OK] short_balance 제주반도체(080220) rows=57
-[OK] short_balance 리노공업(058470) rows=57
-[OK] short_balance 엑시콘(092870) rows=57
-[OK] short_balance 인텍플러스(064290) rows=57
-[OK] short_balance 피에스케이홀딩스(031980) rows=57
-[OK] short_balance 피에스케이(319660) rows=57
-[OK] short_balance LG전자(066570) rows=57
-[OK] short_balance 코웨이(021240) rows=57
-[OK] short_balance NAVER(035420) rows=57
-[OK] short_balance 카카오(035720) rows=57
-[OK] short_balance NC(036570) rows=57
-[FAIL] short_balance 크래프톤(259960): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance 넷마블(251270): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance 카카오게임즈(293490): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[OK] short_balance 대한항공(003490) rows=58
+[OK] short_balance 한진칼(180640) rows=58
+[OK] short_balance 아시아나항공(020560) rows=58
+[OK] short_balance 삼성전자(005930) rows=58
+[OK] short_balance SK하이닉스(000660) rows=58
+[OK] short_balance SK스퀘어(402340) rows=58
+[OK] short_balance 삼성전기(009150) rows=58
+[OK] short_balance 한미반도체(042700) rows=58
+[OK] short_balance 주성엔지니어링(036930) rows=58
+[OK] short_balance 대덕전자(353200) rows=58
+[OK] short_balance 삼화콘덴서(001820) rows=58
+[OK] short_balance 테스(095610) rows=58
+[OK] short_balance 기가비스(420770) rows=58
+[OK] short_balance 티에프이(425420) rows=58
+[OK] short_balance 티씨케이(064760) rows=58
+[OK] short_balance 원익홀딩스(030530) rows=58
+[OK] short_balance 두산테스나(131970) rows=58
+[OK] short_balance 제주반도체(080220) rows=58
+[OK] short_balance 리노공업(058470) rows=58
+[OK] short_balance 엑시콘(092870) rows=58
+[OK] short_balance 인텍플러스(064290) rows=58
+[OK] short_balance 피에스케이홀딩스(031980) rows=58
+[OK] short_balance 피에스케이(319660) rows=58
+[OK] short_balance LG전자(066570) rows=58
+[OK] short_balance 코웨이(021240) rows=58
+[OK] short_balance NAVER(035420) rows=58
+[OK] short_balance 카카오(035720) rows=58
+[OK] short_balance NC(036570) rows=58
+[OK] short_balance 크래프톤(259960) rows=58
+[OK] short_balance 넷마블(251270) rows=58
+[OK] short_balance 카카오게임즈(293490) rows=58
+[OK] short_balance LG씨엔에스(064400) rows=58
+[OK] short_balance 한화비전(489790) rows=58
+[OK] short_balance 대한광통신(010170) rows=58
+[FAIL] short_balance 하이브(352820): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance JYP Ent.(035900): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance SK텔레콤(017670): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
 [SKIP] short_balance stopped after 3 straight failures (KRX limit)
-short_balance ok=28/104 relogins=0
+short_balance ok=34/104 relogins=0
