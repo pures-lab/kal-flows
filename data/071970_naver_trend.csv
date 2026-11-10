@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-071970,HD현대마린엔진,20261109,"+7,596",13.13%,"-3,676","-8,937","34,200","-1,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","163,226"
+071970,HD현대마린엔진,20261109,"+7,596",13.04%,"-3,676","-8,937","34,200","-1,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","163,226"
 071970,HD현대마린엔진,20261106,"-18,154",13.11%,"+14,405","+3,826","35,900","-1,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","199,671"
 071970,HD현대마린엔진,20261105,"+54,800",12.67%,"-81,190","+25,352","37,550","-2,450","{'code': '5', 'text': '하락', 'name': 'FALLING'}","265,091"
 071970,HD현대마린엔진,20261104,"-27,234",12.51%,"+28,173",-950,"40,200",600,"{'code': '2', 'text': '상승', 'name': 'RISING'}","204,085"

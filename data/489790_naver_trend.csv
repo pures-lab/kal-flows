@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-489790,한화비전,20261109,"+75,495",24.03%,"-18,619","-57,186","40,400","2,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","343,809"
+489790,한화비전,20261109,"+75,495",24.13%,"-18,619","-57,186","40,400","2,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","343,809"
 489790,한화비전,20261106,"+46,002",23.88%,"-45,039","-2,487","38,700","-1,550","{'code': '5', 'text': '하락', 'name': 'FALLING'}","310,946"
 489790,한화비전,20261105,"+148,062",23.76%,"-162,497","+17,328","40,100","-7,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","646,161"
 489790,한화비전,20261104,"-11,772",23.65%,"+15,803","-2,509","47,800",-100,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","407,968"

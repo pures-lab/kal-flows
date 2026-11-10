@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-092870,엑시콘,20261109,"-146,991",6.93%,"+40,838","+105,812","45,600","4,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","731,544"
+092870,엑시콘,20261109,"-146,991",7.04%,"+40,838","+105,812","45,600","4,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","731,544"
 092870,엑시콘,20261106,"-14,270",8.05%,"+19,954","-6,532","44,600","-1,550","{'code': '5', 'text': '하락', 'name': 'FALLING'}","643,759"
 092870,엑시콘,20261105,"+99,486",8.26%,"-56,986","-14,917","46,300","-7,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","710,461"
 092870,엑시콘,20261104,"-55,224",7.54%,"-30,022","+85,798","54,800","1,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","786,364"

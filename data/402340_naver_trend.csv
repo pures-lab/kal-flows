@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-402340,SK스퀘어,20261109,"+13,794",45.82%,"+7,580","-20,160","703,000","-21,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","809,328"
+402340,SK스퀘어,20261109,"+13,794",45.81%,"+7,580","-20,160","703,000","-21,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","809,328"
 402340,SK스퀘어,20261106,"+14,803",45.81%,"-30,361","+14,333","752,000","-57,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","848,973"
 402340,SK스퀘어,20261105,"-1,313",45.80%,"-85,159","+85,150","804,000","-95,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","711,547"
 402340,SK스퀘어,20261104,"-121,713",45.80%,"+65,898","+54,407","912,000","13,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","900,605"

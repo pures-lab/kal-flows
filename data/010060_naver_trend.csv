@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-010060,OCI홀딩스,20261109,"-6,167",12.05%,"+28,489","-25,244","191,300","-8,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","309,718"
+010060,OCI홀딩스,20261109,"-6,167",12.15%,"+28,489","-25,244","191,300","-8,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","309,718"
 010060,OCI홀딩스,20261106,"-83,355",12.08%,"+93,237","-8,991","198,800","-5,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","543,397"
 010060,OCI홀딩스,20261105,"-84,711",12.64%,"+129,916","-39,088","206,500","6,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","612,176"
 010060,OCI홀딩스,20261104,"-162,823",13.32%,"+139,223","+21,051","208,000","26,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,105,966"

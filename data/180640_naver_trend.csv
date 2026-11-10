@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-180640,한진칼,20261109,"-14,274",18.31%,"+2,289","+5,842","216,000","19,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","832,332"
+180640,한진칼,20261109,"-14,274",18.33%,"+2,289","+5,842","216,000","19,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","832,332"
 180640,한진칼,20261106,"-2,807",18.33%,"+48,840","-43,094","196,700","6,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,387,782"
 180640,한진칼,20261105,"+11,787",18.41%,"-25,573","+10,552","182,700","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,074,656"
 180640,한진칼,20261104,"-31,514",18.30%,"+64,831","-19,024","187,800","12,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,291,472"

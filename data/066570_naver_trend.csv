@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-066570,LG전자,20261109,"-50,883",29.18%,"+119,392","-67,323","133,800","-4,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","698,516"
+066570,LG전자,20261109,"-50,883",29.20%,"+119,392","-67,323","133,800","-4,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","698,516"
 066570,LG전자,20261106,"+27,213",29.21%,"+49,766","-75,340","139,500","-3,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","712,909"
 066570,LG전자,20261105,"-26,710",29.16%,"+73,578","-49,528","142,000","-4,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","731,572"
 066570,LG전자,20261104,"+31,387",29.17%,"+16,869","-47,719","148,700","4,200","{'code': '2', 'text': '상승', 'name': 'RISING'}","697,666"

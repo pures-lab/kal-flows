@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-0126Z0,삼성에피스홀딩스,20261109,"-1,348",4.77%,+283,"-2,497","350,500","1,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","61,614"
+0126Z0,삼성에피스홀딩스,20261109,"-1,348",4.73%,+283,"-2,497","350,500","1,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","61,614"
 0126Z0,삼성에피스홀딩스,20261106,"-22,072",4.77%,"+27,919","-7,784","350,500","-16,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","72,602"
 0126Z0,삼성에피스홀딩스,20261105,"-1,380",4.87%,"+54,582","-50,085","365,500","44,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","146,476"
 0126Z0,삼성에피스홀딩스,20261104,"-1,418",4.82%,"+4,311","-2,989","323,000","17,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","34,038"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-293490,카카오게임즈,20261109,"+38,335",4.71%,"+4,656","-43,333","11,990",-350,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","367,150"
+293490,카카오게임즈,20261109,"+38,335",4.72%,"+4,656","-43,333","11,990",-350,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","367,150"
 293490,카카오게임즈,20261106,"-139,557",4.67%,"+159,728","-24,211","12,380",-310,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","657,600"
 293490,카카오게임즈,20261105,"+382,292",4.75%,"+102,931","-483,083","12,600",650,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,558,001"
 293490,카카오게임즈,20261104,"-79,901",4.36%,"+137,426","-58,005","12,020",30,"{'code': '2', 'text': '상승', 'name': 'RISING'}","761,905"

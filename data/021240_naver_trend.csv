@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-021240,코웨이,20261109,"-31,529",53.80%,"+11,622","-14,635","101,500","-6,100","{'code': '5', 'text': '하락', 'name': 'FALLING'}","271,104"
+021240,코웨이,20261109,"-31,529",53.75%,"+11,622","-14,635","101,500","-6,100","{'code': '5', 'text': '하락', 'name': 'FALLING'}","271,104"
 021240,코웨이,20261106,"-37,436",53.85%,"+42,752","-5,322","105,900","-3,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","179,012"
 021240,코웨이,20261105,"-81,878",53.88%,"+93,395","-10,536","111,200","7,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","173,146"
 021240,코웨이,20261104,"-18,973",54.00%,"+20,353","-1,396","106,700","2,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","238,654"
