@@ -1,4 +1,4 @@
-run_at_kst=2026-11-10 21:29
+run_at_kst=2026-11-10 23:30
 [OK] tickers=104
 [OK] login
 [OK] listed_stocks rows=2875
@@ -148,8 +148,11 @@ run_at_kst=2026-11-10 21:29
 [OK] short_balance LG씨엔에스(064400) rows=58
 [OK] short_balance 한화비전(489790) rows=58
 [OK] short_balance 대한광통신(010170) rows=58
-[FAIL] short_balance 하이브(352820): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance JYP Ent.(035900): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance SK텔레콤(017670): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[OK] short_balance 하이브(352820) rows=58
+[OK] short_balance JYP Ent.(035900) rows=58
+[OK] short_balance SK텔레콤(017670) rows=58
+[FAIL] short_balance KT(030200): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance LG유플러스(032640): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance 삼성SDI(006400): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
 [SKIP] short_balance stopped after 3 straight failures (KRX limit)
-short_balance ok=34/104 relogins=0
+short_balance ok=37/104 relogins=0
