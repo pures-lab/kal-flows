@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-064290,인텍플러스,20261110,"-157,790",5.57%,"+35,792","+144,432","41,350","1,850","{'code': '2', 'text': '상승', 'name': 'RISING'}","512,021"
+064290,인텍플러스,20261110,"-157,790",5.58%,"+35,792","+144,432","41,350","1,850","{'code': '2', 'text': '상승', 'name': 'RISING'}","512,021"
 064290,인텍플러스,20261109,"-113,231",6.78%,"+29,159","+72,695","38,450","2,250","{'code': '2', 'text': '상승', 'name': 'RISING'}","480,116"
 064290,인텍플러스,20261106,"+52,330",7.46%,"-60,588","+10,982","38,550","-2,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","584,022"
 064290,인텍플러스,20261105,"+253,075",7.12%,"-204,113","-15,072","41,000","-9,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","836,684"

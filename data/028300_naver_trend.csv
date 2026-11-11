@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-028300,HLB,20261110,"-22,163",12.99%,"-12,824","+33,887","30,150",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","608,152"
+028300,HLB,20261110,"-22,163",13.24%,"-12,824","+33,887","30,150",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","608,152"
 028300,HLB,20261109,"-52,798",13.00%,"+141,018","-88,216","30,000","-1,250","{'code': '5', 'text': '하락', 'name': 'FALLING'}","594,926"
 028300,HLB,20261106,"-98,721",13.08%,"+344,634","-244,419","31,300","-1,100","{'code': '5', 'text': '하락', 'name': 'FALLING'}","902,022"
 028300,HLB,20261105,"+163,322",13.15%,"+120,311","-284,739","32,450","-1,050","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,060,743"

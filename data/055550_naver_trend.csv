@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-055550,신한지주,20261110,"-155,451",60.71%,"+92,216","+61,331","85,800",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","1,033,795"
+055550,신한지주,20261110,"-155,451",60.70%,"+92,216","+61,331","85,800",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","1,033,795"
 055550,신한지주,20261109,"-321,840",60.74%,"+294,659","+29,727","87,100",400,"{'code': '2', 'text': '상승', 'name': 'RISING'}","903,389"
 055550,신한지주,20261106,"-295,884",60.80%,"+288,391","+6,024","87,100","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,220,717"
 055550,신한지주,20261105,"-158,809",60.86%,"+196,172","-38,820","89,300","3,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,061,471"

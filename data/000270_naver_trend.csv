@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-000270,기아,20261110,"-246,309",38.65%,"+77,349","+169,710","96,000","-1,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,292,701"
+000270,기아,20261110,"-246,309",38.64%,"+77,349","+169,710","96,000","-1,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,293,893"
 000270,기아,20261109,"-234,119",38.71%,"+200,420","+33,755","97,300","-3,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","748,776"
 000270,기아,20261106,"-194,788",38.77%,"+447,588","-232,937","100,300",-500,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,331,234"
 000270,기아,20261105,"+37,999",38.81%,"+250,276","-278,549","101,100","5,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,539,161"

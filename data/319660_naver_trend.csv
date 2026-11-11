@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-319660,피에스케이,20261110,"-8,907",23.65%,"+13,700",-671,"83,600","2,200","{'code': '2', 'text': '상승', 'name': 'RISING'}","288,838"
+319660,피에스케이,20261110,"-8,907",23.55%,"+13,700",-671,"83,600","2,200","{'code': '2', 'text': '상승', 'name': 'RISING'}","288,838"
 319660,피에스케이,20261109,"+16,313",23.68%,"+19,259","-35,678","80,400","2,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","300,373"
 319660,피에스케이,20261106,"+28,200",23.62%,"-23,272","-4,957","81,400","-7,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","550,828"
 319660,피에스케이,20261105,"+46,671",23.40%,"-71,502","+25,431","89,600","-19,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","390,595"

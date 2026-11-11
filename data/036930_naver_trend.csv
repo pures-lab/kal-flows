@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-036930,주성엔지니어링,20261110,"-191,288",9.40%,"+61,470","+130,967","151,500","9,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,300,708"
+036930,주성엔지니어링,20261110,"-191,288",9.44%,"+61,470","+130,967","151,500","9,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,300,708"
 036930,주성엔지니어링,20261109,"+27,308",9.81%,"+74,175","-111,469","139,300","6,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,787,743"
 036930,주성엔지니어링,20261106,"-49,715",9.64%,"+18,475","+30,151","137,400","-9,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,574,720"
 036930,주성엔지니어링,20261105,"-2,236",9.51%,"-82,137","+83,955","146,500","-20,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,312,711"

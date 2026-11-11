@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-058470,리노공업,20261110,"-9,080",26.14%,"+14,072","-5,222","48,250","1,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","570,574"
+058470,리노공업,20261110,"-9,080",26.18%,"+14,072","-5,222","48,250","1,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","570,574"
 058470,리노공업,20261109,"-4,713",26.16%,"-5,465","+7,226","45,850",-750,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","477,535"
 058470,리노공업,20261106,"+60,663",26.35%,"-79,950","+19,691","48,000","-2,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","822,311"
 058470,리노공업,20261105,"+166,053",26.21%,"-227,664","+68,865","50,600","-5,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","902,417"

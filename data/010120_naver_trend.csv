@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-010120,LS ELECTRIC,20261110,"+5,328",18.71%,"+119,856","-121,172","119,700","8,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","761,587"
+010120,LS ELECTRIC,20261110,"+5,328",18.86%,"+119,856","-121,172","119,700","8,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","761,587"
 010120,LS ELECTRIC,20261109,"-14,671",18.70%,"+10,270","+9,395","109,200","-7,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","792,405"
 010120,LS ELECTRIC,20261106,"+207,649",18.71%,"-281,665","+70,756","119,000","-10,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,344,482"
 010120,LS ELECTRIC,20261105,"-65,868",18.41%,"-195,401","+264,895","130,000","-20,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,324,718"

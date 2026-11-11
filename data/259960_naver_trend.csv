@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-259960,크래프톤,20261110,"-21,090",43.99%,"-1,834","-6,109","205,500","-12,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","84,317"
+259960,크래프톤,20261110,"-21,090",43.98%,"-1,834","-6,109","205,500","-12,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","84,317"
 259960,크래프톤,20261109,"-21,403",44.04%,"+6,897","-10,897","218,500","-2,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","111,455"
 259960,크래프톤,20261106,"-19,443",44.10%,"+20,198","-26,921","220,000","-1,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","150,349"
 259960,크래프톤,20261105,"-54,652",44.12%,"+79,492","-52,457","218,000","6,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","234,138"

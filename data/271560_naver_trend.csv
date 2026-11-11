@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-271560,오리온,20261110,"+1,581",38.52%,"-12,786","+10,838","113,700","-3,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","125,299"
+271560,오리온,20261110,"+1,581",38.50%,"-12,786","+10,838","113,700","-3,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","125,299"
 271560,오리온,20261109,"-37,463",38.52%,"+41,069","-3,297","117,100","-1,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","441,418"
 271560,오리온,20261106,"-76,712",38.62%,"+83,848","-7,816","119,400","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","149,277"
 271560,오리온,20261105,"-39,003",38.79%,"+67,570","-27,558","121,300","5,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","127,638"
