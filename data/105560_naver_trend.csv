@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-105560,KB금융,20261111,"+291,130",78.03%,"-276,842","-12,320","153,300",600,"{'code': '2', 'text': '상승', 'name': 'RISING'}","914,280"
+105560,KB금융,20261111,"+291,130",78.05%,"-276,842","-12,320","153,300",600,"{'code': '2', 'text': '상승', 'name': 'RISING'}","914,280"
 105560,KB금융,20261110,"+51,020",77.95%,"-63,513","+14,160","152,800","1,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","685,641"
 105560,KB금융,20261109,"-82,111",77.94%,"+84,658","+2,969","152,500","1,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,055,411"
 105560,KB금융,20261106,"-308,758",77.96%,"+253,835","+50,816","152,200","-4,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,614,963"

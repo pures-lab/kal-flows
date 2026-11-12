@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-064760,티씨케이,20261111,-711,67.38%,"-4,537","+5,178","181,700","22,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","106,361"
+064760,티씨케이,20261111,-711,67.39%,"-4,537","+5,178","181,700","22,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","106,361"
 064760,티씨케이,20261110,"+14,228",67.38%,"-22,855","+8,635","156,700","6,200","{'code': '2', 'text': '상승', 'name': 'RISING'}","78,263"
 064760,티씨케이,20261109,"-37,848",67.28%,"+26,250","+11,672","149,800","12,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","113,635"
 064760,티씨케이,20261106,"+37,084",67.61%,"-43,327","+6,316","144,200","-10,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","120,403"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-251270,넷마블,20261111,"-31,471",14.86%,"-33,773","+64,914","33,400","-1,450","{'code': '5', 'text': '하락', 'name': 'FALLING'}","215,012"
+251270,넷마블,20261111,"-31,471",14.84%,"-33,773","+64,914","33,400","-1,450","{'code': '5', 'text': '하락', 'name': 'FALLING'}","215,012"
 251270,넷마블,20261110,"+54,908",14.90%,"-34,343","-20,535","34,750",950,"{'code': '2', 'text': '상승', 'name': 'RISING'}","163,853"
 251270,넷마블,20261109,"-11,536",14.83%,"+20,726","-9,315","34,200",-450,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","155,276"
 251270,넷마블,20261106,"-42,978",14.84%,"+29,735","+13,127","34,700","-2,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","330,050"

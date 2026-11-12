@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-353200,대덕전자,20261111,"-328,792",14.40%,"+268,522","+57,264","93,500","13,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,212,229"
+353200,대덕전자,20261111,"-328,792",14.38%,"+268,522","+57,264","93,500","13,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,212,229"
 353200,대덕전자,20261110,"-204,705",15.07%,"+168,134","+22,707","79,100","3,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,522,298"
 353200,대덕전자,20261109,"-30,784",15.32%,"+256,350","-225,743","72,700","1,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,212,305"
 353200,대덕전자,20261106,"+219,692",15.36%,"-460,544","+233,681","74,600","-5,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,742,966"

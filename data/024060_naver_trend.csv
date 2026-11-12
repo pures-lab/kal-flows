@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-024060,흥구석유,20261111,"-12,089",4.83%,+11,"+12,103","10,020",-10,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","335,632"
+024060,흥구석유,20261111,"-12,089",4.81%,+11,"+12,103","10,020",-10,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","335,632"
 024060,흥구석유,20261110,"-16,296",4.91%,+11,"+16,775","10,030",-220,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","432,848"
 024060,흥구석유,20261109,"+75,921",5.02%,+9,"-75,910","9,960",-180,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","388,433"
 024060,흥구석유,20261106,"+97,276",4.47%,+9,"-97,540","10,060",-30,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","519,380"

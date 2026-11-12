@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-095610,테스,20261111,"-110,349",11.62%,"+151,451","-37,549","95,400","11,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","418,116"
+095610,테스,20261111,"-110,349",11.58%,"+151,451","-37,549","95,400","11,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","418,116"
 095610,테스,20261110,"-5,068",12.19%,"-30,981","+36,291","82,800","1,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","258,909"
 095610,테스,20261109,-443,12.33%,"+30,962","-30,872","79,400","1,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","278,965"
 095610,테스,20261106,"+209,659",12.85%,"-213,774","+4,002","80,300","-7,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","522,199"

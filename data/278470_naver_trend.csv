@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-278470,에이피알,20261111,"+101,870",39.31%,"-64,874","-38,009","253,000","2,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","362,546"
+278470,에이피알,20261111,"+101,870",39.34%,"-64,874","-38,009","253,000","2,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","385,533"
 278470,에이피알,20261110,"+15,546",39.03%,"-20,052","+6,508","251,500","4,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","230,051"
 278470,에이피알,20261109,"+41,873",38.96%,"-19,709","-20,939","243,500","-12,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","310,072"
 278470,에이피알,20261106,"-12,868",38.83%,"+35,025","-22,589","255,000","-14,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","275,163"

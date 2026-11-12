@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-241560,두산밥캣,20261111,"-20,222",38.31%,"+23,447","-2,590","53,200",-300,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","225,088"
+241560,두산밥캣,20261111,"-20,222",38.29%,"+23,447","-2,590","53,200",-300,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","225,088"
 241560,두산밥캣,20261110,"-39,971",38.33%,"+60,497","-18,103","53,600","2,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","204,552"
 241560,두산밥캣,20261109,"-68,459",38.36%,"+74,373","-3,691","52,200",500,"{'code': '2', 'text': '상승', 'name': 'RISING'}","269,398"
 241560,두산밥캣,20261106,"-70,135",38.44%,"+84,215","-13,529","52,500",800,"{'code': '2', 'text': '상승', 'name': 'RISING'}","290,174"

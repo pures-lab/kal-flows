@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-042660,한화오션,20261111,"+8,194",10.13%,"-162,072","+151,137","48,850",750,"{'code': '2', 'text': '상승', 'name': 'RISING'}","784,620"
+042660,한화오션,20261111,"+8,194",10.11%,"-162,072","+151,137","48,850",750,"{'code': '2', 'text': '상승', 'name': 'RISING'}","784,620"
 042660,한화오션,20261110,"+246,477",10.13%,"-93,458","-146,261","47,700","2,150","{'code': '2', 'text': '상승', 'name': 'RISING'}","908,659"
 042660,한화오션,20261109,"-69,689",9.94%,"+38,868","+31,204","45,100","-2,250","{'code': '5', 'text': '하락', 'name': 'FALLING'}","914,667"
 042660,한화오션,20261106,"+28,739",9.97%,"+51,390","-85,482","47,650","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,187,588"

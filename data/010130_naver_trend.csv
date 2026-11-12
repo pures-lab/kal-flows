@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-010130,고려아연,20261111,"+3,861",27.38%,"-11,526","+7,345","925,000","-42,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","24,842"
+010130,고려아연,20261111,"+3,861",27.39%,"-11,526","+7,345","925,000","-42,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","24,842"
 010130,고려아연,20261110,"-2,406",27.37%,"+3,657","-1,386","957,000","22,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","14,679"
 010130,고려아연,20261109,"-4,209",27.37%,"+5,154",-951,"936,000","-24,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","17,381"
 010130,고려아연,20261106,"-12,904",27.44%,"+15,799","-2,629","955,000","-34,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","35,579"

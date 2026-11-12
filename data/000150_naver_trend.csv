@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-000150,두산,20261111,"-16,159",21.54%,"+17,093",-911,"694,000","58,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","141,927"
+000150,두산,20261111,"-16,159",21.42%,"+17,093",-911,"694,000","58,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","141,927"
 000150,두산,20261110,"-14,077",21.65%,"-7,345","+19,949","626,000","15,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","236,289"
 000150,두산,20261109,"-2,452",21.73%,"-18,897","+21,459","595,000","-43,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","143,286"
 000150,두산,20261106,"+18,760",21.74%,"-18,767",-686,"655,000","-64,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","217,522"

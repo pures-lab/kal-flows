@@ -1,139 +1,144 @@
-run_at_kst=2026-11-11 23:32
+run_at_kst=2026-11-12 17:01
 [OK] tickers=104
 [OK] login
-[OK] listed_stocks rows=2876
-[OK] 대한항공(003490) rows=60 first_row_date=2026/11/11
-[OK] 한진칼(180640) rows=60 first_row_date=2026/11/11
-[OK] 아시아나항공(020560) rows=60 first_row_date=2026/11/11
-[OK] 삼성전자(005930) rows=60 first_row_date=2026/11/11
-[OK] SK하이닉스(000660) rows=60 first_row_date=2026/11/11
-[OK] SK스퀘어(402340) rows=60 first_row_date=2026/11/11
-[OK] 삼성전기(009150) rows=60 first_row_date=2026/11/11
-[OK] 한미반도체(042700) rows=60 first_row_date=2026/11/11
-[OK] 주성엔지니어링(036930) rows=60 first_row_date=2026/11/11
-[OK] 대덕전자(353200) rows=60 first_row_date=2026/11/11
-[OK] 삼화콘덴서(001820) rows=60 first_row_date=2026/11/11
-[OK] 테스(095610) rows=60 first_row_date=2026/11/11
-[OK] 기가비스(420770) rows=60 first_row_date=2026/11/11
-[OK] 티에프이(425420) rows=60 first_row_date=2026/11/11
-[OK] 티씨케이(064760) rows=60 first_row_date=2026/11/11
-[OK] 원익홀딩스(030530) rows=60 first_row_date=2026/11/11
-[OK] 두산테스나(131970) rows=60 first_row_date=2026/11/11
-[OK] 제주반도체(080220) rows=60 first_row_date=2026/11/11
-[OK] 리노공업(058470) rows=60 first_row_date=2026/11/11
-[OK] 엑시콘(092870) rows=60 first_row_date=2026/11/11
-[OK] 인텍플러스(064290) rows=60 first_row_date=2026/11/11
-[OK] 피에스케이홀딩스(031980) rows=60 first_row_date=2026/11/11
-[OK] 피에스케이(319660) rows=60 first_row_date=2026/11/11
-[OK] LG전자(066570) rows=60 first_row_date=2026/11/11
-[OK] 코웨이(021240) rows=60 first_row_date=2026/11/11
-[OK] NAVER(035420) rows=60 first_row_date=2026/11/11
-[OK] 카카오(035720) rows=60 first_row_date=2026/11/11
-[OK] NC(036570) rows=60 first_row_date=2026/11/11
-[OK] 크래프톤(259960) rows=60 first_row_date=2026/11/11
-[OK] 넷마블(251270) rows=60 first_row_date=2026/11/11
-[OK] 카카오게임즈(293490) rows=60 first_row_date=2026/11/11
-[OK] LG씨엔에스(064400) rows=60 first_row_date=2026/11/11
-[OK] 한화비전(489790) rows=60 first_row_date=2026/11/11
-[OK] 대한광통신(010170) rows=60 first_row_date=2026/11/11
-[OK] 하이브(352820) rows=60 first_row_date=2026/11/11
-[OK] JYP Ent.(035900) rows=60 first_row_date=2026/11/11
-[OK] SK텔레콤(017670) rows=60 first_row_date=2026/11/11
-[OK] KT(030200) rows=60 first_row_date=2026/11/11
-[OK] LG유플러스(032640) rows=60 first_row_date=2026/11/11
-[OK] 삼성SDI(006400) rows=60 first_row_date=2026/11/11
-[OK] LG에너지솔루션(373220) rows=60 first_row_date=2026/11/11
-[OK] 에코프로(086520) rows=60 first_row_date=2026/11/11
-[OK] 더블유씨피(393890) rows=60 first_row_date=2026/11/11
-[OK] SK아이이테크놀로지(361610) rows=60 first_row_date=2026/11/11
-[OK] 한화솔루션(009830) rows=60 first_row_date=2026/11/11
-[OK] LG화학(051910) rows=60 first_row_date=2026/11/11
-[OK] OCI홀딩스(010060) rows=60 first_row_date=2026/11/11
-[OK] 고려아연(010130) rows=60 first_row_date=2026/11/11
-[OK] S-Oil(010950) rows=60 first_row_date=2026/11/11
-[OK] SK이노베이션(096770) rows=60 first_row_date=2026/11/11
-[OK] 흥구석유(024060) rows=60 first_row_date=2026/11/11
-[OK] 삼성중공업(010140) rows=60 first_row_date=2026/11/11
-[OK] 한화오션(042660) rows=60 first_row_date=2026/11/11
-[OK] HD현대중공업(329180) rows=60 first_row_date=2026/11/11
-[OK] HD한국조선해양(009540) rows=60 first_row_date=2026/11/11
-[OK] HD현대마린엔진(071970) rows=60 first_row_date=2026/11/11
-[OK] 한화엔진(082740) rows=60 first_row_date=2026/11/11
-[OK] 태광(023160) rows=60 first_row_date=2026/11/11
-[OK] 성광벤드(014620) rows=60 first_row_date=2026/11/11
-[OK] 한화에어로스페이스(012450) rows=60 first_row_date=2026/11/11
-[OK] 한화시스템(272210) rows=60 first_row_date=2026/11/11
-[OK] LIG디펜스앤에어로스페이스(079550) rows=60 first_row_date=2026/11/11
-[OK] 한국항공우주(047810) rows=60 first_row_date=2026/11/11
-[OK] RF머트리얼즈(327260) rows=60 first_row_date=2026/11/11
-[OK] LS ELECTRIC(010120) rows=60 first_row_date=2026/11/11
-[OK] 한국전력(015760) rows=60 first_row_date=2026/11/11
-[OK] 씨에스윈드(112610) rows=60 first_row_date=2026/11/11
-[OK] SK이터닉스(475150) rows=60 first_row_date=2026/11/11
-[OK] 현대차(005380) rows=60 first_row_date=2026/11/11
-[OK] 기아(000270) rows=60 first_row_date=2026/11/11
-[OK] 현대모비스(012330) rows=60 first_row_date=2026/11/11
-[OK] 한국타이어앤테크놀로지(161390) rows=60 first_row_date=2026/11/11
-[OK] 셀트리온(068270) rows=60 first_row_date=2026/11/11
-[OK] 삼성바이오로직스(207940) rows=60 first_row_date=2026/11/11
-[OK] 삼성에피스홀딩스(0126Z0) rows=60 first_row_date=2026/11/11
-[OK] SK바이오팜(326030) rows=60 first_row_date=2026/11/11
-[OK] 한미약품(128940) rows=60 first_row_date=2026/11/11
-[OK] 유한양행(000100) rows=60 first_row_date=2026/11/11
-[OK] 알테오젠(196170) rows=60 first_row_date=2026/11/11
-[OK] HLB(028300) rows=60 first_row_date=2026/11/11
-[OK] 신한지주(055550) rows=60 first_row_date=2026/11/11
-[OK] KB금융(105560) rows=60 first_row_date=2026/11/11
-[OK] 우리금융지주(316140) rows=60 first_row_date=2026/11/11
-[OK] 하나금융지주(086790) rows=60 first_row_date=2026/11/11
-[OK] 메리츠금융지주(138040) rows=60 first_row_date=2026/11/11
-[OK] 삼성화재(000810) rows=60 first_row_date=2026/11/11
-[OK] 에이피알(278470) rows=60 first_row_date=2026/11/11
-[OK] LG생활건강(051900) rows=60 first_row_date=2026/11/11
-[OK] 아모레퍼시픽(090430) rows=60 first_row_date=2026/11/11
-[OK] 한국콜마(161890) rows=60 first_row_date=2026/11/11
-[OK] 삼양식품(003230) rows=60 first_row_date=2026/11/11
-[OK] CJ제일제당(097950) rows=60 first_row_date=2026/11/11
-[OK] 오리온(271560) rows=60 first_row_date=2026/11/11
-[OK] KT&G(033780) rows=60 first_row_date=2026/11/11
-[OK] 이마트(139480) rows=60 first_row_date=2026/11/11
-[OK] 신세계(004170) rows=60 first_row_date=2026/11/11
-[OK] 현대백화점(069960) rows=60 first_row_date=2026/11/11
-[OK] 대우건설(047040) rows=60 first_row_date=2026/11/11
-[OK] 현대건설(000720) rows=60 first_row_date=2026/11/11
-[OK] 삼성E&A(028050) rows=60 first_row_date=2026/11/11
-[OK] 두산밥캣(241560) rows=60 first_row_date=2026/11/11
-[OK] 두산(000150) rows=60 first_row_date=2026/11/11
-[OK] 삼성물산(028260) rows=60 first_row_date=2026/11/11
-[OK] HD현대(267250) rows=60 first_row_date=2026/11/11
-[OK] rank STK_foreign day=20261111 rows=895
-[OK] rank STK_inst day=20261111 rows=868
-[OK] rank STK_pension day=20261111 rows=348
-[OK] rank KSQ_foreign day=20261111 rows=1743
-[OK] rank KSQ_inst day=20261111 rows=1519
-[OK] rank KSQ_pension day=20261111 rows=161
-[OK] short_trade STK day=20261111 rows=1014 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
-[OK] short_trade KSQ day=20261111 rows=1836 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
-[OK] short_balance 대한항공(003490) rows=58
-[OK] short_balance 한진칼(180640) rows=58
-[OK] short_balance 아시아나항공(020560) rows=58
-[OK] short_balance 삼성전자(005930) rows=58
-[OK] short_balance SK하이닉스(000660) rows=58
-[OK] short_balance SK스퀘어(402340) rows=58
-[OK] short_balance 삼성전기(009150) rows=58
-[OK] short_balance 한미반도체(042700) rows=58
-[OK] short_balance 주성엔지니어링(036930) rows=58
-[OK] short_balance 대덕전자(353200) rows=58
-[OK] short_balance 삼화콘덴서(001820) rows=58
-[OK] short_balance 테스(095610) rows=58
-[OK] short_balance 기가비스(420770) rows=58
-[OK] short_balance 티에프이(425420) rows=58
-[OK] short_balance 티씨케이(064760) rows=58
-[OK] short_balance 원익홀딩스(030530) rows=58
-[OK] short_balance 두산테스나(131970) rows=58
-[OK] short_balance 제주반도체(080220) rows=58
-[FAIL] short_balance 리노공업(058470): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance 엑시콘(092870): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance 인텍플러스(064290): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[OK] listed_stocks rows=2877
+[OK] 대한항공(003490) rows=60 first_row_date=2026/11/12
+[OK] 한진칼(180640) rows=60 first_row_date=2026/11/12
+[OK] 아시아나항공(020560) rows=60 first_row_date=2026/11/12
+[OK] 삼성전자(005930) rows=60 first_row_date=2026/11/12
+[OK] SK하이닉스(000660) rows=60 first_row_date=2026/11/12
+[OK] SK스퀘어(402340) rows=60 first_row_date=2026/11/12
+[OK] 삼성전기(009150) rows=60 first_row_date=2026/11/12
+[OK] 한미반도체(042700) rows=60 first_row_date=2026/11/12
+[OK] 주성엔지니어링(036930) rows=60 first_row_date=2026/11/12
+[OK] 대덕전자(353200) rows=60 first_row_date=2026/11/12
+[OK] 삼화콘덴서(001820) rows=60 first_row_date=2026/11/12
+[OK] 테스(095610) rows=60 first_row_date=2026/11/12
+[OK] 기가비스(420770) rows=60 first_row_date=2026/11/12
+[OK] 티에프이(425420) rows=60 first_row_date=2026/11/12
+[OK] 티씨케이(064760) rows=60 first_row_date=2026/11/12
+[OK] 원익홀딩스(030530) rows=60 first_row_date=2026/11/12
+[OK] 두산테스나(131970) rows=60 first_row_date=2026/11/12
+[OK] 제주반도체(080220) rows=60 first_row_date=2026/11/12
+[OK] 리노공업(058470) rows=60 first_row_date=2026/11/12
+[OK] 엑시콘(092870) rows=60 first_row_date=2026/11/12
+[OK] 인텍플러스(064290) rows=60 first_row_date=2026/11/12
+[OK] 피에스케이홀딩스(031980) rows=60 first_row_date=2026/11/12
+[OK] 피에스케이(319660) rows=60 first_row_date=2026/11/12
+[OK] LG전자(066570) rows=60 first_row_date=2026/11/12
+[OK] 코웨이(021240) rows=60 first_row_date=2026/11/12
+[OK] NAVER(035420) rows=60 first_row_date=2026/11/12
+[OK] 카카오(035720) rows=60 first_row_date=2026/11/12
+[OK] NC(036570) rows=60 first_row_date=2026/11/12
+[OK] 크래프톤(259960) rows=60 first_row_date=2026/11/12
+[OK] 넷마블(251270) rows=60 first_row_date=2026/11/12
+[OK] 카카오게임즈(293490) rows=60 first_row_date=2026/11/12
+[OK] LG씨엔에스(064400) rows=60 first_row_date=2026/11/12
+[OK] 한화비전(489790) rows=60 first_row_date=2026/11/12
+[OK] 대한광통신(010170) rows=60 first_row_date=2026/11/12
+[OK] 하이브(352820) rows=60 first_row_date=2026/11/12
+[OK] JYP Ent.(035900) rows=60 first_row_date=2026/11/12
+[OK] SK텔레콤(017670) rows=60 first_row_date=2026/11/12
+[OK] KT(030200) rows=60 first_row_date=2026/11/12
+[OK] LG유플러스(032640) rows=60 first_row_date=2026/11/12
+[OK] 삼성SDI(006400) rows=60 first_row_date=2026/11/12
+[OK] LG에너지솔루션(373220) rows=60 first_row_date=2026/11/12
+[OK] 에코프로(086520) rows=60 first_row_date=2026/11/12
+[OK] 더블유씨피(393890) rows=60 first_row_date=2026/11/12
+[OK] SK아이이테크놀로지(361610) rows=60 first_row_date=2026/11/12
+[OK] 한화솔루션(009830) rows=60 first_row_date=2026/11/12
+[OK] LG화학(051910) rows=60 first_row_date=2026/11/12
+[OK] OCI홀딩스(010060) rows=60 first_row_date=2026/11/12
+[OK] 고려아연(010130) rows=60 first_row_date=2026/11/12
+[OK] S-Oil(010950) rows=60 first_row_date=2026/11/12
+[OK] SK이노베이션(096770) rows=60 first_row_date=2026/11/12
+[OK] 흥구석유(024060) rows=60 first_row_date=2026/11/12
+[OK] 삼성중공업(010140) rows=60 first_row_date=2026/11/12
+[OK] 한화오션(042660) rows=60 first_row_date=2026/11/12
+[OK] HD현대중공업(329180) rows=60 first_row_date=2026/11/12
+[OK] HD한국조선해양(009540) rows=60 first_row_date=2026/11/12
+[OK] HD현대마린엔진(071970) rows=60 first_row_date=2026/11/12
+[OK] 한화엔진(082740) rows=60 first_row_date=2026/11/12
+[OK] 태광(023160) rows=60 first_row_date=2026/11/12
+[OK] 성광벤드(014620) rows=60 first_row_date=2026/11/12
+[OK] 한화에어로스페이스(012450) rows=60 first_row_date=2026/11/12
+[OK] 한화시스템(272210) rows=60 first_row_date=2026/11/12
+[OK] LIG디펜스앤에어로스페이스(079550) rows=60 first_row_date=2026/11/12
+[OK] 한국항공우주(047810) rows=60 first_row_date=2026/11/12
+[OK] RF머트리얼즈(327260) rows=60 first_row_date=2026/11/12
+[OK] LS ELECTRIC(010120) rows=60 first_row_date=2026/11/12
+[OK] 한국전력(015760) rows=60 first_row_date=2026/11/12
+[OK] 씨에스윈드(112610) rows=60 first_row_date=2026/11/12
+[OK] SK이터닉스(475150) rows=60 first_row_date=2026/11/12
+[OK] 현대차(005380) rows=60 first_row_date=2026/11/12
+[OK] 기아(000270) rows=60 first_row_date=2026/11/12
+[OK] 현대모비스(012330) rows=60 first_row_date=2026/11/12
+[OK] 한국타이어앤테크놀로지(161390) rows=60 first_row_date=2026/11/12
+[OK] 셀트리온(068270) rows=60 first_row_date=2026/11/12
+[OK] 삼성바이오로직스(207940) rows=60 first_row_date=2026/11/12
+[OK] 삼성에피스홀딩스(0126Z0) rows=60 first_row_date=2026/11/12
+[OK] SK바이오팜(326030) rows=60 first_row_date=2026/11/12
+[OK] 한미약품(128940) rows=60 first_row_date=2026/11/12
+[OK] 유한양행(000100) rows=60 first_row_date=2026/11/12
+[OK] 알테오젠(196170) rows=60 first_row_date=2026/11/12
+[OK] HLB(028300) rows=60 first_row_date=2026/11/12
+[OK] 신한지주(055550) rows=60 first_row_date=2026/11/12
+[OK] KB금융(105560) rows=60 first_row_date=2026/11/12
+[OK] 우리금융지주(316140) rows=60 first_row_date=2026/11/12
+[OK] 하나금융지주(086790) rows=60 first_row_date=2026/11/12
+[OK] 메리츠금융지주(138040) rows=60 first_row_date=2026/11/12
+[OK] 삼성화재(000810) rows=60 first_row_date=2026/11/12
+[OK] 에이피알(278470) rows=60 first_row_date=2026/11/12
+[OK] LG생활건강(051900) rows=60 first_row_date=2026/11/12
+[OK] 아모레퍼시픽(090430) rows=60 first_row_date=2026/11/12
+[OK] 한국콜마(161890) rows=60 first_row_date=2026/11/12
+[OK] 삼양식품(003230) rows=60 first_row_date=2026/11/12
+[OK] CJ제일제당(097950) rows=60 first_row_date=2026/11/12
+[OK] 오리온(271560) rows=60 first_row_date=2026/11/12
+[OK] KT&G(033780) rows=60 first_row_date=2026/11/12
+[OK] 이마트(139480) rows=60 first_row_date=2026/11/12
+[OK] 신세계(004170) rows=60 first_row_date=2026/11/12
+[OK] 현대백화점(069960) rows=60 first_row_date=2026/11/12
+[OK] 대우건설(047040) rows=60 first_row_date=2026/11/12
+[OK] 현대건설(000720) rows=60 first_row_date=2026/11/12
+[OK] 삼성E&A(028050) rows=60 first_row_date=2026/11/12
+[OK] 두산밥캣(241560) rows=60 first_row_date=2026/11/12
+[OK] 두산(000150) rows=60 first_row_date=2026/11/12
+[OK] 삼성물산(028260) rows=60 first_row_date=2026/11/12
+[OK] HD현대(267250) rows=60 first_row_date=2026/11/12
+[OK] rank STK_foreign day=20261112 rows=877
+[OK] rank STK_inst day=20261112 rows=845
+[OK] rank STK_pension day=20261112 rows=314
+[OK] rank KSQ_foreign day=20261112 rows=1730
+[OK] rank KSQ_inst day=20261112 rows=1135
+[OK] rank KSQ_pension day=20261112 rows=127
+[OK] short_trade STK day=20261112 rows=1014 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
+[OK] short_trade KSQ day=20261112 rows=1837 cols=['ISU_CD', 'ISU_ABBRV', 'SECUGRP_NM', 'CVSRTSELL_TRDVOL', 'UPTICKRULE_APPL_TRDVOL', 'UPTICKRULE_EXCPT_TRDVOL', 'ACC_TRDVOL', 'TRDVOL_WT', 'CVSRTSELL_TRDVAL', 'UPTICKRULE_APPL_TRDVAL', 'UPTICKRULE_EXCPT_TRDVAL', 'ACC_TRDVAL']
+[OK] short_balance 대한항공(003490) rows=57
+[OK] short_balance 한진칼(180640) rows=57
+[OK] short_balance 아시아나항공(020560) rows=57
+[OK] short_balance 삼성전자(005930) rows=57
+[OK] short_balance SK하이닉스(000660) rows=57
+[OK] short_balance SK스퀘어(402340) rows=57
+[OK] short_balance 삼성전기(009150) rows=57
+[OK] short_balance 한미반도체(042700) rows=57
+[OK] short_balance 주성엔지니어링(036930) rows=57
+[OK] short_balance 대덕전자(353200) rows=57
+[OK] short_balance 삼화콘덴서(001820) rows=57
+[OK] short_balance 테스(095610) rows=57
+[OK] short_balance 기가비스(420770) rows=57
+[OK] short_balance 티에프이(425420) rows=57
+[OK] short_balance 티씨케이(064760) rows=57
+[OK] short_balance 원익홀딩스(030530) rows=57
+[OK] short_balance 두산테스나(131970) rows=57
+[OK] short_balance 제주반도체(080220) rows=57
+[OK] short_balance 리노공업(058470) rows=57
+[OK] short_balance 엑시콘(092870) rows=57
+[OK] short_balance 인텍플러스(064290) rows=57
+[OK] short_balance 피에스케이홀딩스(031980) rows=57
+[OK] short_balance 피에스케이(319660) rows=57
+[FAIL] short_balance LG전자(066570): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance 코웨이(021240): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance NAVER(035420): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
 [SKIP] short_balance stopped after 3 straight failures (KRX limit)
-short_balance ok=18/104 relogins=0
+short_balance ok=23/104 relogins=0
