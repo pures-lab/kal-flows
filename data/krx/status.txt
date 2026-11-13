@@ -1,4 +1,4 @@
-run_at_kst=2026-11-13 21:33
+run_at_kst=2026-11-13 23:32
 [OK] tickers=104
 [OK] login
 [OK] listed_stocks rows=2877
@@ -138,15 +138,8 @@ run_at_kst=2026-11-13 21:33
 [OK] short_balance 피에스케이홀딩스(031980) rows=58
 [OK] short_balance 피에스케이(319660) rows=58
 [OK] short_balance LG전자(066570) rows=58
-[OK] short_balance 코웨이(021240) rows=58
-[OK] short_balance NAVER(035420) rows=58
-[OK] short_balance 카카오(035720) rows=58
-[OK] short_balance NC(036570) rows=58
-[OK] short_balance 크래프톤(259960) rows=58
-[OK] short_balance 넷마블(251270) rows=58
-[OK] short_balance 카카오게임즈(293490) rows=58
-[FAIL] short_balance LG씨엔에스(064400): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance 한화비전(489790): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
-[FAIL] short_balance 대한광통신(010170): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance 코웨이(021240): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance NAVER(035420): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
+[FAIL] short_balance 카카오(035720): KRXFetchError: JSON parse failed for bld=dbms/MDC/STAT/srt/MDCSTAT30502: Expecting value: line 13 column 1 (char 25)
 [SKIP] short_balance stopped after 3 straight failures (KRX limit)
-short_balance ok=31/104 relogins=0
+short_balance ok=24/104 relogins=0
