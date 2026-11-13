@@ -1,6 +1,22 @@
 [
  {
   "itemCode": "096770",
+  "bizdate": "20261113",
+  "foreignerPureBuyQuant": "-30,489",
+  "foreignerHoldRatio": "16.79%",
+  "organPureBuyQuant": "-45,684",
+  "individualPureBuyQuant": "+73,925",
+  "closePrice": "109,400",
+  "compareToPreviousClosePrice": "2,000",
+  "compareToPreviousPrice": {
+   "code": "2",
+   "text": "상승",
+   "name": "RISING"
+  },
+  "accumulatedTradingVolume": "352,344"
+ },
+ {
+  "itemCode": "096770",
   "bizdate": "20261112",
   "foreignerPureBuyQuant": "+63,085",
   "foreignerHoldRatio": "16.81%",
@@ -942,21 +958,5 @@
    "name": "RISING"
   },
   "accumulatedTradingVolume": "822,162"
- },
- {
-  "itemCode": "096770",
-  "bizdate": "20260814",
-  "foreignerPureBuyQuant": "+164,697",
-  "foreignerHoldRatio": "15.07%",
-  "organPureBuyQuant": "+38,681",
-  "individualPureBuyQuant": "-208,802",
-  "closePrice": "128,700",
-  "compareToPreviousClosePrice": "7,000",
-  "compareToPreviousPrice": {
-   "code": "2",
-   "text": "상승",
-   "name": "RISING"
-  },
-  "accumulatedTradingVolume": "677,520"
  }
 ]
