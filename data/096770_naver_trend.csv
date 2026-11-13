@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-096770,SK이노베이션,20261112,"+63,085",16.82%,"-146,482","+82,027","108,300","-2,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","492,524"
+096770,SK이노베이션,20261112,"+63,085",16.81%,"-146,482","+82,027","108,300","-2,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","492,524"
 096770,SK이노베이션,20261111,"-10,247",16.78%,"-49,282","+59,271","111,400","1,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","389,840"
 096770,SK이노베이션,20261110,"+49,437",16.80%,"-76,400","+26,721","109,500","2,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","435,601"
 096770,SK이노베이션,20261109,"+37,645",16.76%,"-90,488","+51,319","106,600","-2,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","530,055"

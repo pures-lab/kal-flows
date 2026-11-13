@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-032640,LG유플러스,20261112,"-13,478",39.42%,"-68,236","+83,674","15,230",-210,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,484,824"
+032640,LG유플러스,20261112,"-13,478",39.41%,"-68,236","+83,674","15,230",-210,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,484,824"
 032640,LG유플러스,20261111,"-191,444",39.42%,"+185,869","-1,936","15,500",-360,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,328,976"
 032640,LG유플러스,20261110,+976,39.47%,"+33,889","-34,800","15,860",-120,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,201,072"
 032640,LG유플러스,20261109,"-784,620",39.47%,"+976,492","-188,733","16,380",-380,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,687,838"

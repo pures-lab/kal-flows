@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-080220,제주반도체,20261112,"-79,424",0.80%,"-37,772","+117,815","60,100","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","843,460"
+080220,제주반도체,20261112,"-79,424",0.82%,"-37,772","+117,815","60,100","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","843,460"
 080220,제주반도체,20261111,"+41,474",1.03%,"+7,459","-52,468","63,600","7,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,045,775"
 080220,제주반도체,20261110,"-48,897",0.88%,"+22,596","+22,991","55,300","2,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","810,898"
 080220,제주반도체,20261109,"+103,651",0.76%,"+35,841","-139,080","52,000","1,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","905,231"

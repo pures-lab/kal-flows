@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-475150,SK이터닉스,20261112,"-111,722",5.85%,"-18,988","+140,802","36,600","-2,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","525,040"
+475150,SK이터닉스,20261112,"-111,722",5.72%,"-18,988","+140,802","36,600","-2,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","525,040"
 475150,SK이터닉스,20261111,"+88,785",6.18%,"+20,716","-108,128","39,600","1,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","619,089"
 475150,SK이터닉스,20261110,"+56,206",5.93%,"-18,209","-38,366","37,750",500,"{'code': '2', 'text': '상승', 'name': 'RISING'}","699,608"
 475150,SK이터닉스,20261109,"+21,777",5.77%,"+62,487","-86,542","36,650","-1,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","699,917"

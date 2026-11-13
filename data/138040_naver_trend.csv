@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-138040,메리츠금융지주,20261112,"-83,580",14.30%,"-153,042","+223,944","112,800","-16,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","782,919"
+138040,메리츠금융지주,20261112,"-83,580",14.27%,"-153,042","+223,944","112,800","-16,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","782,919"
 138040,메리츠금융지주,20261111,"+16,399",14.35%,"-9,237","-8,302","124,300","-4,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","208,149"
 138040,메리츠금융지주,20261110,"+22,419",14.34%,"-20,618","+2,410","128,500",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","202,602"
 138040,메리츠금융지주,20261109,"-2,072",14.32%,"-4,811","+7,599","129,800","-2,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","264,375"

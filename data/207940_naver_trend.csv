@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-207940,삼성바이오로직스,20261112,"+4,161",12.60%,-556,"-3,559","1,447,000","17,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","102,622"
+207940,삼성바이오로직스,20261112,"+4,161",12.59%,-556,"-3,559","1,447,000","17,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","102,622"
 207940,삼성바이오로직스,20261111,"-4,581",12.59%,"-4,975","+9,692","1,436,000","-32,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","80,880"
 207940,삼성바이오로직스,20261110,-744,12.62%,"-8,606","+9,365","1,474,000","-36,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","68,654"
 207940,삼성바이오로직스,20261109,"-9,321",12.61%,"+23,291","-13,196","1,517,000","1,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","67,904"

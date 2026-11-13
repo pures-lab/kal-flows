@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-064400,LG씨엔에스,20261112,"+47,425",5.45%,"-64,022","+19,370","74,800","-4,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","854,792"
+064400,LG씨엔에스,20261112,"+47,425",5.68%,"-64,022","+19,370","74,800","-4,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","854,792"
 064400,LG씨엔에스,20261111,"+18,518",5.40%,"-98,288","+77,329","79,200",-900,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,007,860"
 064400,LG씨엔에스,20261110,"-3,091",5.38%,"+100,321","-90,339","78,700","1,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,591,880"
 064400,LG씨엔에스,20261109,"+94,813",5.39%,"+339,731","-428,796","77,600","3,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,641,972"

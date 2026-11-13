@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-010140,삼성중공업,20261112,"+1,615,106",28.51%,"-1,077,442","-524,162","16,560",70,"{'code': '2', 'text': '상승', 'name': 'RISING'}","4,307,501"
+010140,삼성중공업,20261112,"+1,615,106",28.52%,"-1,077,442","-524,162","16,560",70,"{'code': '2', 'text': '상승', 'name': 'RISING'}","4,307,501"
 010140,삼성중공업,20261111,"-115,443",28.33%,"-9,000","+127,470","16,520",70,"{'code': '2', 'text': '상승', 'name': 'RISING'}","2,841,307"
 010140,삼성중공업,20261110,"+787,033",28.40%,"+674,173","-1,488,645","16,270",950,"{'code': '2', 'text': '상승', 'name': 'RISING'}","5,035,972"
 010140,삼성중공업,20261109,"-550,300",28.15%,"-94,498","+658,242","15,170","-1,030","{'code': '5', 'text': '하락', 'name': 'FALLING'}","5,236,819"

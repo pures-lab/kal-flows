@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-086520,에코프로,20261112,"-166,722",17.68%,"+10,898","+153,102","71,100","-2,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","850,360"
+086520,에코프로,20261112,"-166,722",17.61%,"+10,898","+153,102","71,100","-2,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","867,462"
 086520,에코프로,20261111,"+202,108",17.80%,"+126,115","-328,430","73,400","6,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","1,227,015"
 086520,에코프로,20261110,"+98,024",17.33%,"+250,993","-349,329","65,500","4,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","861,439"
 086520,에코프로,20261109,"-349,983",17.43%,"+28,555","+320,309","60,100","-6,100","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,310,159"
