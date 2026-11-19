@@ -1,3 +1,3 @@
-run_at_kst=2026-11-20 01:08
+run_at_kst=2026-11-20 03:13
 [OK] tickers=104
 [FAIL] login: KRXAuthError: Login failed: _error_code='CD006' message='패스워드 불일치'
