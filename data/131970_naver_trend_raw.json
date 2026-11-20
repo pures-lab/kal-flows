@@ -1,9 +1,25 @@
 [
  {
   "itemCode": "131970",
+  "bizdate": "20261120",
+  "foreignerPureBuyQuant": "-36,535",
+  "foreignerHoldRatio": "7.22%",
+  "organPureBuyQuant": "-79,498",
+  "individualPureBuyQuant": "+115,149",
+  "closePrice": "65,900",
+  "compareToPreviousClosePrice": "-10,900",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "276,526"
+ },
+ {
+  "itemCode": "131970",
   "bizdate": "20261119",
   "foreignerPureBuyQuant": "-46,905",
-  "foreignerHoldRatio": "7.42%",
+  "foreignerHoldRatio": "7.41%",
   "organPureBuyQuant": "+33,404",
   "individualPureBuyQuant": "+12,082",
   "closePrice": "76,900",
@@ -942,21 +958,5 @@
    "name": "RISING"
   },
   "accumulatedTradingVolume": "173,194"
- },
- {
-  "itemCode": "131970",
-  "bizdate": "20260824",
-  "foreignerPureBuyQuant": "+31,383",
-  "foreignerHoldRatio": "11.57%",
-  "organPureBuyQuant": "-42,917",
-  "individualPureBuyQuant": "+11,112",
-  "closePrice": "75,100",
-  "compareToPreviousClosePrice": "-1,800",
-  "compareToPreviousPrice": {
-   "code": "5",
-   "text": "하락",
-   "name": "FALLING"
-  },
-  "accumulatedTradingVolume": "195,495"
  }
 ]
