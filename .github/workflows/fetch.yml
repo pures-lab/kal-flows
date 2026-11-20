@@ -9,7 +9,8 @@ on:
         default: false
   schedule:
     # Every 20 minutes, all day (KST = UTC+9). gate.py decides what to do:
-    # once today's data is saved, later runs stop without touching KRX.
+    # KRX regular-session data once after ~15:45 (prelim), final once after 20:20,
+    # then later runs stop without touching KRX.
     - cron: "7,27,47 * * * *"
 
 concurrency:
@@ -58,6 +59,7 @@ jobs:
           KRX_ID: ${{ secrets.KRX_ID }}
           KRX_PW: ${{ secrets.KRX_PW }}
           TARGET_DAY: ${{ steps.gate.outputs.target }}
+          KRX_PHASE: ${{ steps.gate.outputs.krx_phase }}
 
       - name: Show status
         if: steps.gate.outputs.any == 'true'
