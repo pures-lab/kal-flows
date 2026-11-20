@@ -15,6 +15,8 @@ import time
 import traceback
 from datetime import datetime, timedelta, timezone
 
+import json
+
 import pandas as pd
 
 KST = timezone(timedelta(hours=9))
@@ -22,7 +24,28 @@ OUT = "data/krx"
 TICKER_FILE = "tickers.txt"
 TIME_BUDGET_SEC = 9 * 60  # stop optional work after this (workflow step limit is 10 min)
 T0 = time.monotonic()
+STATE = f"{OUT}/state.json"
 status = []
+
+
+def load_state() -> dict:
+    try:
+        with open(STATE, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:  # noqa: BLE001
+        return {}
+
+
+def save_state(**kw) -> None:
+    state = load_state()
+    state.update(kw)
+    with open(STATE, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=1)
+
+
+def is_auth_error(e: Exception) -> bool:
+    text = f"{type(e).__name__} {e}"
+    return "Auth" in type(e).__name__ or "CD00" in text or "패스워드" in text or "아이디" in text
 
 
 def load_codes() -> dict:
@@ -55,6 +78,8 @@ def main() -> int:
     log(f"run_at_kst={now:%Y-%m-%d %H:%M}")
     codes = load_codes()
     log(f"[OK] tickers={len(codes)}")
+    target = os.environ.get("TARGET_DAY") or now.strftime("%Y%m%d")
+    log(f"target_day={target}")
     if not os.environ.get("KRX_ID") or not os.environ.get("KRX_PW"):
         log("[FAIL] KRX_ID/KRX_PW not set")
         return finish()
@@ -66,7 +91,13 @@ def main() -> int:
         log("[OK] login")
     except Exception as e:  # noqa: BLE001
         log(f"[FAIL] login: {type(e).__name__}: {e}")
+        if is_auth_error(e):
+            # Wrong ID/PW: stop all scheduled logins so the KRX account is not locked.
+            # Cleared by a manual run with reset_login=true after fixing the secret.
+            save_state(login_blocked={"at": f"{now:%Y-%m-%d %H:%M}", "error": str(e)[:200]})
+            log("[BLOCK] login blocked until secret is fixed (run workflow with reset_login)")
         return finish()
+    save_state(login_blocked=None)
 
     # code -> ISIN
     isin = {}
@@ -80,6 +111,7 @@ def main() -> int:
     end = now.strftime("%Y%m%d")
     start = (now - timedelta(days=90)).strftime("%Y%m%d")
     last_trade_day = None
+    first_code = next(iter(codes))
 
     # 1) per-stock detailed investor flows
     for code, name in codes.items():
@@ -102,11 +134,15 @@ def main() -> int:
             d0 = str(df[first_col[0]].iloc[0])
             last_trade_day = last_trade_day or d0
             log(f"[OK] {name}({code}) rows={len(df)} first_row_date={d0}")
+            if code == first_code and d0.replace("/", "").replace("-", "") < target:
+                # KRX has not published the target day yet: stop after one request.
+                log(f"[WAIT] KRX data for {target} not out yet (latest={d0})")
+                return finish()
         except Exception as e:  # noqa: BLE001
             log(f"[FAIL] {name}({code}): {type(e).__name__}: {e}")
             traceback.print_exc()
 
-    day = (last_trade_day or end).replace("/", "").replace("-", "")
+    day = target
 
     # 2) net-buy rankings (all stocks) for latest trading day
     for mkt in ["STK", "KSQ"]:
@@ -137,12 +173,14 @@ def main() -> int:
                 log(f"[FAIL] rank {tag}: {type(e).__name__}: {e}")
 
     # 3) 공매도 거래 (all stocks) for latest trading day
+    short_ok = False
     for mkt in ["STK", "KSQ"]:
         try:
             df = fetch("short_selling_individual", session=session, trdDd=day, mktId=mkt)
             if df.empty:
                 raise RuntimeError("empty")
             df.to_csv(f"{OUT}/short_trade_{mkt}.csv", index=False, encoding="utf-8-sig")
+            short_ok = short_ok or mkt == "STK"
             log(f"[OK] short_trade {mkt} day={day} rows={len(df)} cols={list(df.columns)[:12]}")
         except Exception as e:  # noqa: BLE001
             log(f"[FAIL] short_trade {mkt}: {type(e).__name__}: {e}")
@@ -199,6 +237,13 @@ def main() -> int:
             fails_in_row += 1
             log(f"[FAIL] short_balance {name}({code}): {type(e).__name__}: {str(e)[:160]}")
     log(f"short_balance ok={sb_ok}/{len(codes)} relogins={relogins}")
+
+    # Done for the day once flows + KOSPI short selling are saved: later runs skip KRX.
+    if last_trade_day and short_ok:
+        save_state(krx_day=target, krx_saved_at=f"{datetime.now(KST):%Y-%m-%d %H:%M}")
+        log(f"[DONE] KRX data for {target} saved; later runs today skip KRX")
+    else:
+        log("[RETRY] KRX data incomplete; next run will try again")
 
     return finish()
 
