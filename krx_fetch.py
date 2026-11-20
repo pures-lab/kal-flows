@@ -79,7 +79,8 @@ def main() -> int:
     codes = load_codes()
     log(f"[OK] tickers={len(codes)}")
     target = os.environ.get("TARGET_DAY") or now.strftime("%Y%m%d")
-    log(f"target_day={target}")
+    phase = os.environ.get("KRX_PHASE") or "final"
+    log(f"target_day={target} phase={phase}")
     if not os.environ.get("KRX_ID") or not os.environ.get("KRX_PW"):
         log("[FAIL] KRX_ID/KRX_PW not set")
         return finish()
@@ -238,10 +239,16 @@ def main() -> int:
             log(f"[FAIL] short_balance {name}({code}): {type(e).__name__}: {str(e)[:160]}")
     log(f"short_balance ok={sb_ok}/{len(codes)} relogins={relogins}")
 
-    # Done for the day once flows + KOSPI short selling are saved: later runs skip KRX.
+    # prelim (regular session) is saved once for the 18:00 analysis; final (incl. the
+    # 16:00-20:00 after-market) overwrites it after 20:20. After final, later runs skip KRX.
     if last_trade_day and short_ok:
-        save_state(krx_day=target, krx_saved_at=f"{datetime.now(KST):%Y-%m-%d %H:%M}")
-        log(f"[DONE] KRX data for {target} saved; later runs today skip KRX")
+        saved_at = f"{datetime.now(KST):%Y-%m-%d %H:%M}"
+        if phase == "final":
+            save_state(krx_day=target, krx_phase="final", krx_saved_at=saved_at)
+            log(f"[DONE] KRX FINAL data for {target} saved; later runs skip KRX")
+        else:
+            save_state(krx_prelim_day=target, krx_phase="prelim", krx_saved_at=saved_at)
+            log(f"[PRELIM] KRX regular-session data for {target} saved; final refresh after 20:20")
     else:
         log("[RETRY] KRX data incomplete; next run will try again")
 
