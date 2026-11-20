@@ -1,3 +1,5 @@
-run_at_kst=2026-11-20 06:47
+run_at_kst=2026-11-20 22:47
 [OK] tickers=104
+target_day=20261120
 [FAIL] login: KRXAuthError: Login failed: _error_code='CD006' message='패스워드 불일치'
+[BLOCK] login blocked until secret is fixed (run workflow with reset_login)

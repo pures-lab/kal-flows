@@ -1,7 +1,7 @@
 {
+ "naver_day": "20261120",
  "login_blocked": {
-  "at": "2026-11-20 06:47",
-  "error": "Login failed: _error_code=CD006 (password mismatch) x4 on 11/20 01:08-06:47"
- },
- "naver_day": "20261120"
+  "at": "2026-11-20 22:47",
+  "error": "Login failed: _error_code='CD006' message='패스워드 불일치'"
+ }
 }
