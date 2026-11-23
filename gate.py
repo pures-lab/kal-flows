@@ -37,18 +37,50 @@ def save_state(state: dict) -> None:
         json.dump(state, f, ensure_ascii=False, indent=1)
 
 
-def naver_days() -> list:
-    url = "https://m.stock.naver.com/api/stock/003490/trend?pageSize=3"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+def _get_json(url: str, referer: str = ""):
+    headers = {"User-Agent": "Mozilla/5.0"}
+    if referer:
+        headers["Referer"] = referer
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=20) as r:
-        return [str(x["bizdate"]) for x in json.load(r)]
+        return json.load(r)
+
+
+def trading_days() -> list:
+    """Recent KRX trading days, newest first (YYYYMMDD).
+
+    Daum daily candles get today's row as soon as trading starts, so they are the
+    main source. Naver's flow list only gets today's row in the evening (~20:18),
+    so it is used only as a fallback, topped up with today's date when Naver's
+    quote shows a trade today.
+    """
+    try:
+        d = _get_json(
+            "https://finance.daum.net/api/quote/A003490/days?symbolCode=A003490&page=1&perPage=5&pagination=true",
+            referer="https://finance.daum.net/quotes/A003490",
+        )
+        days = [str(x["date"])[:10].replace("-", "") for x in d["data"]]
+        if days:
+            return days
+    except Exception as e:  # noqa: BLE001
+        print(f"daum days failed: {type(e).__name__}: {e}")
+    days = [str(x["bizdate"]) for x in _get_json("https://m.stock.naver.com/api/stock/003490/trend?pageSize=3")]
+    try:
+        basic = _get_json("https://m.stock.naver.com/api/stock/003490/basic")
+        traded = str(basic.get("localTradedAt", ""))[:10].replace("-", "")
+        if traded and traded > days[0]:
+            days.insert(0, traded)
+    except Exception as e:  # noqa: BLE001
+        print(f"naver basic failed: {type(e).__name__}: {e}")
+    return days
 
 
 def target_day(now: datetime) -> str:
     today = now.strftime("%Y%m%d")
     hhmm = now.strftime("%H%M")
     try:
-        days = naver_days()
+        days = trading_days()
+        print(f"trading_days={days[:3]}")
         if days[0] == today and hhmm < CLOSE_HHMM:
             return days[1]
         return days[0]
