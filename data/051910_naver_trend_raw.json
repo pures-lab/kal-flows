@@ -1,9 +1,25 @@
 [
  {
   "itemCode": "051910",
+  "bizdate": "20261123",
+  "foreignerPureBuyQuant": "+1,250",
+  "foreignerHoldRatio": "35.98%",
+  "organPureBuyQuant": "-32,099",
+  "individualPureBuyQuant": "+30,616",
+  "closePrice": "194,200",
+  "compareToPreviousClosePrice": "-8,800",
+  "compareToPreviousPrice": {
+   "code": "5",
+   "text": "하락",
+   "name": "FALLING"
+  },
+  "accumulatedTradingVolume": "272,803"
+ },
+ {
+  "itemCode": "051910",
   "bizdate": "20261120",
   "foreignerPureBuyQuant": "+17,282",
-  "foreignerHoldRatio": "35.99%",
+  "foreignerHoldRatio": "35.98%",
   "organPureBuyQuant": "-25,593",
   "individualPureBuyQuant": "+8,189",
   "closePrice": "202,000",
@@ -942,21 +958,5 @@
    "name": "RISING"
   },
   "accumulatedTradingVolume": "119,913"
- },
- {
-  "itemCode": "051910",
-  "bizdate": "20260825",
-  "foreignerPureBuyQuant": "-29,118",
-  "foreignerHoldRatio": "37.34%",
-  "organPureBuyQuant": "+2,119",
-  "individualPureBuyQuant": "+29,985",
-  "closePrice": "263,000",
-  "compareToPreviousClosePrice": "-10,000",
-  "compareToPreviousPrice": {
-   "code": "5",
-   "text": "하락",
-   "name": "FALLING"
-  },
-  "accumulatedTradingVolume": "113,525"
  }
 ]
