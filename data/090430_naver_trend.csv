@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-090430,아모레퍼시픽,20261124,+105,26.25%,"+24,889","-21,484","138,500","2,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","159,943"
+090430,아모레퍼시픽,20261124,+105,26.15%,"+24,889","-21,484","138,500","2,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","159,943"
 090430,아모레퍼시픽,20261123,"-14,752",26.25%,"+20,387","-5,445","134,900","-4,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","133,581"
 090430,아모레퍼시픽,20261120,"+17,040",26.32%,"+2,254","-22,260","138,500","-4,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","232,532"
 090430,아모레퍼시픽,20261119,"+13,293",26.29%,"+48,784","-61,992","141,000","10,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","469,920"

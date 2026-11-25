@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-030200,KT,20261124,"-150,696",48.68%,"+114,742","+26,859","44,850",950,"{'code': '2', 'text': '상승', 'name': 'RISING'}","388,749"
+030200,KT,20261124,"-150,696",48.68%,"+114,742","+26,859","44,850",950,"{'code': '2', 'text': '상승', 'name': 'RISING'}","428,015"
 030200,KT,20261123,"-157,378",48.74%,"+54,060","+100,275","44,200","-1,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","474,125"
 030200,KT,20261120,"-75,471",48.82%,"-16,034","+91,927","45,850","-1,450","{'code': '5', 'text': '하락', 'name': 'FALLING'}","420,042"
 030200,KT,20261119,"+9,578",48.86%,"-161,760","+151,516","47,700","-1,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","783,074"

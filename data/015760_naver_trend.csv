@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-015760,한국전력,20261124,"+230,725",19.90%,"-255,448","+24,805","25,000",150,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,331,321"
+015760,한국전력,20261124,"+230,725",19.88%,"-255,448","+24,805","25,000",150,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,331,321"
 015760,한국전력,20261123,"+57,060",19.86%,"+88,645","-142,011","24,900",-650,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,459,729"
 015760,한국전력,20261120,"+459,464",19.85%,"+225,213","-679,291","25,550",300,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,961,050"
 015760,한국전력,20261119,"+15,283",19.75%,"-58,156","+42,664","25,350",250,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,221,768"

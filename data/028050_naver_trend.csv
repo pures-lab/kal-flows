@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-028050,삼성E&A,20261124,"+17,282",40.38%,"+78,383","-361,501","57,900","2,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,378,121"
+028050,삼성E&A,20261124,"+17,282",40.41%,"+78,383","-361,501","57,900","2,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","2,388,898"
 028050,삼성E&A,20261123,"-44,603",40.37%,"+2,341","-196,258","55,700","-4,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","4,318,765"
 028050,삼성E&A,20261120,"+113,748",40.39%,"-279,747","-82,505","58,800","-4,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,107,707"
 028050,삼성E&A,20261119,"+136,035",40.33%,"-254,479","-135,081","63,400",-700,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,872,197"

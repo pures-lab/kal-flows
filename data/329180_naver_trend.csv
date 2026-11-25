@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-329180,HD현대중공업,20261124,"+11,131",14.06%,"+5,813","-17,075","243,000","4,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","155,504"
+329180,HD현대중공업,20261124,"+11,131",14.02%,"+5,813","-17,075","243,000","4,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","162,437"
 329180,HD현대중공업,20261123,"+45,603",14.05%,"-28,142","-17,018","240,500","-6,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","177,193"
 329180,HD현대중공업,20261120,"+43,290",14.00%,"-48,559","+6,383","247,000","-14,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","197,973"
 329180,HD현대중공업,20261119,-137,13.96%,"+2,100","-2,071","261,000","5,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","147,451"

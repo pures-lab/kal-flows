@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-035900,JYP Ent.,20261124,"-12,172",16.42%,"+107,513","-89,647","45,900",350,"{'code': '2', 'text': '상승', 'name': 'RISING'}","677,391"
+035900,JYP Ent.,20261124,"-12,172",16.39%,"+107,513","-89,647","45,900",350,"{'code': '2', 'text': '상승', 'name': 'RISING'}","677,391"
 035900,JYP Ent.,20261123,"+73,805",16.45%,"-19,844","-55,038","44,750","-2,250","{'code': '5', 'text': '하락', 'name': 'FALLING'}","599,128"
 035900,JYP Ent.,20261120,"+150,868",15.86%,"+86,866","-244,181","46,250","-1,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,034,240"
 035900,JYP Ent.,20261119,"-498,855",14.47%,"-19,257","+525,641","47,100",350,"{'code': '2', 'text': '상승', 'name': 'RISING'}","2,514,367"

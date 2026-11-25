@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-003230,삼양식품,20261124,"+8,055",18.11%,"-6,093","-2,575","1,205,000","13,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","29,299"
+003230,삼양식품,20261124,"+8,055",18.09%,"-6,093","-2,575","1,205,000","13,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","29,299"
 003230,삼양식품,20261123,"+2,286",18.00%,-342,"-1,626","1,193,000","-40,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","33,523"
 003230,삼양식품,20261120,"+7,230",17.99%,"-2,688","-4,574","1,221,000","-29,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","24,753"
 003230,삼양식품,20261119,"+1,636",17.92%,"-5,259","+3,059","1,252,000","-21,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","37,181"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-161890,한국콜마,20261124,"-3,386",40.84%,"+24,878","-21,958","121,500","5,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","129,012"
+161890,한국콜마,20261124,"-3,386",40.86%,"+24,878","-21,958","121,500","5,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","129,012"
 161890,한국콜마,20261123,"-44,008",40.86%,"+43,708",-149,"116,400",100,"{'code': '2', 'text': '상승', 'name': 'RISING'}","169,997"
 161890,한국콜마,20261120,"-42,080",41.03%,"+39,866","+2,574","115,600","-3,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","101,803"
 161890,한국콜마,20261119,"-56,185",41.17%,"+26,404","+29,819","117,300","2,600","{'code': '2', 'text': '상승', 'name': 'RISING'}","218,278"

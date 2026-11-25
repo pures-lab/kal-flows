@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-068270,셀트리온,20261124,"-9,447",25.70%,"+56,969","-48,316","207,000","5,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","389,387"
+068270,셀트리온,20261124,"-9,447",25.71%,"+56,969","-48,316","207,000","5,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","389,387"
 068270,셀트리온,20261123,"-27,363",25.70%,"+95,482","-63,681","202,500","-10,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","451,754"
 068270,셀트리온,20261120,"+104,189",25.71%,"+25,368","-128,978","212,500","-2,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","588,339"
 068270,셀트리온,20261119,"+74,695",25.67%,"+71,364","-146,954","214,500","7,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","503,358"

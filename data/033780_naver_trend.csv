@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-033780,KT&G,20261124,"-50,376",49.77%,"+8,789","-18,639","183,300","4,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","269,565"
+033780,KT&G,20261124,"-50,376",49.78%,"+8,789","-18,639","183,300","4,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","269,565"
 033780,KT&G,20261123,"-55,615",49.82%,"-4,189","-18,664","179,400","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","324,681"
 033780,KT&G,20261120,"-52,306",49.80%,"-19,856","-6,244","181,100","-1,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","300,189"
 033780,KT&G,20261119,"-43,547",49.85%,"-24,611","-11,841","182,500",500,"{'code': '2', 'text': '상승', 'name': 'RISING'}","255,756"

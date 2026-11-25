@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-000100,유한양행,20261124,"+35,799",21.66%,"-48,571","+11,973","76,700",900,"{'code': '2', 'text': '상승', 'name': 'RISING'}","194,567"
+000100,유한양행,20261124,"+35,799",21.45%,"-48,571","+11,973","76,700",900,"{'code': '2', 'text': '상승', 'name': 'RISING'}","194,567"
 000100,유한양행,20261123,"-19,482",21.61%,"+6,487","+13,695","76,100","-4,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","168,661"
 000100,유한양행,20261120,"+12,427",21.67%,"+26,546","-38,985","80,400",-900,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","147,399"
 000100,유한양행,20261119,"+4,650",22.02%,"+13,084","-17,774","80,900",800,"{'code': '2', 'text': '상승', 'name': 'RISING'}","106,548"

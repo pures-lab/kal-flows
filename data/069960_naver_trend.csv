@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-069960,현대백화점,20261124,"+14,757",25.37%,"-6,653","-7,485","90,200",500,"{'code': '2', 'text': '상승', 'name': 'RISING'}","68,500"
+069960,현대백화점,20261124,"+14,757",25.41%,"-6,653","-7,485","90,200",500,"{'code': '2', 'text': '상승', 'name': 'RISING'}","68,500"
 069960,현대백화점,20261123,"+11,333",25.30%,"+1,652","-11,432","90,100","-8,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","117,592"
 069960,현대백화점,20261120,"-41,940",25.20%,"+57,620","-15,466","98,500",900,"{'code': '2', 'text': '상승', 'name': 'RISING'}","151,567"
 069960,현대백화점,20261119,"-17,649",25.39%,"+41,710","-22,483","97,600","2,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","150,323"

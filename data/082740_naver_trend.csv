@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-082740,한화엔진,20261124,"+195,195",17.40%,"-21,915","-173,906","21,450","1,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","778,448"
+082740,한화엔진,20261124,"+195,195",17.51%,"-21,915","-173,906","21,450","1,300","{'code': '2', 'text': '상승', 'name': 'RISING'}","778,448"
 082740,한화엔진,20261123,"+100,654",17.16%,"-143,396","+57,680","20,450","-1,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","807,278"
 082740,한화엔진,20261120,"+41,760",17.01%,"-95,689","+53,356","21,550","-2,300","{'code': '5', 'text': '하락', 'name': 'FALLING'}","485,193"
 082740,한화엔진,20261119,-420,16.89%,"+1,476","-1,607","23,950",450,"{'code': '2', 'text': '상승', 'name': 'RISING'}","298,996"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-042700,한미반도체,20261124,"+16,974",7.71%,"+78,853","-95,120","155,800","5,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","663,129"
+042700,한미반도체,20261124,"+16,974",7.70%,"+78,853","-95,120","155,800","5,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","663,129"
 042700,한미반도체,20261123,"+82,980",7.70%,"-39,760","-43,929","154,100",300,"{'code': '2', 'text': '상승', 'name': 'RISING'}","846,264"
 042700,한미반도체,20261120,"+10,606",7.55%,"-156,782","+145,647","151,600","-20,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","717,458"
 042700,한미반도체,20261119,"-61,402",7.78%,"+27,680","+33,724","171,900","4,200","{'code': '2', 'text': '상승', 'name': 'RISING'}","629,668"

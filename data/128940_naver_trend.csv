@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-128940,한미약품,20261124,"-7,453",10.51%,"+14,361","-8,173","450,500","14,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","65,019"
+128940,한미약품,20261124,"-7,453",10.52%,"+14,361","-8,173","450,500","14,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","65,019"
 128940,한미약품,20261123,"-23,831",10.57%,"+7,924","+15,657","435,500","-14,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","90,347"
 128940,한미약품,20261120,"-53,371",10.85%,"+90,296","-36,431","449,500","27,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","209,745"
 128940,한미약품,20261119,"+1,914",11.28%,"-1,413",-95,"424,500","-14,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","55,977"

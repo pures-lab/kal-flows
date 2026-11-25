@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-036570,NC,20261124,"-1,032",39.32%,"+1,631",-618,"169,400",500,"{'code': '2', 'text': '상승', 'name': 'RISING'}","68,339"
+036570,NC,20261124,"-1,032",39.32%,"+1,631",-618,"169,400",500,"{'code': '2', 'text': '상승', 'name': 'RISING'}","68,341"
 036570,NC,20261123,"-9,526",39.33%,-475,"+9,868","169,000","-10,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","84,694"
 036570,NC,20261120,"+13,694",39.40%,"-2,959","-10,741","179,400","-4,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","82,477"
 036570,NC,20261119,"+2,238",39.34%,"-8,921","+6,671","184,600",100,"{'code': '2', 'text': '상승', 'name': 'RISING'}","104,561"
