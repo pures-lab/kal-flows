@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-000810,삼성화재,20261125,"-2,347",56.70%,"+5,284","-2,668","513,000","2,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","59,716"
+000810,삼성화재,20261125,"-2,347",56.68%,"+5,284","-2,668","513,000","2,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","59,716"
 000810,삼성화재,20261124,"-3,462",56.71%,"+7,863","-4,358","500,000","18,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","60,348"
 000810,삼성화재,20261123,"-10,833",56.72%,"+8,939","+2,312","483,500","-27,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","87,431"
 000810,삼성화재,20261120,"-1,391",56.75%,"+2,132",-773,"507,000","-18,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","115,594"

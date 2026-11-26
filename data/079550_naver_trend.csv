@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-079550,LIG디펜스앤에어로스페이스,20261125,"-11,966",27.80%,"+24,893","-14,185","382,500","16,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","140,669"
+079550,LIG디펜스앤에어로스페이스,20261125,"-11,966",27.82%,"+24,893","-14,185","382,500","16,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","140,669"
 079550,LIG디펜스앤에어로스페이스,20261124,"+9,360",27.85%,"-2,765","-6,594","354,000","18,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","123,883"
 079550,LIG디펜스앤에어로스페이스,20261123,"+2,228",27.74%,"+1,155","-3,272","340,000","-8,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","88,236"
 079550,LIG디펜스앤에어로스페이스,20261120,"-7,946",27.71%,"-2,543","+10,475","346,000","-25,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","72,557"

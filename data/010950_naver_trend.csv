@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-010950,S-Oil,20261125,"+13,533",81.15%,"-1,186","-15,461","95,600","1,200","{'code': '2', 'text': '상승', 'name': 'RISING'}","206,594"
+010950,S-Oil,20261125,"+13,533",81.11%,"-1,186","-15,461","95,600","1,200","{'code': '2', 'text': '상승', 'name': 'RISING'}","206,594"
 010950,S-Oil,20261124,"+68,724",81.13%,"-56,823","-11,163","93,700",400,"{'code': '2', 'text': '상승', 'name': 'RISING'}","323,290"
 010950,S-Oil,20261123,"+112,188",81.07%,"-4,611","-102,136","93,400","-3,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","382,770"
 010950,S-Oil,20261120,"+174,757",80.96%,"-75,084","-100,833","97,000","-4,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","368,497"

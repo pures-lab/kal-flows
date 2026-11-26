@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-017670,SK텔레콤,20261125,"+7,116",35.10%,"+120,973","-128,127","65,500","-1,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","965,041"
+017670,SK텔레콤,20261125,"+7,116",35.12%,"+120,973","-128,127","65,500","-1,700","{'code': '5', 'text': '하락', 'name': 'FALLING'}","965,041"
 017670,SK텔레콤,20261124,"-50,051",35.10%,"+98,328","-45,084","65,500",900,"{'code': '2', 'text': '상승', 'name': 'RISING'}","1,445,133"
 017670,SK텔레콤,20261123,"-46,825",35.11%,"-120,820","+174,689","65,500","-4,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","1,837,576"
 017670,SK텔레콤,20261120,"-406,848",35.15%,"-402,319","+805,828","69,200","-11,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,184,535"

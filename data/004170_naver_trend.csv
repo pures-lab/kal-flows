@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-004170,신세계,20261125,"-8,963",28.82%,"+16,944","-8,143","273,000","4,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","67,675"
+004170,신세계,20261125,"-8,963",28.99%,"+16,944","-8,143","273,000","4,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","67,675"
 004170,신세계,20261124,"+1,999",28.92%,"+5,853","-7,516","266,000","-3,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","51,061"
 004170,신세계,20261123,"-15,991",29.12%,"+19,021","-2,741","271,000","-17,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","66,027"
 004170,신세계,20261120,"-59,644",29.28%,"+61,452","-1,837","290,000","-5,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","117,370"

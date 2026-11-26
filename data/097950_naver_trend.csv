@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-097950,CJ제일제당,20261125,"+38,787",13.25%,"+20,457","-55,634","189,600","9,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","96,924"
+097950,CJ제일제당,20261125,"+38,787",13.10%,"+20,457","-55,634","189,600","9,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","96,924"
 097950,CJ제일제당,20261124,"+12,433",12.99%,"-10,834","-1,826","177,800","1,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","40,430"
 097950,CJ제일제당,20261123,"+9,149",13.10%,-467,"-8,467","176,700","-5,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","45,547"
 097950,CJ제일제당,20261120,"+22,406",13.03%,"+3,234","-25,438","182,500","-2,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","59,453"

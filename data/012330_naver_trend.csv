@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-012330,현대모비스,20261125,"-68,286",36.83%,"+73,151","-5,227","346,500","-12,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","218,719"
+012330,현대모비스,20261125,"-68,286",36.84%,"+73,151","-5,227","346,500","-12,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","218,719"
 012330,현대모비스,20261124,"-22,433",36.91%,"+78,678","-56,386","344,500","31,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","339,239"
 012330,현대모비스,20261123,"-15,140",36.91%,"+23,423","-6,710","315,500","-7,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","182,888"
 012330,현대모비스,20261120,"-24,139",36.91%,"+16,966","+6,647","322,000","-19,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","219,292"

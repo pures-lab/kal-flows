@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-006400,삼성SDI,20261125,"-6,961",24.49%,"-69,876","+75,870","409,000","-41,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","449,089"
+006400,삼성SDI,20261125,"-6,961",24.45%,"-69,876","+75,870","409,000","-41,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","449,089"
 006400,삼성SDI,20261124,"+92,199",24.50%,"+231,917","-321,661","431,000","35,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","779,875"
 006400,삼성SDI,20261123,"+41,657",24.27%,"+7,154","-46,401","401,500","-1,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","522,198"
 006400,삼성SDI,20261120,"+4,667",24.21%,"-43,226","+37,535","398,500","-30,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","459,592"

@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-139480,이마트,20261125,"+13,376",22.42%,"+6,438","-19,430","62,900",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","88,862"
+139480,이마트,20261125,"+13,376",22.45%,"+6,438","-19,430","62,900",0,"{'code': '3', 'text': '보합', 'name': 'UNCHANGED'}","88,862"
 139480,이마트,20261124,"-10,621",22.37%,"+10,582",-307,"62,200",400,"{'code': '2', 'text': '상승', 'name': 'RISING'}","94,189"
 139480,이마트,20261123,"+1,883",22.46%,"-1,587",+927,"62,300","-1,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","126,286"
 139480,이마트,20261120,"+14,184",22.44%,-568,"-11,942","63,500","-1,200","{'code': '5', 'text': '하락', 'name': 'FALLING'}","80,270"

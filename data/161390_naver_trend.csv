@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-161390,한국타이어앤테크놀로지,20261125,"+13,064",39.08%,"+8,553","-19,100","61,600",-800,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","147,539"
+161390,한국타이어앤테크놀로지,20261125,"+13,064",39.09%,"+8,553","-19,100","61,600",-800,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","147,539"
 161390,한국타이어앤테크놀로지,20261124,"-10,146",39.07%,"+26,875","-16,861","61,500","3,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","207,968"
 161390,한국타이어앤테크놀로지,20261123,"-54,742",39.08%,"+53,616","+1,293","58,700","-2,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","423,467"
 161390,한국타이어앤테크놀로지,20261120,"-16,083",39.12%,"+19,189","+1,812","61,300","-1,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","345,117"

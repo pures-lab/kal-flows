@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-030530,원익홀딩스,20261125,"+86,516",4.19%,"-421,054","+240,560","26,950","-4,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","4,963,390"
+030530,원익홀딩스,20261125,"+86,516",4.26%,"-421,054","+240,560","26,950","-4,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","4,963,390"
 030530,원익홀딩스,20261124,"-254,110",4.07%,"-345,259","+544,368","30,050","-2,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","11,240,598"
 030530,원익홀딩스,20261123,"+2,742",4.39%,"+197,052","-210,149","32,650","1,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","4,766,160"
 030530,원익홀딩스,20261120,"-134,633",4.39%,"-159,807","+319,064","30,600","-4,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","3,617,964"
