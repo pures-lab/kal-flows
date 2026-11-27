@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-272210,한화시스템,20261126,"-82,482",9.72%,"+195,925","-115,204","49,200","1,950","{'code': '2', 'text': '상승', 'name': 'RISING'}","509,264"
+272210,한화시스템,20261126,"-82,482",9.73%,"+195,925","-115,204","49,200","1,950","{'code': '2', 'text': '상승', 'name': 'RISING'}","509,264"
 272210,한화시스템,20261125,"-23,387",9.76%,"+35,021","-11,938","46,200","-1,600","{'code': '5', 'text': '하락', 'name': 'FALLING'}","450,233"
 272210,한화시스템,20261124,"+95,632",9.75%,"+23,051","-118,690","46,300","1,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","422,298"
 272210,한화시스템,20261123,"+89,726",9.69%,"-61,627","-28,630","44,850","-1,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","488,387"

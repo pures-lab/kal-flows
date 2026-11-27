@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-051910,LG화학,20261126,"+8,685",36.10%,"-15,792","+2,342","208,000","1,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","144,224"
+051910,LG화학,20261126,"+8,685",36.11%,"-15,792","+2,342","208,000","1,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","181,724"
 051910,LG화학,20261125,-886,36.09%,-776,"-3,163","206,000","-7,500","{'code': '5', 'text': '하락', 'name': 'FALLING'}","185,282"
 051910,LG화학,20261124,"+33,894",36.08%,"+40,402","-73,258","206,500","13,900","{'code': '2', 'text': '상승', 'name': 'RISING'}","277,173"
 051910,LG화학,20261123,"+1,250",35.99%,"-32,099","+30,616","194,200","-8,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","272,803"

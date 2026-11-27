@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-326030,SK바이오팜,20261126,"-94,669",10.76%,"+127,261","-40,013","91,300","1,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","212,010"
+326030,SK바이오팜,20261126,"-94,669",10.74%,"+127,261","-40,013","91,300","1,800","{'code': '2', 'text': '상승', 'name': 'RISING'}","212,010"
 326030,SK바이오팜,20261125,"-53,706",10.88%,"+126,977","-73,764","88,500","4,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","239,569"
 326030,SK바이오팜,20261124,"-29,855",10.93%,"+3,795","+23,605","82,500","1,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","187,678"
 326030,SK바이오팜,20261123,"-25,111",10.94%,"+21,076","+5,304","81,900","-4,900","{'code': '5', 'text': '하락', 'name': 'FALLING'}","150,777"

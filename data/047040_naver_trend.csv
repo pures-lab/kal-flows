@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-047040,대우건설,20261126,"-14,864",10.45%,"-232,863","+227,921","9,870",-150,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,298,475"
+047040,대우건설,20261126,"-14,864",10.27%,"-232,863","+227,921","9,870",-150,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,298,475"
 047040,대우건설,20261125,"+16,556",10.46%,"-115,938","+93,780","9,760",-760,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,265,000"
 047040,대우건설,20261124,"+706,421",10.45%,"+461,412","-1,160,254","10,110",390,"{'code': '2', 'text': '상승', 'name': 'RISING'}","3,371,908"
 047040,대우건설,20261123,"+6,080",10.28%,"-42,557","+54,687","9,890",-570,"{'code': '5', 'text': '하락', 'name': 'FALLING'}","4,968,041"

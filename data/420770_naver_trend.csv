@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-420770,기가비스,20261126,"+18,110",5.35%,"-10,901","-6,932","69,900","1,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","73,990"
+420770,기가비스,20261126,"+18,110",5.60%,"-10,901","-6,932","69,900","1,700","{'code': '2', 'text': '상승', 'name': 'RISING'}","73,990"
 420770,기가비스,20261125,"+15,657",5.21%,"-6,070","-9,276","66,100","-7,100","{'code': '5', 'text': '하락', 'name': 'FALLING'}","81,156"
 420770,기가비스,20261124,"+6,992",5.05%,"-5,601",-795,"70,800",100,"{'code': '2', 'text': '상승', 'name': 'RISING'}","96,289"
 420770,기가비스,20261123,"+7,921",5.21%,"+3,106","-9,689","73,100","2,400","{'code': '2', 'text': '상승', 'name': 'RISING'}","90,774"

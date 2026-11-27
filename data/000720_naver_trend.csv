@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-000720,현대건설,20261126,"+21,349",26.50%,"+3,100","-24,994","67,400",900,"{'code': '2', 'text': '상승', 'name': 'RISING'}","300,530"
+000720,현대건설,20261126,"+21,349",26.51%,"+3,100","-24,994","67,400",900,"{'code': '2', 'text': '상승', 'name': 'RISING'}","300,530"
 000720,현대건설,20261125,"+68,089",26.48%,"-31,894","-36,564","65,000","-4,800","{'code': '5', 'text': '하락', 'name': 'FALLING'}","315,371"
 000720,현대건설,20261124,"+76,672",26.42%,"+30,659","-107,041","67,400","1,100","{'code': '2', 'text': '상승', 'name': 'RISING'}","477,554"
 000720,현대건설,20261123,"+32,939",26.35%,"-59,800","+30,083","67,300","-5,400","{'code': '5', 'text': '하락', 'name': 'FALLING'}","646,782"

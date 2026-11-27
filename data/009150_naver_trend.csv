@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-009150,삼성전기,20261126,"+83,470",34.45%,"+74,362","-156,113","785,000","30,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","794,205"
+009150,삼성전기,20261126,"+83,470",34.73%,"+74,362","-156,113","785,000","30,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","794,205"
 009150,삼성전기,20261125,"-161,460",34.33%,"-105,511","+264,379","748,000","-110,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","849,712"
 009150,삼성전기,20261124,"+90,435",34.63%,"+107,899","-200,741","820,000","42,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","864,961"
 009150,삼성전기,20261123,"+4,291",34.45%,"+48,801","-52,446","797,000","23,000","{'code': '2', 'text': '상승', 'name': 'RISING'}","911,747"

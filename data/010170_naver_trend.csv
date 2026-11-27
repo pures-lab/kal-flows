@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-010170,대한광통신,20261126,"+352,589",6.85%,"-15,761","-347,999","13,660",270,"{'code': '2', 'text': '상승', 'name': 'RISING'}","2,345,539"
+010170,대한광통신,20261126,"+352,589",6.82%,"-15,761","-347,999","13,660",270,"{'code': '2', 'text': '상승', 'name': 'RISING'}","2,345,539"
 010170,대한광통신,20261125,"-199,593",6.62%,"-5,156","+197,156","13,390","-1,470","{'code': '5', 'text': '하락', 'name': 'FALLING'}","2,711,125"
 010170,대한광통신,20261124,"+1,819,421",6.76%,"+53,604","-1,857,388","14,270",390,"{'code': '2', 'text': '상승', 'name': 'RISING'}","8,266,388"
 010170,대한광통신,20261123,"+240,043",5.62%,"+10,377","-199,326","14,170",190,"{'code': '2', 'text': '상승', 'name': 'RISING'}","5,267,674"

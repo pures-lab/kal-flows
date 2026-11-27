@@ -1,5 +1,5 @@
 ﻿itemCode,name,bizdate,foreignerPureBuyQuant,foreignerHoldRatio,organPureBuyQuant,individualPureBuyQuant,closePrice,compareToPreviousClosePrice,compareToPreviousPrice,accumulatedTradingVolume
-009540,HD한국조선해양,20261126,"-1,474",33.42%,"+7,894","-6,099","222,500","1,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","104,420"
+009540,HD한국조선해양,20261126,"-1,474",33.58%,"+7,894","-6,099","222,500","1,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","104,420"
 009540,HD한국조선해양,20261125,"+4,526",33.42%,"+7,564","-13,399","218,000","-7,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","142,938"
 009540,HD한국조선해양,20261124,"+16,450",33.40%,+322,"-16,209","220,000","6,500","{'code': '2', 'text': '상승', 'name': 'RISING'}","141,511"
 009540,HD한국조선해양,20261123,"+27,967",33.24%,"-16,378","-7,874","214,500","-8,000","{'code': '5', 'text': '하락', 'name': 'FALLING'}","155,969"
